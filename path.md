@@ -1,8 +1,6 @@
 # My web dev path
 
-- I update this Gist regularly as I keep learning!
-- My projects are linked in the 2nd file in this Gist.
-- My resources are linked in the 3rd file in this Gist.
+Everyone has their own journey and this has been mine up till now!
 
 ## My method of learning
 
