@@ -45,10 +45,12 @@ Learn and apply in an infinite loop.
 
 - Git
 - Browser DevTools
-- Web components
-- SVG
 
 > TIP: At this point, make a static website. (Eg: Your portfolio website or the front end for a larger project to which you can add the back end later.)
+
+- RegEx
+- Web components
+- SVG
 
 ### Databases
 
