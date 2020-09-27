@@ -44,6 +44,10 @@ The crash course in each section is the bare minimum that should be done.
    - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
    - [`element.dataset` property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset)
    - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
+   - JS internals (absolute beginners can skip)
+      - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
+      - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
+      - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
 
 ### Misc
 
