@@ -59,6 +59,10 @@ The crash course in each section is the bare minimum that should be done.
 
 > NOTE: The DevTools are similar in almost all browsers, so the above resources are fine.
 
+- RegEx
+   - [RegEx crash course](https://www.youtube.com/watch?v=rhzKDrUiJVk)
+   - [RegEx summarised in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
+
 - Web components
    - [Web components crash course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
