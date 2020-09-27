@@ -9,5 +9,3 @@ Have a look at:
 - [My path](path.md)
 - [My resources](resources.md)
 - [My projects](projects.md)
-
-> Give the repo a star :star: if you like it!
