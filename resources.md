@@ -94,9 +94,11 @@ The crash course in each section is the bare minimum that should be done.
 
 - Node.js
    - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+   - [Middleware](https://thenextbigwriter.tech/middlewares-in-express-js-ck8d87su900w3xes1ny80u28q)
    
 - Express.js
    - [Crash course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+   - [Body parser](https://stackoverflow.com/a/43626891/11958552)
 
 - REST (RESTful) APIs
    - [What is REST?](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
