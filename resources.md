@@ -42,7 +42,7 @@ The crash course in each section is the bare minimum that should be done.
    - [`var` vs `let` vs `const`](https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/)
    - [Document Object Model (DOM)](https://medium.com/@EdidiongAsikpo/getting-started-with-the-dom-d27907f17be0)
    - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
-   - [`element.dataset` property](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset)
+   - [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
    - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
    - JS internals (absolute beginners can skip)
       - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
