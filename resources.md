@@ -24,12 +24,12 @@ The crash course in each section is the bare minimum that should be done.
    - Selectors [PDF](https://webdevsimplified.com/specificity-cheat-sheet.html) or [article](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
    - [`display` property](https://alligator.io/css/display-inline-vs-inline-block/)
    - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
-   - **CSS Flexbox**
-      - [CSS Flexbox livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
+   - CSS Flexbox
+      - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
       - https://github.com/MadhavBahlMD/flex
-      - [CSS Flexbox crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this yet)
-   - **CSS Grid**
-      - [CSS Grid crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
+      - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this.)
+   - CSS Grid
+      - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
       - [Browser extension *Gridman* for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) ([only Firefox DevTools have an inbuilt CSS Grid inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts))
    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
    - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
@@ -54,10 +54,12 @@ The crash course in each section is the bare minimum that should be done.
 
 ### Misc
 
-- Git
-   - [Crash course on Git and GitHub by me](https://www.youtube.com/watch?v=HF12-91iazM)
+- Git and GitHub
+   - Sessions by me
+      - [Crash course](https://www.youtube.com/watch?v=HF12-91iazM)
+      - [Open Source, Hacktoberfest and Pull Requests](https://www.youtube.com/watch?v=uJdFNksgKJA)
    - [git_basics web site](https://harshkapadia2.github.io/git_basics/)
-   - [Crash course on Git and GitHub by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+   - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 - Browser DevTools
    - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
