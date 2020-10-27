@@ -1,12 +1,13 @@
 # My web dev resources
 
-The crash course in each section is the bare minimum that should be done.
+- The crash course in each section is the bare minimum that should be done.
+- The resources have been aligned in a logical manner that should be followed.
 
 ## My resources
 
-### Prerequisite
+### Prerequisites
 
-- Browser (Any one from Chrome, Edge, Brave or Firefox are preferred.)
+- Browser (Chrome, Edge, Brave or Firefox are preferred.)
 - [Set up VSCode](https://www.youtube.com/watch?v=fnPhJHN0jTE)
 
 ### Front end
@@ -30,7 +31,7 @@ The crash course in each section is the bare minimum that should be done.
       - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this.)
    - CSS Grid
       - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
-      - [Browser extension *Gridman* for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) ([only Firefox DevTools have an inbuilt CSS Grid inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts))
+      - [Browser extension *Gridman* for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) (Incase the DevTools don't support CSS Grid.)
    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
    - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
    - [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
@@ -60,6 +61,15 @@ The crash course in each section is the bare minimum that should be done.
       - [Open Source, Hacktoberfest and Pull Requests](https://www.youtube.com/watch?v=uJdFNksgKJA)
    - [git_basics web site](https://harshkapadia2.github.io/git_basics/)
    - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+
+- [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
+
+- [JavaScript Object Notation (JSON)](https://www.youtube.com/watch?v=iiADhChRriM)
+
+- APIs
+   - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+   - [REST in short](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
+   - [Some public APIs](https://github.com/public-apis/public-apis)
 
 - Browser DevTools
    - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
@@ -92,10 +102,7 @@ The crash course in each section is the bare minimum that should be done.
 
 ### JS back end
 
-- Prerequisites
-   - [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
-   - [JSON](https://www.youtube.com/watch?v=iiADhChRriM)
-   - [APIs](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+- Prerequisite
    - [Asynchronous JS](https://www.youtube.com/watch?v=_8gHHBlbziw)
 
 - Node.js
@@ -106,10 +113,8 @@ The crash course in each section is the bare minimum that should be done.
    - [Crash course](https://www.youtube.com/watch?v=L72fhGm1tfE)
    - [Body parser](https://stackoverflow.com/a/43626891/11958552)
 
-- REST (RESTful) APIs
-   - [What is REST?](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
+- JS REST API
    - [Node.js (Express.js) and MongoDB REST API](https://www.youtube.com/watch?v=vjf774RKrLc)
-   - [Some public APIs](https://github.com/public-apis/public-apis)
 
 ### JS front end frameworks/libraries
 
@@ -124,8 +129,7 @@ The crash course in each section is the bare minimum that should be done.
 
 ### Python back end
 
-- Prerequisites
-   - [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
+- Prerequisite
    - [Python basics](https://www.youtube.com/watch?v=JJmcL1N2KQs)
    
 - Flask
