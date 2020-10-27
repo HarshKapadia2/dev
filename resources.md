@@ -64,7 +64,7 @@
 
 - [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
 
-- [JavaScript Object Notation (JSON)](https://www.youtube.com/watch?v=iiADhChRriM)
+- [JavaScript Object Notation](https://www.youtube.com/watch?v=iiADhChRriM) (JSON)
 
 - APIs
    - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
@@ -136,6 +136,14 @@
    - [Crash course](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
    - [*Tech With Tim*'s series](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
    - [Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+
+### PHP
+
+- Prerequisite
+   - [PHP basics](https://www.youtube.com/watch?v=oJbfyzaA2QA&list=PLillGF-Rfqbap2IB6ZS4BBBcYPagAjpjn&index=1)
+   - [PHP Data Objects](https://www.youtube.com/watch?v=kEW6f7Pilc4) (PDO)
+- PHP REST API
+   - [Crash course](https://www.youtube.com/watch?v=OEWXbpUMODk&list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo&index=1)
 
 ### Common path for everyone
 
