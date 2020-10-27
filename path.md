@@ -62,7 +62,7 @@ Learn and apply in an infinite loop.
 - Prerequisites
    - HTTP methods and status codes
    - JSON
-   - APIs
+   - REST APIs
    - Asynchronous JS
 - Node.js
 - Express.js
@@ -84,11 +84,20 @@ Learn and apply in an infinite loop.
 ### Python back end
 
 - Prerequisites
-   - HTTP methods and status codes
    - Python basics
+   - HTTP methods and status codes
+   - REST APIs
 - Common Python web dev frameworks
    - Flask
    - Django (I still have to do this)
+
+### PHP
+
+- Prerequisites
+   - HTTP methods and status codes
+   - REST APIs
+   - PHP Data Objects (PDO)
+- PHP REST API
 
 > TIP: Make a dynamic website. (Eg: Either add a back end to the previously made front end or make a new webapp from scratch.)
 
