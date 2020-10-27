@@ -44,6 +44,9 @@ Learn and apply in an infinite loop.
 ### Misc
 
 - Git
+- HTTP methods and status codes
+- JavaScript Object Notation (JSON)
+- APIs
 - Browser DevTools
 
 > TIP: At this point, make a static website. (Eg: Your portfolio website or the front end for a larger project to which you can add the back end later.)
@@ -59,10 +62,7 @@ Learn and apply in an infinite loop.
 
 ### JS back end
 
-- Prerequisites
-   - HTTP methods and status codes
-   - JSON
-   - REST APIs
+- Prerequisite
    - Asynchronous JS
 - Node.js
 - Express.js
@@ -83,10 +83,8 @@ Learn and apply in an infinite loop.
 
 ### Python back end
 
-- Prerequisites
+- Prerequisite
    - Python basics
-   - HTTP methods and status codes
-   - REST APIs
 - Common Python web dev frameworks
    - Flask
    - Django (I still have to do this)
@@ -94,8 +92,7 @@ Learn and apply in an infinite loop.
 ### PHP
 
 - Prerequisites
-   - HTTP methods and status codes
-   - REST APIs
+   - PHP basics
    - PHP Data Objects (PDO)
 - PHP REST API
 
