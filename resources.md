@@ -63,15 +63,6 @@
    - [git_basics web site](https://harshkapadia2.github.io/git_basics/)
    - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-- [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
-
-- [JavaScript Object Notation](https://www.youtube.com/watch?v=iiADhChRriM) (JSON)
-
-- APIs
-   - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
-   - [REST in short](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
-   - [Some public APIs](https://github.com/public-apis/public-apis)
-
 - Browser DevTools
    - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
    - [Chrome DevTools documentation](https://developers.google.com/web/tools/chrome-devtools/)
@@ -88,6 +79,17 @@
 
 - SVG
    - [Get started](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368)
+
+### General back end prerequisites
+
+- [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
+
+- [JavaScript Object Notation](https://www.youtube.com/watch?v=iiADhChRriM) (JSON)
+
+- APIs
+   - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
+   - [REST in short](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
+   - [Some public APIs](https://github.com/public-apis/public-apis)
 
 ### Databases
 
