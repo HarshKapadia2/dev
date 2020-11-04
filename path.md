@@ -55,8 +55,9 @@ Learn and apply in an infinite loop.
 ### General back end prerequisites
 
 - HTTP methods and status codes
-- JavaScript Object Notation (JSON)
+- JSON
 - APIs
+- AJAX and its libraries (Fetch API, Axios, Node HTTP, etc.)
 
 ### Databases
 
