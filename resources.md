@@ -91,6 +91,9 @@
    - [REST in short](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
    - [Some public APIs](https://github.com/public-apis/public-apis)
 
+- AJAX and its libraries
+   - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA)
+
 ### Databases
 
 - SQL (Relational DBs)
