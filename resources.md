@@ -84,7 +84,7 @@
 
 - [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
 
-- [JavaScript Object Notation](https://www.youtube.com/watch?v=iiADhChRriM) (JSON)
+- [JSON](https://www.youtube.com/watch?v=iiADhChRriM)
 
 - APIs
    - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
