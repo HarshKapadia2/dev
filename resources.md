@@ -82,7 +82,10 @@
 
 ### General back end prerequisites
 
-- [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
+- HTTP
+   - [What is HTTP?](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
+   - [Crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
+   - [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
 
 - [JSON](https://www.youtube.com/watch?v=iiADhChRriM)
 
