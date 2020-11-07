@@ -57,6 +57,7 @@ Learn and apply in an infinite loop.
 - HTTP methods and status codes
 - JSON
 - APIs
+- Asynchronous (async) JS
 - AJAX and its libraries (Fetch API, Axios, Node HTTP, etc.)
 
 ### Databases
@@ -66,8 +67,6 @@ Learn and apply in an infinite loop.
 
 ### JS back end
 
-- Prerequisite
-   - Asynchronous JS
 - Node.js
 - Express.js
 - REST (RESTful) APIs
