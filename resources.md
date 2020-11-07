@@ -97,6 +97,9 @@
 
 - AJAX and its libraries
    - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA)
+   - Fetch API
+      - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
+      - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
 
 ### Databases
 
