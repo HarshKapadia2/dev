@@ -87,7 +87,10 @@
    - [Crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
    - [HTTP methods, status codes and versions](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
 
-- [JSON](https://www.youtube.com/watch?v=iiADhChRriM)
+- JSON
+   - [Crash course](https://www.youtube.com/watch?v=iiADhChRriM)
+   - [`JSON.stringify`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+   - [`JSON.parse`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
 - APIs
    - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
@@ -99,7 +102,7 @@
    - [Crash course](https://www.youtube.com/watch?v=_8gHHBlbziw)
 
 - AJAX and its libraries
-   - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA)
+   - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
    - Fetch API
       - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
       - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
