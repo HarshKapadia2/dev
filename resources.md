@@ -85,7 +85,7 @@
 - HTTP
    - [What is HTTP?](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
    - [Crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-   - [HTTP methods and status codes](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
+   - [HTTP methods, status codes and versions](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
 
 - [JSON](https://www.youtube.com/watch?v=iiADhChRriM)
 
@@ -94,6 +94,9 @@
    - [REST in short](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
    - [REST Web Service](https://www.youtube.com/watch?v=lyxJQWUymV4&list=PLhW3qG5bs-L9E2KV6vVdB-YTk-sRxmRAB&index=5)
    - [Some public APIs](https://github.com/public-apis/public-apis)
+
+- Asynchronous (async) JS
+   - [Crash course](https://www.youtube.com/watch?v=_8gHHBlbziw)
 
 - AJAX and its libraries
    - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA)
@@ -114,9 +117,6 @@
    - Cloud Firestore and Realtime DB (Firebase) (covered below)
 
 ### JS back end
-
-- Prerequisite
-   - [Asynchronous JS](https://www.youtube.com/watch?v=_8gHHBlbziw)
 
 - Node.js
    - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
