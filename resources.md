@@ -33,6 +33,7 @@
       - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
       - [Browser extension *Gridman* for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) (Incase the DevTools don't support CSS Grid.)
    - [Units](https://www.w3schools.com/CSSref/css_units.asp)
+   - [`clamp()` function](https://blog.webdevsimplified.com/2020-11/css-clamp/) ([MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()))
    - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
    - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
    - [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
