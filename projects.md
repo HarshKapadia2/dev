@@ -13,6 +13,7 @@ git_basics | [link](https://harshkapadia2.github.io/git_basics/) | [link](https:
 
 Web app | Back end | Live demo | GitHub repo
 ------- | -------- | --------- | -----------
+HPS Gems | PHP, MySQL | [link](https://hps-gems.herokuapp.com/) | [link](https://github.com/HarshKapadia2/hps-gems)
 Attendance Manager | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com/) | [link](https://github.com/HarshKapadia2/attendance_management)
 Food Oye (Mobile only) | Node.js, Firebase | [link](https://food-oye.herokuapp.com/) | [link](https://github.com/rajatrjoshi/food-oye)
 Calculator| - | [link](https://harshkapadia2.github.io/calculator/) | [link](https://github.com/HarshKapadia2/calculator)
