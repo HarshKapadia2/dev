@@ -16,9 +16,9 @@ Web app | Back end | Live demo | GitHub repo
 HPS Gems | PHP, MySQL | [link](https://hps-gems.herokuapp.com/) | [link](https://github.com/HarshKapadia2/hps-gems)
 Attendance Manager | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com/) | [link](https://github.com/HarshKapadia2/attendance_management)
 Food Oye (Mobile only) | Node.js, Firebase | [link](https://food-oye.herokuapp.com/) | [link](https://github.com/rajatrjoshi/food-oye)
+1 or 2? | Flask | [link](https://one-or-two.herokuapp.com/) | [link](https://github.com/HarshKapadia2/one-or-two)
 Calculator| - | [link](https://harshkapadia2.github.io/calculator/) | [link](https://github.com/HarshKapadia2/calculator)
 Court Case Management | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
-1 or 2? | Flask | [link](https://one-or-two.herokuapp.com/) | [link](https://github.com/HarshKapadia2/one-or-two)
 
 Misc | Back end | Live demo | GitHub repo
 ---- | -------- | --------- | -----------
