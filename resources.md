@@ -102,6 +102,7 @@
 
 - Asynchronous (async) JS
    - [Crash course](https://www.youtube.com/watch?v=_8gHHBlbziw)
+   - [`async`/`await` article](https://www.freecodecamp.org/news/async-await-javascript-tutorial/)
 
 - AJAX and its libraries
    - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
