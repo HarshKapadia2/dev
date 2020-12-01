@@ -51,6 +51,7 @@
    - [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
    - [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/) (view [javascript.info](https://javascript.info/localstorage) for more differences)
    - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
+   - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
    - JS internals (absolute beginners can skip)
       - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
       - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
