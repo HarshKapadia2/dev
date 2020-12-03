@@ -50,6 +50,7 @@
    - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
    - [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
    - [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/) (view [javascript.info](https://javascript.info/localstorage) for more differences)
+   - [Rounding off](https://medium.com/swlh/how-to-round-to-a-certain-number-of-decimal-places-in-javascript-ed74c471c1b8)
    - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
    - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
    - JS internals (absolute beginners can skip)
