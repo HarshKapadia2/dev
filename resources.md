@@ -171,7 +171,7 @@
 ### Common path for everyone
 
 - Web performance
-   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) (available right in the DevTools)
+   - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) (available in Chrome and Edge DevTools and as an add-on in Firefox)
    - [web.dev](https://web.dev/)
 
 - Firebase
@@ -181,12 +181,13 @@
    - Git (covered above)
    - Deployment/hosting
       - For web sites only
-         - GitHub Pages
+         - [GitHub Pages](https://pages.github.com/)
+         - [Netlify](https://www.netlify.com/)
       - For web sites and web apps
-         - Heroku
-         - Netlify
-         - Python Anywhere (Only for Python web sites and web apps.)
-         - Firebase Hosting (Dynamic: Only Node.js supported through Cloud Functions)
+         - [Heroku](https://heroku.com/)
+         - [Python Anywhere](https://www.pythonanywhere.com/) (Only for Python web sites and web apps.)
+         - [Firebase Hosting](https://firebase.google.com/docs/hosting/) (Dynamic: Only Node.js supported through Cloud Functions)
+         - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting/)
    - CI/CD
       - GitHub Actions
       - Jenkins
@@ -194,4 +195,3 @@
    - Docker
       - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one)
       - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two)
-      
