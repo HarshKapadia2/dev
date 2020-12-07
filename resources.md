@@ -193,5 +193,6 @@
       - Jenkins
       - TravisCI
    - Docker
-      - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one)
-      - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two)
+      - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one of two)
+      - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two of two)
+      - [My Docker repo](https://github.com/HarshKapadia2/docker)
