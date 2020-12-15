@@ -14,6 +14,7 @@
 
 - HTML
    - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+   - [The Open Graph Protocol](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#what-is-open-graph)
    - [Validator](https://validator.w3.org/) to check correctness of HTML.
 
 - CSS
@@ -79,7 +80,7 @@
    - [Crash course](https://www.youtube.com/watch?v=rhzKDrUiJVk)
    - [RegEx summarised in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
 
-- Web components
+- Web Components API
    - [Crash course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
 - SVG
