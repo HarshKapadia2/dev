@@ -69,12 +69,19 @@
    - [git_basics web site](https://harshkapadia2.github.io/git_basics/)
    - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
+- Web design
+   - [Typography 101](https://www.youtube.com/watch?v=HnpsOtIcfbo)
+   - [Color theory 101](https://www.youtube.com/watch?v=e_kdWMmD3z0)
+   - [Layout design](https://www.youtube.com/watch?v=S4viQ_Ejptc)
+
 - Browser DevTools
    - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
    - [Chrome DevTools documentation](https://developers.google.com/web/tools/chrome-devtools/)
    - [Crash course](https://www.youtube.com/watch?v=x4q86IjJFag)
 
 > NOTE: The DevTools are similar in almost all browsers, so the above resources are fine.
+
+- [Networking](https://github.com/HarshKapadia2/networking)
 
 - RegEx
    - [Crash course](https://www.youtube.com/watch?v=rhzKDrUiJVk)
