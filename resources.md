@@ -98,7 +98,7 @@
 - HTTP
    - [What is HTTP?](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
    - [Crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-   - [HTTP methods, status codes and versions](https://gist.github.com/HarshKapadia2/8068274d30d98ed3bd1c1ba6bd13b798)
+   - [HTTP methods, status codes and versions](https://github.com/HarshKapadia2/networking/blob/main/http.md)
 
 - JSON
    - [Crash course](https://www.youtube.com/watch?v=iiADhChRriM)
