@@ -73,6 +73,7 @@
    - [Typography 101](https://www.youtube.com/watch?v=HnpsOtIcfbo)
    - [Color theory 101](https://www.youtube.com/watch?v=e_kdWMmD3z0)
    - [Layout design](https://www.youtube.com/watch?v=S4viQ_Ejptc)
+   - [Top Design Resources and Apps](https://www.youtube.com/watch?v=GUOgv4PcHIQ)
 
 - Browser DevTools
    - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
