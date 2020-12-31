@@ -190,7 +190,7 @@
    - [Documentation](https://firebase.google.com/docs) (More than sufficient. Also, do watch the videos linked in the docs.)
 
 - DevOps
-   - Git (covered above)
+   - Git (Covered in the [Misc](#misc) section above.)
    - Deployment/hosting
       - For web sites only
          - [GitHub Pages](https://pages.github.com/)
@@ -200,10 +200,14 @@
          - [Python Anywhere](https://www.pythonanywhere.com/) (Only for Python web sites and web apps.)
          - [Firebase Hosting](https://firebase.google.com/docs/hosting/) (Dynamic: Only Node.js supported through Cloud Functions)
          - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting/)
-   - CI/CD
+      - Domain names
+         - [.js.org](https://js.org/) (For users, organizations, projects, etc.) (free)
+         - [.is-a.dev](https://www.is-a.dev/) (For portfolio web sites.) (free)
+   - CI/CD (Still have to do this)
       - GitHub Actions
       - Jenkins
       - TravisCI
+      - Circle CI
    - Docker
       - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one of two)
       - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two of two)
