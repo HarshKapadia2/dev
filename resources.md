@@ -125,6 +125,8 @@
 
 ### Databases
 
+- [A Database of Databases](https://dbdb.io/)
+
 - SQL (Relational DBs)
    - [MySQL crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
    - MySQL [fragmentation](https://www.youtube.com/watch?v=sICmP7bJrvo) and [partitioning](https://www.youtube.com/watch?v=iUjoPB27-iA) (Beginners, please ignore.)
