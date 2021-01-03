@@ -206,6 +206,7 @@
       - Domain names
          - [.js.org](https://js.org/) (For users, organizations, projects, etc.) (free)
          - [.is-a.dev](https://www.is-a.dev/) (For portfolio web sites.) (free)
+         - [.ml](http://www.dot.ml/en/index.html?lang=en) (free)
    - CI/CD (Still have to do this)
       - GitHub Actions
       - Jenkins
