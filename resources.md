@@ -23,12 +23,13 @@
    - [`box-sizing` property](https://www.w3schools.com/css/css3_box-sizing.asp)
    - [Website layout](https://www.w3schools.com/css/css_website_layout.asp)
    - Selectors [PDF](https://webdevsimplified.com/specificity-cheat-sheet.html) or [article](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+   - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
    - Specificity
-      - Order: `!important` > inline > `id` > `class` > tag
+      - Order: `!important` > `inline` > `id selectors` > `class selectors + attribute selectors + pseudo-classes` > `element selectors (tags) + pseudo-elements`
       - The number of ids, classes and tags for a particular element matter in the specifity as well. More of each implies an increase in specificity.
       - `!important` trumps all, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
       - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
-      - [Specificity illustrated](https://specifishity.com/) (Format: `(<no_of_ids>, <no_of_classes>, <no_of_tags>)`)
+      - [Specificity illustrated](https://specifishity.com/) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
       - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
    - [`display` property](https://alligator.io/css/display-inline-vs-inline-block/)
    - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
@@ -39,13 +40,12 @@
    - CSS Grid
       - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
       - [Browser extension *Gridman* for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) (Incase the DevTools don't support CSS Grid.)
+   - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
    - Units
       - [`px`, `%`, `vh`, `vw`, `em` and `rem` (Part 1 of 2)](https://www.youtube.com/watch?v=gSL0hUPBgQA) (Hindi)
       - [`rem` vs `em` (Part 2 of 2)](https://www.youtube.com/watch?v=W862VHnZ6Sw) (Hindi)
       - [W3Schools](https://www.w3schools.com/CSSref/css_units.asp)
    - [`clamp()` function](https://blog.webdevsimplified.com/2020-11/css-clamp/) (view [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()) for more)
-   - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
-   - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
    - [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
    - [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/))
    - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
