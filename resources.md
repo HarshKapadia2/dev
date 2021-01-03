@@ -85,6 +85,8 @@
 
 > NOTE: The DevTools are similar in almost all browsers, so the above resources are fine.
 
+- [Check the support of a front end web technology on desktop and mobile web browsers.](https://caniuse.com/ciu/about)
+
 - [Networking](https://github.com/HarshKapadia2/networking)
 
 - RegEx
