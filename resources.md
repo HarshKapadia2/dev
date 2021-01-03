@@ -22,8 +22,14 @@
    - [Margin vs padding](https://www.differencebetween.com/difference-between-margin-and-vs-padding/)
    - [`box-sizing` property](https://www.w3schools.com/css/css3_box-sizing.asp)
    - [Website layout](https://www.w3schools.com/css/css_website_layout.asp)
-   - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
    - Selectors [PDF](https://webdevsimplified.com/specificity-cheat-sheet.html) or [article](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+   - Specificity
+      - Order: `!important` > inline > `id` > `class` > tag
+      - The number of ids, classes and tags for a particular element matter in the specifity as well. More of each implies an increase in specificity.
+      - `!important` trumps all, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
+      - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
+      - [Specificity illustrated](https://specifishity.com/) (Format: `(<no_of_ids>, <no_of_classes>, <no_of_tags>)`)
+      - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
    - [`display` property](https://alligator.io/css/display-inline-vs-inline-block/)
    - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
    - CSS Flexbox
