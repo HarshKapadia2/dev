@@ -52,6 +52,9 @@
    - [Responsive web site tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=WL&index=155&t=0s)
    - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
    - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
+   - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
+   - CSS internals
+      - [Redo Your CSS](https://www.redoyourcss.com/)
 
 - JS
    - [Crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
