@@ -54,7 +54,7 @@
    - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
    - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
    - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
-   - CSS internals
+   - CSS basics
       - [Redo Your CSS](https://www.redoyourcss.com/)
 
 - JS
@@ -67,6 +67,7 @@
    - [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/) (view [javascript.info](https://javascript.info/localstorage) for more differences)
    - [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events) (`load`, `click`, `change`, `submit`, etc)
    - [Rounding off](https://medium.com/swlh/how-to-round-to-a-certain-number-of-decimal-places-in-javascript-ed74c471c1b8)
+   - [Some cases of file handling](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
    - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
    - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
    - JS internals (absolute beginners can skip)
@@ -110,6 +111,8 @@
 
 - SVG
    - [Get started](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368)
+
+- [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using JS. Works in the browser and in Node.js.
 
 ### General back end prerequisites
 
