@@ -55,7 +55,7 @@
    - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
    - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
    - CSS basics
-      - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main theory](https://www.redoyourcss.com/))
+      - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com/))
 
 - JS
    - [Crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
