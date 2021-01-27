@@ -14,7 +14,7 @@
 
 - HTML
    - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
-   - [The Open Graph Protocol](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#what-is-open-graph)
+   - [The Open Graph Protocol](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#what-is-open-graph) ([Good article on OGP](https://indieweb.org/The-Open-Graph-protocol) | [Official web site](https://ogp.me/))
    - [Validator](https://validator.w3.org/) to check correctness of HTML.
 
 - CSS
