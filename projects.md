@@ -10,7 +10,7 @@ LBL tribute page | HTML, CSS | [link](https://harshkapadia2.github.io/lbl-tribut
 
 Documentation web site | Front end | Live demo | GitHub repo
 ---------------------- | --------- | --------- | -----------
-git_basics | Asciidoctor | [link](https://harshkapadia2.github.io/git_basics/) | [link](https://github.com/HarshKapadia2/git_basics)
+git_basics | Asciidoctor, PWA | [link](https://harshkapadia2.github.io/git_basics/) | [link](https://github.com/HarshKapadia2/git_basics)
 
 Web app | Front end | Back end | Live demo | GitHub repo
 ------- | --------- | -------- | --------- | -----------
