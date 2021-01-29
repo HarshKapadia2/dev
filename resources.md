@@ -14,7 +14,15 @@
 
 - HTML
    - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
-   - [The Open Graph Protocol](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#what-is-open-graph) ([Good article on OGP](https://indieweb.org/The-Open-Graph-protocol) | [Official web site](https://ogp.me/))
+   - The Open Graph Protocol (OGP)
+      - [Official web site](https://ogp.me/)
+      - Articles
+         - https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#what-is-open-graph
+         - https://indieweb.org/The-Open-Graph-protocol
+      - [For Twitter cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
+      - NOTE:
+         - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
+         - The image value has to be a URL and not a static file in the project.
    - [Validator](https://validator.w3.org/) to check correctness of HTML.
 
 - CSS
