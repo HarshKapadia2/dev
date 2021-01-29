@@ -108,17 +108,35 @@
 
 - [Check the support of a front end web technology on desktop and mobile web browsers.](https://caniuse.com/ciu/about)
 
+- PWAs (+ Service Worker API)
+   - [Crash course](https://www.youtube.com/watch?v=ksXwaWHCW6k) (Intro to Service Workers and Caching)
+   - [PWAs in 100 seconds](https://www.youtube.com/watch?v=sFsRylCQblw)
+   - [Extra PWA features](https://www.youtube.com/watch?v=ppwagkhrZJs)
+   - [Offline-first PWAs](https://www.youtube.com/watch?v=cmGr0RszHc8) (A good overview)
+   - [Demistifying Web Workers and Service Workers](https://www.youtube.com/watch?v=OgLemdR65pE) (Some content of the talk is outdated.)
+   - [The Modern PWA Cheat Sheet](https://www.youtube.com/watch?v=cybhV88KLfI)
+   - [Service Workers MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+   - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) (Caching and network strategies.)
+   - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.)
+   - [Creating a PWA with JS](https://dev.to/devpato/how-to-create-a-pwa-with-javascript-4jlh)
+   - [Important `manifest.json` options](https://web.dev/add-manifest/)
+   - [Icon generator](https://www.pwabuilder.com/imageGenerator)
+   - [Customizing the install experience](https://web.dev/customize-install/)
+   - Use LightHouse for debugging and checking.
+   - Service Workers are not just used for PWAs. They are used just for caching as well.
+   - Caching is an important concept for PWAs. Please go through 'Caching' in the [General back end prerequisites](#general-back-end-prerequisites) section below.
+   - In a PWA, static files need to be manually cached during the install event, because the Service Worker is not active by then to cache the initial response. Also, every file has to be listed individually, as directories are not recognized.
+   - [Some problems with Service Workers](https://www.youtube.com/watch?v=JJSloXLTyNg)
+
 - [Networking](https://github.com/HarshKapadia2/networking)
 
 - RegEx
    - [Crash course](https://www.youtube.com/watch?v=rhzKDrUiJVk)
    - [RegEx summarised in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
 
-- Web Components API
-   - [Crash course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
+- [SVG](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368)
 
-- SVG
-   - [Get started](https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368)
+- [Web Components API](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using JS. Works in the browser and in Node.js.
 
@@ -144,6 +162,15 @@
 - Asynchronous (async) JS
    - [Crash course](https://www.youtube.com/watch?v=_8gHHBlbziw)
    - [`async`/`await` article](https://www.freecodecamp.org/news/async-await-javascript-tutorial/)
+
+- Caching
+   - [CacheStorage API](https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage)
+   - [Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+   - [Cache-Control header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
+   - Difference between the Cache API and CacheStorage API
+      - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
+      - A Cache is an object (file) and Cache Storage is a file system.
+   - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to 'PWAs' in the [Misc](#misc) section above)
 
 - AJAX and its libraries
    - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
