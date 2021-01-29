@@ -49,7 +49,7 @@ Learn and apply in an infinite loop.
 
 > TIP: At this point, make a static website. (Eg: Your portfolio website or the front end for a larger project to which you can add the back end later.)
 
-- PWAs
+- PWAs (+ Service Worker API)
 - Networking
 - RegEx
 - SVG
