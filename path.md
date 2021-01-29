@@ -49,18 +49,20 @@ Learn and apply in an infinite loop.
 
 > TIP: At this point, make a static website. (Eg: Your portfolio website or the front end for a larger project to which you can add the back end later.)
 
+- PWAs
 - Networking
 - RegEx
-- Web components
 - SVG
+- Web Components API
 
 ### General back end prerequisites
 
 - HTTP methods and status codes
 - JSON
 - APIs
-- Asynchronous (async) JS
-- AJAX and its libraries (Fetch API, Axios, Node HTTP, etc.)
+- Asynchronous (async) JS (Promises, Async/await, etc)
+- Caching (CacheStorage API, Cache API and Cache-Control header)
+- AJAX and its libraries (Fetch API, XMLHttpRequest, Axios, Node HTTP, etc.)
 
 ### Databases
 
