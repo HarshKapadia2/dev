@@ -126,6 +126,7 @@
    - Service Workers are not just used for PWAs. They are used just for caching as well.
    - Caching is an important concept for PWAs. Please go through 'Caching' in the [General back end prerequisites](#general-back-end-prerequisites) section below.
    - In a PWA, static files need to be manually cached during the install event, because the Service Worker is not active by then to cache the initial response. Also, every file has to be listed individually, as directories are not recognized.
+   - Once a PWA is installed, the icons cannot be changed. The change is reflected on re-installing the PWA. (I think the PWAs being downloaded from the play store can change their icons.)
    - [Some problems with Service Workers](https://www.youtube.com/watch?v=JJSloXLTyNg)
 
 - [Networking](https://github.com/HarshKapadia2/networking)
