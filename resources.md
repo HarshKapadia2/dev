@@ -174,6 +174,7 @@
    - Difference between the Cache API and CacheStorage API
       - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
       - A Cache is an object (file) and Cache Storage is a file system.
+   - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
    - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to 'PWAs' in the [Misc](#misc) section above)
 
 - AJAX and its libraries
