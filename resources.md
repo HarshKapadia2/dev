@@ -59,6 +59,9 @@
    - [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/))
    - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
    - [Responsive web site tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=WL&index=155&t=0s)
+   - Check responsiveness on various devices
+      - In the browser DevTools (best option)
+      - On https://springload.responsinator.com
    - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
    - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
    - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
