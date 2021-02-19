@@ -53,6 +53,7 @@ Learn and apply in an infinite loop.
 - Networking
 - RegEx
 - SVG
+- Intersection Observer API
 - Web Components API
 
 ### General back end prerequisites
