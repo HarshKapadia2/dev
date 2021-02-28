@@ -54,6 +54,7 @@ Learn and apply in an infinite loop.
 - RegEx
 - SVG
 - Intersection Observer API
+- IndexedDB
 - Web Components API
 
 ### General back end prerequisites
