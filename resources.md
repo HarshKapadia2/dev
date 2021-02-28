@@ -143,6 +143,9 @@
 - [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
    - [Scroll to top button](https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/#option-3-intersection-observer)
 
+- IndexedDB
+   - [Crash course](https://www.youtube.com/watch?v=vb7fkBeblcw)
+
 - [Web Components API](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using JS. Works in the browser and in Node.js.
