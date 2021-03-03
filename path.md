@@ -110,6 +110,7 @@ Learn and apply in an infinite loop.
 ### Common path for everyone
 
 - Web performance
+- SEO
 - Firebase
 
 #### DevOps
