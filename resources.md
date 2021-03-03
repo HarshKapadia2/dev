@@ -253,6 +253,11 @@
    - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) (available in Chrome and Edge DevTools and as an add-on in Firefox)
    - [web.dev](https://web.dev/)
 
+- SEO
+   - `robots.txt`
+      - https://www.robotstxt.org/
+      - [Google Site Verification](https://developers.google.com/search/docs/advanced/robots/submit-updated-robots-txt)
+
 - Firebase
    - [Documentation](https://firebase.google.com/docs) (More than sufficient. Also, do watch the videos linked in the docs.)
 
