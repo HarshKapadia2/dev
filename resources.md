@@ -66,10 +66,11 @@
       - In the browser DevTools (best option)
       - On https://springload.responsinator.com
    - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
-   - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
    - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
+   - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar/)
    - CSS basics
       - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com/))
+   - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 - JS
    - [Crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
