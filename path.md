@@ -56,6 +56,7 @@ Learn and apply in an infinite loop.
 - Intersection Observer API
 - IndexedDB
 - Web Components API
+- TWA
 
 ### General back end prerequisites
 
