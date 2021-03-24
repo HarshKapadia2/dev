@@ -113,7 +113,7 @@
 
 - PWAs (+ Service Worker API)
    - [Crash course](https://www.youtube.com/watch?v=ksXwaWHCW6k) (Intro to Service Workers and Caching)
-   - [PWAs in 100 seconds](https://www.youtube.com/watch?v=sFsRylCQblw)
+   - [Progressive Web Apps in 100 seconds](https://www.youtube.com/watch?v=sFsRylCQblw)
    - [Extra PWA features](https://www.youtube.com/watch?v=ppwagkhrZJs)
    - [Offline-first PWAs](https://www.youtube.com/watch?v=cmGr0RszHc8) (A good overview)
    - [Demistifying Web Workers and Service Workers](https://www.youtube.com/watch?v=OgLemdR65pE) (Some content of the talk is outdated.)
@@ -150,6 +150,12 @@
 - [Web Components API](https://www.youtube.com/watch?v=PCWaFLy3VUo)
 
 - [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using JS. Works in the browser and in Node.js.
+
+- TWA
+   - Prerequisite: PWA (covered a few points above) and a Google Play Console Developer Account ($25 fee)
+   - [What is a Trusted Web Activity?](https://www.youtube.com/watch?v=7JDFjeMvxos)
+   - [TWA overview](https://developer.chrome.com/docs/android/trusted-web-activity/overview/)
+   - [Build a TWA from an existing PWA](https://www.pwabuilder.com/) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md))
 
 ### General back end prerequisites
 
