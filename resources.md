@@ -23,6 +23,9 @@
       - NOTE:
          - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
          - The image value has to be a URL and not a static file in the project.
+   - [Lazy loading attribute](https://css-tricks.com/native-lazy-loading/)
+   - [`prefetch`, `preload` and `preconnect` resource hints](https://www.keycdn.com/blog/resource-hints)
+   - [`async` and `defer` scripts](https://javascript.info/script-async-defer)
    - [Validator](https://validator.w3.org/) to check correctness of HTML.
 
 - CSS
