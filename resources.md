@@ -116,6 +116,7 @@
 - [Check the support of a front end web technology on desktop and mobile web browsers.](https://caniuse.com/ciu/about)
 
 - PWAs (+ Service Worker API)
+   - Prerequisite: Caching (covered in the ['General backend prerequisites' section](#general-back-end-prerequisites) below.)
    - [Crash course](https://www.youtube.com/watch?v=ksXwaWHCW6k) (Intro to Service Workers and Caching)
    - [Progressive Web Apps in 100 seconds](https://www.youtube.com/watch?v=sFsRylCQblw)
    - [Extra PWA features](https://www.youtube.com/watch?v=ppwagkhrZJs)
