@@ -160,7 +160,13 @@
    - Prerequisite: PWA (covered a few points above) and a Google Play Console Developer Account ($25 fee)
    - [What is a Trusted Web Activity?](https://www.youtube.com/watch?v=7JDFjeMvxos)
    - [TWA overview](https://developer.chrome.com/docs/android/trusted-web-activity/overview/)
-   - [Build a TWA from an existing PWA](https://www.pwabuilder.com/) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md))
+   - [Build a TWA from an existing PWA](https://www.pwabuilder.com/) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md) and [Asset Link file instructions](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md))
+   - Hosting a TWA using GitHub Pages
+      - NOTE: The PWA can be hosted from any of **your** repos. The instructions below have to be followed nonetheless.
+      - Create a repo with the name `<github_username>.github.io`.
+      - The `.well-known/assetlinks.json` file should be in the root directory of the newly created repo. ([More info](https://www.mydatahack.com/releasing-multiple-pwas-to-googleplay-by-using-a-single-github-page-root/))
+      - If you're not using [Jekyll](https://jekyllrb.com/), add an empty `.nojekyll` file to the root directory of the newly created repo. ([Reason](https://github.community/t/unable-to-access-resources-in-folder-with-name-starting-with/10505))
+      - If you're using [Jekyll](https://jekyllrb.com/), change your `_config.yml` file to include the `.well-known` folder.
 
 ### General back end prerequisites
 
