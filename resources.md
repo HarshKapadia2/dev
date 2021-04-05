@@ -75,6 +75,7 @@
 - JS
    - [Crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
    - [`var` vs `let` vs `const`](https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/)
+   - [Reference vs value](https://blog.webdevsimplified.com/2021-03/js-reference-vs-value/)
    - [Document Object Model](https://medium.com/@EdidiongAsikpo/getting-started-with-the-dom-d27907f17be0) (DOM)
    - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
    - [`element.classList`](https://blog.webdevsimplified.com/2020-11/class-list/)
