@@ -8,7 +8,7 @@
 ### Prerequisites
 
 - Browser (Chrome, Edge, Brave or Firefox are preferred.)
-- [Set up VSCode](https://www.youtube.com/watch?v=fnPhJHN0jTE)
+- [Set up VS Code](https://www.youtube.com/watch?v=fnPhJHN0jTE)
 
 ### Front end
 
@@ -23,7 +23,8 @@
       - NOTE:
          - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
          - The image value has to be a URL and not a static file in the project.
-   - [Lazy loading attribute](https://css-tricks.com/native-lazy-loading/)
+   - [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading/)
+   - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
    - [`prefetch`, `preload` and `preconnect` resource hints](https://www.keycdn.com/blog/resource-hints)
    - [`async` and `defer` scripts](https://javascript.info/script-async-defer)
    - [Validator](https://validator.w3.org/) to check correctness of HTML.
