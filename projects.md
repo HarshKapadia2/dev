@@ -3,6 +3,7 @@
 Web site | Front end | Live demo | GitHub repo
 -------- | --------- | --------- | -----------
 Selena Gomez's Bio | HTML, CSS, JS (PWA) | [link](https://harshkapadia2.github.io/sg-bio/) | [link](https://github.com/HarshKapadia2/sg-bio)
+Heartry | HTML, CSS | [link](https://www.heartry.tk/) | [link](https://github.com/SirusCodes/heartry/tree/gh-pages)
 Challenges page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-challenges-page/) | [link](https://github.com/HarshKapadia2/sample-challenges-page)
 Contact Us page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-contact-us-page/) | [link](https://github.com/HarshKapadia2/sample-contact-us-page)
 Marksheet replica (Desktop only) | HTML, CSS | [link](https://harshkapadia2.github.io/sample-marksheet/) | [link](https://github.com/HarshKapadia2/sample-marksheet)
