@@ -23,6 +23,7 @@
       - NOTE:
          - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
          - The image value has to be a URL and not a static file in the project.
+         - The image size should be less than 300 kb.
    - [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading/)
    - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
    - [`prefetch`, `preload` and `preconnect` resource hints](https://www.keycdn.com/blog/resource-hints)
