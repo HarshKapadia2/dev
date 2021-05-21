@@ -14,6 +14,7 @@
 
 - HTML
    - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+   - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that *could* go in the head of a HTML document.
    - The Open Graph Protocol (OGP)
       - [Official web site](https://ogp.me/)
       - Articles
