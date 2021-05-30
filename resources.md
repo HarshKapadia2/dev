@@ -10,10 +10,6 @@
    - [HTML](#html)
    - [CSS](#css)
    - [JS](#js)
-- [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
-   - [Prerequisite](#prerequisite)
-      - [State](#state)
-   - [Vue.js](#vuejs)
 - [Misc #1](#misc-1)
    - [Git and GitHub](#git-and-github)
    - [Web Design](#web-design)
@@ -46,6 +42,10 @@
 - [PHP](#php)
    - [Prerequisites](#prerequisites-1)
    - [PHP REST API](#php-rest-api)
+- [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
+   - [Prerequisite](#prerequisite)
+      - [State](#state)
+   - [React.js](#reactjs)
 - [Misc #2](#misc-2)
    - [Web Performance](#web-performance)
    - [SEO](#seo)
@@ -146,25 +146,11 @@
 - [Some cases of file handling](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
-- JS internals (absolute beginners can skip)
+- JS internals
    - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
    - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
    - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
    - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
-
-### Front End JS Frameworks/Libraries
-
-#### Prerequisite
-
-##### State
-
-- ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
-- [What is 'state'?](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
-
-#### Vue.js
-
-- [Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
-- [Vuex](https://www.youtube.com/watch?v=5lVQgZzLMHc) (state management library)
 
 ### Misc #1
 
@@ -196,7 +182,7 @@
 
 #### PWAs (+ Service Worker API)
 
-- Prerequisite: Caching (covered in the ['General backend prerequisites' section](#general-back-end-prerequisites) below.)
+- Prerequisite: [Caching](#caching)
 - [Crash course](https://www.youtube.com/watch?v=ksXwaWHCW6k) (Intro to Service Workers and Caching)
 - [Progressive Web Apps in 100 seconds](https://www.youtube.com/watch?v=sFsRylCQblw)
 - [Extra PWA features](https://www.youtube.com/watch?v=ppwagkhrZJs)
@@ -212,7 +198,7 @@
 - [Customizing the install experience](https://web.dev/customize-install/)
 - Use LightHouse for debugging and checking.
 - Service Workers are not just used for PWAs. They are used just for caching as well.
-- Caching is an important concept for PWAs. Please go through 'Caching' in the [General back end prerequisites](#general-back-end-prerequisites) section below.
+- Caching is an important concept for PWAs. Please go through [Caching section](#caching) below.
 - In a PWA, static files need to be manually cached during the install event, because the Service Worker is not active by then to cache the initial response. Also, every file has to be listed individually, as directories are not recognized.
 - Once a PWA is installed, the icons cannot be changed. The change is reflected on re-installing the PWA. (I think TWAs can change their icons. Check below for more info on TWAs.)
 - An offline PWA does not have access to localStorage. (The service worker does not allow it.) IndexedDB can be used in place. (IndexedDB crash course below.)
@@ -298,7 +284,7 @@
    - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
    - A Cache is an object (file) and Cache Storage is a file system.
 - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
-- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to 'PWAs' in the [Misc](#misc) section above)
+- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to [PWA section](#pwa) above.)
 
 - AJAX and its libraries
    - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
@@ -363,6 +349,23 @@
 
 - [Crash course](https://www.youtube.com/watch?v=OEWXbpUMODk&list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo&index=1)
 
+### Front End JS Frameworks/Libraries
+
+#### Prerequisite
+
+##### State
+
+- ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
+- [What is 'state'?](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
+
+#### React.js
+
+- [Crash course (2021)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- React.js internals
+   - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
+   - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
+   - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
+
 ### Misc #2
 
 #### Web Performance
@@ -385,7 +388,7 @@
 
 ##### Git
 
-- Covered in the [Misc](#misc) section above.
+- Covered in the [Git and GitHub section](#git-and-github) above.
 
 ##### Deployment/Hosting
 
