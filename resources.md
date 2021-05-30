@@ -3,6 +3,60 @@
 - The crash course in each section is the bare minimum that should be done.
 - The resources have been aligned in a logical manner that should be followed.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+- [Front End](#front-end)
+   - [HTML](#html)
+   - [CSS](#css)
+   - [JS](#js)
+- [Misc](#misc)
+   - [Git and GitHub](#git-and-github)
+   - [Web Design](#web-design)
+   - [Browser DevTools](#browser-devtools)
+   - [PWA (+ Service Worker API)](#pwas--service-worker-api)
+   - [Networking](#networking)
+   - [RegEx](#regex)
+   - [SVG](#svg)
+   - [Intersection Observer API](#intersection-observer-api)
+   - [InedxedDB](#indexeddb)
+   - [Web Components API](#web-components-api)
+   - [Misc Libraries](#misc-libraries)
+   - [TWA](#twa)
+- [General Back End Prerequisites](#general-back-end-prerequisites)
+   - [HTTP](#http)
+   - [JSON](#json)
+   - [APIs](#apis)
+   - [Async JS](#async-js)
+   - [Caching](#caching)
+- [Databases](#databases)
+   - [SQL (Relational DBs)](#sql-relational-dbs)
+   - [NoSQL](#nosql)
+- [JS Back End](#js-back-end)
+   - [Node.js](#nodejs)
+   - [Express.js](#expressjs)
+   - [JS REST API](#js-rest-api)
+- [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
+   - [Prerequisite](#prerequisite)
+      - [State](#state)
+   - [Vue.js](#vuejs-still-have-to-do-this)
+- [Python Back End](#python-back-end)
+   - [Prerequisite](#prerequisite-1)
+   - [Flask](#flask)
+- [PHP](#php)
+   - [Prerequisites](#prerequisites-1)
+   - [PHP REST API](#php-rest-api)
+- [Common path for everyone](#common-path-for-everyone)
+   - [Web Performance](#web-performance)
+   - [SEO](#seo)
+      - [`robots.txt`](#robotstxt)
+   - [Firebase](#firebase)
+   - [DevOps](#devops)
+      - [Git](#git)
+      - [Deployment/Hosting](#deploymenthosting)
+      - [CI/CD](#cicd-still-have-to-do-this)
+      - [Docker](#docker)
+
 ## My resources
 
 ### Prerequisites
@@ -10,7 +64,7 @@
 - Browser (Chrome, Edge, Brave or Firefox are preferred.)
 - [Set up VS Code](https://www.youtube.com/watch?v=fnPhJHN0jTE)
 
-### Front end
+### Front End
 
 #### HTML
 
@@ -108,7 +162,7 @@
 - [git_basics web site](https://harshkapadia2.github.io/git_basics/)
 - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
-#### Web design
+#### Web Design
 
 - [Typography 101](https://www.youtube.com/watch?v=HnpsOtIcfbo)
 - [Color theory 101](https://www.youtube.com/watch?v=e_kdWMmD3z0)
@@ -192,7 +246,7 @@
    - If you're not using [Jekyll](https://jekyllrb.com/), add an empty `.nojekyll` file to the root directory of the newly created repo. ([Reason](https://github.community/t/unable-to-access-resources-in-folder-with-name-starting-with/10505))
    - If you're using [Jekyll](https://jekyllrb.com/), change your `_config.yml` file to include the `.well-known` folder.
 
-### General back end prerequisites
+### General Back End Prerequisites
 
 #### HTTP
 
@@ -215,7 +269,7 @@
 - [Designing an API](https://www.youtube.com/watch?v=_YlYuNMTCc8)
 - [Some public APIs](https://github.com/public-apis/public-apis)
 
-#### Asynchronous (async) JS
+#### Async JS
 
 - [Crash course](https://www.youtube.com/watch?v=_8gHHBlbziw)
 - [`async`/`await` article](https://www.freecodecamp.org/news/async-await-javascript-tutorial/)
@@ -254,7 +308,7 @@
 - [MongoDB crash course](https://www.youtube.com/watch?v=-56x56UppqQ)
 - Cloud Firestore and Realtime DB (Firebase) (covered below)
 
-### JS back end
+### JS Back End
 
 #### Node.js
 
@@ -270,7 +324,7 @@
 
 - [Node.js (Express.js) and MongoDB REST API](https://www.youtube.com/watch?v=vjf774RKrLc)
 
-### JS front end frameworks/libraries
+### Front End JS Frameworks/Libraries
 
 #### Prerequisite
 
@@ -284,7 +338,7 @@
 - [Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
 - [Vuex](https://www.youtube.com/watch?v=5lVQgZzLMHc) (state management library)
 
-### Python back end
+### Python Back End
 
 #### Prerequisite
 
@@ -308,7 +362,7 @@
 
 ### Common path for everyone
 
-#### Web performance
+#### Web Performance
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/) (available in Chrome and Edge DevTools and as an add-on in Firefox)
 - [web.dev](https://web.dev/)
@@ -329,7 +383,7 @@
 
 - Covered in the [Misc](#misc) section above.
 
-##### Deployment/hosting
+##### Deployment/Hosting
 
 - For web sites only
    - [GitHub Pages](https://pages.github.com/)
