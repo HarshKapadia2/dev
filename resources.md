@@ -203,8 +203,8 @@
 - Service Workers are not just used for PWAs. They are used just for caching as well.
 - Caching is an important concept for PWAs. Please go through [Caching section](#caching) below.
 - In a PWA, static files need to be manually cached during the install event, because the Service Worker is not active by then to cache the initial response. Also, every file has to be listed individually, as directories are not recognized.
-- Once a PWA is installed, the icons cannot be changed. The change is reflected on re-installing the PWA. (I think TWAs can change their icons. Check below for more info on TWAs.)
-- An offline PWA does not have access to localStorage. (The service worker does not allow it.) IndexedDB can be used in place. (IndexedDB crash course below.)
+- Once a PWA is installed, the icons cannot be changed. The change is reflected on re-installing the PWA. (I think TWAs can change their icons. Check the [TWA section](#twa) below for more info.)
+- An offline PWA does not have access to Local Storage. (The service worker does not allow it.) IndexedDB can be used in place. ([IndexedDB section](#indexeddb) below.)
 - [Some problems with Service Workers](https://www.youtube.com/watch?v=JJSloXLTyNg)
 
 #### Networking
