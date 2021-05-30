@@ -37,14 +37,15 @@
    - [Express.js](#expressjs)
    - [JS REST API](#js-rest-api)
 - [Python Back End](#python-back-end)
-   - [Prerequisite](#prerequisite-1)
+   - [Prerequisite](#prerequisite)
    - [Flask](#flask)
 - [PHP](#php)
    - [Prerequisites](#prerequisites-1)
    - [PHP REST API](#php-rest-api)
 - [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
-   - [Prerequisite](#prerequisite)
+   - [Prerequisites](#prerequisites-2)
       - [State](#state)
+      - [XML](#xml)
    - [React.js](#reactjs)
 - [Misc #2](#misc-2)
    - [Web Performance](#web-performance)
@@ -146,6 +147,7 @@
 - [Some cases of file handling](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
+- [JavaScript ES6 Modules](https://www.youtube.com/watch?v=cRHQNNcYf6s)
 - JS internals
    - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
    - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
@@ -316,6 +318,7 @@
 #### Node.js
 
 - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
+- [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
 - [Middleware](https://thenextbigwriter.tech/middlewares-in-express-js-ck8d87su900w3xes1ny80u28q)
    
 #### Express.js
@@ -351,12 +354,16 @@
 
 ### Front End JS Frameworks/Libraries
 
-#### Prerequisite
+#### Prerequisites
 
 ##### State
 
 - ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
 - [What is 'state'?](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
+
+##### XML
+
+- [Very basics of XML](https://www.youtube.com/watch?v=KeLiQXqVgMI)
 
 #### React.js
 
