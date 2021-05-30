@@ -14,7 +14,7 @@
    - [Git and GitHub](#git-and-github)
    - [Web Design](#web-design)
    - [Browser DevTools](#browser-devtools)
-   - [PWA (+ Service Worker API)](#pwas--service-worker-api)
+   - [PWA (+ Service Worker API)](#pwa--service-worker-api)
    - [Networking](#networking)
    - [RegEx](#regex)
    - [SVG](#svg)
@@ -57,6 +57,7 @@
       - [Deployment/Hosting](#deploymenthosting)
       - [CI/CD](#cicd)
       - [Docker](#docker)
+   - [Cloud](#cloud)
 
 ## My resources
 
@@ -182,7 +183,7 @@
 
 - [Check the support of a front end web technology on desktop and mobile web browsers.](https://caniuse.com/ciu/about)
 
-#### PWAs (+ Service Worker API)
+#### PWA (+ Service Worker API)
 
 - Prerequisite: [Caching](#caching)
 - [Crash course](https://www.youtube.com/watch?v=ksXwaWHCW6k) (Intro to Service Workers and Caching)
@@ -208,7 +209,7 @@
 
 #### Networking
 
-- [My notes](https://github.com/HarshKapadia2/networking)
+- [My notes and resources](https://github.com/HarshKapadia2/networking)
 
 #### RegEx
 
@@ -238,7 +239,9 @@
 
 #### TWA
 
-- Prerequisite: PWA (covered a few points above) and a Google Play Console Developer Account ($25 fee)
+- Prerequisites
+   - [PWA](#pwa--service-worker-api)
+   - Google Play Console Developer Account ($25 fee)
 - [What is a Trusted Web Activity?](https://www.youtube.com/watch?v=7JDFjeMvxos)
 - [TWA overview](https://developer.chrome.com/docs/android/trusted-web-activity/overview/)
 - [Build a TWA from an existing PWA](https://www.pwabuilder.com/) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md) and [Asset Link file instructions](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md))
@@ -286,7 +289,7 @@
    - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
    - A Cache is an object (file) and Cache Storage is a file system.
 - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
-- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to [PWA section](#pwa) above.)
+- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
 
 - AJAX and its libraries
    - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
@@ -424,3 +427,7 @@
 - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one of two)
 - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two of two)
 - [My Docker repo](https://github.com/HarshKapadia2/docker)
+
+##### Cloud
+
+- [My notes and resources](https://github.com/HarshKapadia2/cloud-computing)
