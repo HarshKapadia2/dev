@@ -1,4 +1,4 @@
-# My web dev resources
+# My Web Dev Resources
 
 - The crash course in each section is the bare minimum that should be done.
 - The resources have been aligned in a logical manner that should be followed.
@@ -10,7 +10,11 @@
    - [HTML](#html)
    - [CSS](#css)
    - [JS](#js)
-- [Misc](#misc)
+- [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
+   - [Prerequisite](#prerequisite)
+      - [State](#state)
+   - [Vue.js](#vuejs)
+- [Misc #1](#misc-1)
    - [Git and GitHub](#git-and-github)
    - [Web Design](#web-design)
    - [Browser DevTools](#browser-devtools)
@@ -30,23 +34,19 @@
    - [Async JS](#async-js)
    - [Caching](#caching)
 - [Databases](#databases)
-   - [SQL (Relational DBs)](#sql-relational-dbs)
+   - [SQL](#sql)
    - [NoSQL](#nosql)
 - [JS Back End](#js-back-end)
    - [Node.js](#nodejs)
    - [Express.js](#expressjs)
    - [JS REST API](#js-rest-api)
-- [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
-   - [Prerequisite](#prerequisite)
-      - [State](#state)
-   - [Vue.js](#vuejs-still-have-to-do-this)
 - [Python Back End](#python-back-end)
    - [Prerequisite](#prerequisite-1)
    - [Flask](#flask)
 - [PHP](#php)
    - [Prerequisites](#prerequisites-1)
    - [PHP REST API](#php-rest-api)
-- [Common path for everyone](#common-path-for-everyone)
+- [Misc #2](#misc-2)
    - [Web Performance](#web-performance)
    - [SEO](#seo)
       - [`robots.txt`](#robotstxt)
@@ -54,7 +54,7 @@
    - [DevOps](#devops)
       - [Git](#git)
       - [Deployment/Hosting](#deploymenthosting)
-      - [CI/CD](#cicd-still-have-to-do-this)
+      - [CI/CD](#cicd)
       - [Docker](#docker)
 
 ## My resources
@@ -152,7 +152,21 @@
    - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
    - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
 
-### Misc
+### Front End JS Frameworks/Libraries
+
+#### Prerequisite
+
+##### State
+
+- ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
+- [What is 'state'?](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
+
+#### Vue.js
+
+- [Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
+- [Vuex](https://www.youtube.com/watch?v=5lVQgZzLMHc) (state management library)
+
+### Misc #1
 
 #### Git and GitHub
 
@@ -173,7 +187,8 @@
 
 - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
 - [Chrome DevTools documentation](https://developers.google.com/web/tools/chrome-devtools/)
-- [Crash course](https://www.youtube.com/watch?v=x4q86IjJFag)
+- [Crash course (Brad Traversy)](https://www.youtube.com/watch?v=x4q86IjJFag)
+- [Crash course (FreeCodeCamp)](https://www.youtube.com/watch?v=gTVpBbFWry8)
 
 > NOTE: The DevTools are similar in almost all browsers, so the above resources are fine.
 
@@ -296,14 +311,16 @@
 
 - [A Database of Databases](https://dbdb.io/)
 
-#### SQL (Relational DBs)
+#### SQL
 
+- Relational DBs
 - [MySQL crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - MySQL [fragmentation](https://www.youtube.com/watch?v=sICmP7bJrvo) and [partitioning](https://www.youtube.com/watch?v=iUjoPB27-iA) (Beginners, please ignore.)
 - Eg: MySQL, PostgreSQL, MariaDB, SQLite, etc...
 
 #### NoSQL
 
+- Non-relational DBs
 - [NoSQL DB introduction](https://www.youtube.com/watch?v=uD3p_rZPBUQ)
 - [MongoDB crash course](https://www.youtube.com/watch?v=-56x56UppqQ)
 - Cloud Firestore and Realtime DB (Firebase) (covered below)
@@ -323,20 +340,6 @@
 #### JS REST API
 
 - [Node.js (Express.js) and MongoDB REST API](https://www.youtube.com/watch?v=vjf774RKrLc)
-
-### Front End JS Frameworks/Libraries
-
-#### Prerequisite
-
-##### State
-
-- ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
-- [What is 'state'?](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
-
-#### Vue.js (Still have to do this)
-
-- [Crash course](https://www.youtube.com/watch?v=Wy9q22isx3U)
-- [Vuex](https://www.youtube.com/watch?v=5lVQgZzLMHc) (state management library)
 
 ### Python Back End
 
@@ -360,7 +363,7 @@
 
 - [Crash course](https://www.youtube.com/watch?v=OEWXbpUMODk&list=PLillGF-RfqbZ3_Xr8do7Q2R752xYrDRAo&index=1)
 
-### Common path for everyone
+### Misc #2
 
 #### Web Performance
 
@@ -375,6 +378,7 @@
 
 #### Firebase
 
+- BaaS
 - [Documentation](https://firebase.google.com/docs) (More than sufficient. Also, do watch the videos linked in the docs.)
 
 #### DevOps
@@ -398,7 +402,7 @@
    - [.is-a.dev](https://www.is-a.dev/) (For portfolio web sites.) (free)
    - [.ml](http://www.dot.ml/en/index.html?lang=en) (free)
 
-##### CI/CD (Still have to do this)
+##### CI/CD
 
 - GitHub Actions
 - Jenkins
