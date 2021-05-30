@@ -59,7 +59,7 @@
       - [Docker](#docker)
    - [Cloud](#cloud)
 
-## My resources
+## My Resources
 
 ### Prerequisites
 
