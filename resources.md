@@ -314,7 +314,7 @@
 - Non-relational DBs
 - [NoSQL DB introduction](https://www.youtube.com/watch?v=uD3p_rZPBUQ)
 - [MongoDB crash course](https://www.youtube.com/watch?v=-56x56UppqQ)
-- Cloud Firestore and Realtime DB (Firebase) (covered below)
+- Cloud Firestore and Realtime DB (Covered in the [Firebase section](#firebase) below.)
 
 ### JS Back End
 
