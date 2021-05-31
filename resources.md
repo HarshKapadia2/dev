@@ -372,6 +372,7 @@
 
 - [Crash course (2021)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - React.js internals
+   - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
    - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
    - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
    - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
