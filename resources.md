@@ -269,6 +269,7 @@
 
 #### APIs
 
+- [Everything about APIs](https://blogs.omkaragrawal.dev/everything-about-apis)
 - [REST (RESTful) API introduction](https://www.youtube.com/watch?v=Q-BpqyOT3a8)
 - [REST in short](https://www.youtube.com/watch?v=6sUbt-Qp6Pg)
 - [REST Web Service](https://www.youtube.com/watch?v=lyxJQWUymV4&list=PLhW3qG5bs-L9E2KV6vVdB-YTk-sRxmRAB&index=5)
