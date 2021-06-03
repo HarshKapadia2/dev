@@ -432,4 +432,4 @@
 
 ##### Cloud
 
-- [My notes and resources](https://github.com/HarshKapadia2/cloud-computing)
+- [My notes and resources](https://github.com/HarshKapadia2/cloud)
