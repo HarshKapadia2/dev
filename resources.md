@@ -44,6 +44,7 @@
    - [PHP REST API](#php-rest-api)
 - [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
    - [Prerequisites](#prerequisites-2)
+      - [Misc](#misc)
       - [State](#state)
       - [XML](#xml)
    - [React.js](#reactjs)
@@ -360,6 +361,10 @@
 
 #### Prerequisites
 
+##### Misc
+
+- [General front end framework advice](https://threadreaderapp.com/thread/1394898131926458371.html)
+
 ##### State
 
 - ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
@@ -371,7 +376,9 @@
 
 #### React.js
 
+- [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [Crash course (2021)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- [10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - React.js internals
    - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
    - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
