@@ -209,7 +209,7 @@
 
 #### Networking
 
-- [My notes and resources](https://github.com/HarshKapadia2/networking)
+- [My notes and resources](https://harshkapadia2.github.io/networking/)
 
 #### RegEx
 
@@ -258,7 +258,7 @@
 
 - [What is HTTP?](https://www.youtube.com/watch?v=0OrmKCB0UrQ)
 - [Crash course](https://www.youtube.com/watch?v=iYM2zFP3Zn0)
-- [HTTP methods, status codes and versions](https://github.com/HarshKapadia2/networking/blob/main/http.md)
+- [HTTP methods, status codes and versions](https://harshkapadia2.github.io/networking/http.html)
 
 #### JSON
 
@@ -428,8 +428,8 @@
 
 - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one of two)
 - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two of two)
-- [My Docker repo](https://github.com/HarshKapadia2/docker)
+- [My Docker repo](https://harshkapadia2.github.io/docker/)
 
 ##### Cloud
 
-- [My notes and resources](https://github.com/HarshKapadia2/cloud)
+- [My notes and resources](https://harshkapadia2.github.io/cloud/)
