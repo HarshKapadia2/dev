@@ -1,4 +1,4 @@
-# My web dev projects
+# My Web Dev Projects
 
 Web app | Front end | Back end | Live demo | GitHub repo
 ------- | --------- | -------- | --------- | -----------
