@@ -378,9 +378,11 @@
 
 - [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [Crash course (2021)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-- [10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+- [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+- [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
 - React.js internals
    - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
+   - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/)
    - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
    - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
    - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
