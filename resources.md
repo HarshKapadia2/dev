@@ -380,6 +380,7 @@
 - [Crash course (2021)](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
+- [The `useRef` hook](https://www.youtube.com/watch?v=t2ypzz6gJm0)
 - React.js internals
    - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
    - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/)
