@@ -29,6 +29,7 @@
    - [APIs](#apis)
    - [Async JS](#async-js)
    - [Caching](#caching)
+   - [AJAX and its libraries](#ajax-and-its-libraries)
 - [Databases](#databases)
    - [SQL](#sql)
    - [NoSQL](#nosql)
@@ -293,12 +294,13 @@
 - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
 - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
 
-- AJAX and its libraries
-   - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
-   - Fetch API
-      - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
-      - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
-   - [Playlist: Async JS, AJAX, XHR, Fetch, Cookies, CORS, Headers, Auth, etc.](https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7&index=1)
+#### AJAX and its libraries
+
+- [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
+- Fetch API
+   - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
+   - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+- [Playlist: Async JS, AJAX, XHR, Fetch, Cookies, CORS, Headers, Auth, etc.](https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7&index=1)
 
 ### Databases
 
