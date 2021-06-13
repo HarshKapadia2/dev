@@ -277,6 +277,7 @@
 - [REST Web Service](https://www.youtube.com/watch?v=lyxJQWUymV4&list=PLhW3qG5bs-L9E2KV6vVdB-YTk-sRxmRAB&index=5)
 - [Designing an API](https://www.youtube.com/watch?v=_YlYuNMTCc8)
 - [Some public APIs](https://github.com/public-apis/public-apis)
+- [Google Translate API](https://www.w3schools.com/howto/howto_google_translate.asp)
 
 #### Async JS
 
