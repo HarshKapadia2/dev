@@ -131,6 +131,8 @@
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
 - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar/)
+- [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding/)
+   - Add the property to the `html` element for it to work.
 - CSS basics
    - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com/))
 - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
