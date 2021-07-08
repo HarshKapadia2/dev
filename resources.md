@@ -124,6 +124,7 @@
 - [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
 - [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/))
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+- [Custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Responsive web site tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=WL&index=155&t=0s)
 - Check responsiveness on various devices
    - In the browser DevTools (best option)
