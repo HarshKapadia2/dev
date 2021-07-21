@@ -332,6 +332,7 @@
 - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
 - [Middleware](https://thenextbigwriter.tech/middlewares-in-express-js-ck8d87su900w3xes1ny80u28q)
+- [Creating and publishing a NPM package](https://iq.opengenus.org/creating-node-modules/)
    
 #### Express.js
 
