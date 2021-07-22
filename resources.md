@@ -153,7 +153,11 @@
 - [Some cases of file handling](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
-- [JavaScript ES6 Modules](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+- Modules
+   - [Intro](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+   - [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+   - [`export` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 - JS internals
    - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
    - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
@@ -330,8 +334,10 @@
 #### Node.js
 
 - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
-- [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
 - [Middleware](https://thenextbigwriter.tech/middlewares-in-express-js-ck8d87su900w3xes1ny80u28q)
+- Modules
+   - Refer to the 'Modules' point in the [JS section](#js) above.
+   - [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
 - [Creating and publishing a NPM package](https://iq.opengenus.org/creating-node-modules/)
    
 #### Express.js
