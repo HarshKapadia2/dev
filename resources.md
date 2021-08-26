@@ -57,6 +57,7 @@
    - [DevOps](#devops)
       - [Git](#git)
       - [Deployment/Hosting](#deploymenthosting)
+      - [YAML](#yaml)
       - [CI/CD](#cicd)
       - [Docker](#docker)
    - [Cloud](#cloud)
@@ -441,6 +442,10 @@
    - [.js.org](https://js.org/) (For users, organizations, projects, etc.) (free)
    - [.is-a.dev](https://www.is-a.dev/) (For portfolio web sites.) (free)
    - [.ml](http://www.dot.ml/en/index.html?lang=en) (free)
+
+##### YAML
+
+- [Crash course](https://www.youtube.com/watch?v=1uFVr15xDGg)
 
 ##### CI/CD
 
