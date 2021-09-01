@@ -312,6 +312,7 @@
 - Fetch API
    - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
    - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+   - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) (MDN)
 - [Playlist: Async JS, AJAX, XHR, Fetch, Cookies, CORS, Headers, Auth, etc.](https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7&index=1)
 
 ### Databases
