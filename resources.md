@@ -406,6 +406,7 @@
    - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
    - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
    - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
+   - [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
 
 ### Misc #2
 
