@@ -2,13 +2,13 @@
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
-Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown/) | [link](https://github.com/HarshKapadia2/preview-markdown)
-HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com/) | [link](https://github.com/HarshKapadia2/hps-gems)
-Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com/) | [link](https://github.com/HarshKapadia2/attendance_management)
-Counter | React.js, CSS | - | [link](https://harshkapadia2.github.io/react-js-counter/) | [link](https://github.com/HarshKapadia2/react-js-counter)
-Calculator| HTML, CSS, JS | - | [link](https://harshkapadia2.github.io/calculator/) | [link](https://github.com/HarshKapadia2/calculator)
-Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https://food-oye.herokuapp.com/) | [link](https://github.com/rajatrjoshi/food-oye)
-1 or 2? | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com/) | [link](https://github.com/HarshKapadia2/one-or-two)
+Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
+HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
+Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com) | [link](https://github.com/HarshKapadia2/attendance_management)
+Counter | React.js, CSS | - | [link](https://harshkapadia2.github.io/react-js-counter) | [link](https://github.com/HarshKapadia2/react-js-counter)
+Calculator| HTML, CSS, JS | - | [link](https://harshkapadia2.github.io/calculator) | [link](https://github.com/HarshKapadia2/calculator)
+Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https://food-oye.herokuapp.com) | [link](https://github.com/rajatrjoshi/food-oye)
+1 or 2? | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com) | [link](https://github.com/HarshKapadia2/one-or-two)
 Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
 
 Web Site | Front End | Live Demo | Repo
