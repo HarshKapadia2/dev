@@ -46,6 +46,7 @@ Learn and apply in an infinite loop.
 - Git and GitHub
 - Web design
 - Browser DevTools
+- Accessibility
 
 > TIP: At this point, make a static website. (Eg: Your portfolio website or the front end for a larger project to which you can add the back end later.)
 
