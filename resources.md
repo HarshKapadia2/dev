@@ -155,6 +155,7 @@
 - [Some cases of file handling](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
 - [Responsive nav bar tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g)
 - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
+- [`navigator.sendBeacon()`](https://benborgers.com/posts/navigator-sendbeacon)
 - Modules
    - [Intro](https://www.youtube.com/watch?v=cRHQNNcYf6s)
    - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
