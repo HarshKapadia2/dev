@@ -21,10 +21,6 @@ Contact Us page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-
 Marksheet replica (Desktop only) | HTML, CSS | [link](https://harshkapadia2.github.io/sample-marksheet) | [link](https://github.com/HarshKapadia2/sample-marksheet)
 LBL tribute page | HTML, CSS | [link](https://harshkapadia2.github.io/lbl-tribute-page) | [link](https://github.com/HarshKapadia2/lbl-tribute-page)
 
-NPM Package | Package Link | Repo
------------ | :----------: | :--:
-nanonets-ocr | [link](https://www.npmjs.com/package/nanonets-ocr) | [link](https://github.com/HarshKapadia2/nanonets-ocr)
-
 Documentation | Front End | Live Demo | Repo
 ------------- | --------- | :-------: | :--:
 git_basics | Asciidoctor | [PWA](https://harshkapadia2.github.io/git_basics) or [Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) | [link](https://github.com/HarshKapadia2/git_basics)
@@ -37,7 +33,12 @@ Docker | Jekyll | [link](https://harshkapadia2.github.io/docker) | [link](https:
 
 Mobile App | Tech Stack | Live Demo | Repo
 ---------- | ---------- | :-------: | :--:
+HYS Gems | React Native | - | [link](https://github.com/HarshKapadia2/hys-gems)
 Nanonets OCR | React Native | - | [link](https://github.com/HarshKapadia2/nanonets-ocr-app)
+
+NPM Package | Package Link | Repo
+----------- | :----------: | :--:
+nanonets-ocr | [link](https://www.npmjs.com/package/nanonets-ocr) | [link](https://github.com/HarshKapadia2/nanonets-ocr)
 
 Desktop App | Front End | Back End | Live Demo | Repo
 ----------- | --------- | -------- | :-------: | :--:
