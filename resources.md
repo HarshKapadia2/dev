@@ -75,6 +75,7 @@
 #### HTML
 
 - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Validator](https://validator.w3.org/) to check correctness of HTML.
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that *could* go in the head of a HTML document.
 - The Open Graph Protocol (OGP)
    - [Official web site](https://ogp.me/)
@@ -90,7 +91,7 @@
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
 - [`prefetch`, `preload` and `preconnect` resource hints](https://www.keycdn.com/blog/resource-hints)
 - [`async` and `defer` scripts](https://javascript.info/script-async-defer)
-- [Validator](https://validator.w3.org/) to check correctness of HTML.
+- [URL Text Fragments](https://web.dev/text-fragments/#text-fragments)
 
 #### CSS
 
