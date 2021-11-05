@@ -253,6 +253,7 @@
 #### Web Components API
 
 - [Crash course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
+- [HTML with Superpowers](https://www.youtube.com/watch?v=fEhBkSZ15qM)
 
 #### Misc Libraries
 
