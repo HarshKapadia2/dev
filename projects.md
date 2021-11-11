@@ -1,4 +1,4 @@
-# My Projects
+### My Projects
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
@@ -10,6 +10,11 @@ Calculator| HTML, CSS, JS | - | [link](https://harshkapadia2.github.io/calculato
 Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https://food-oye.herokuapp.com) | [link](https://github.com/rajatrjoshi/food-oye)
 1 or 2? | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com) | [link](https://github.com/HarshKapadia2/one-or-two)
 Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
+
+NPM Package | Language | Package Link | Repo
+----------- | -------- | :----------: | :--:
+@nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://github.com/NanoNets/ocr-js-sdk)
+@nanonets/image-classification | JavaScript | [link](https://www.npmjs.com/package/@nanonets/image-classification) | [link](https://github.com/NanoNets/ic-js-sdk)
 
 Web Site | Front End | Live Demo | Repo
 -------- | --------- | :-------: | :--:
@@ -35,10 +40,6 @@ Mobile App | Tech Stack | Live Demo | Repo
 ---------- | ---------- | :-------: | :--:
 HYS Gems | React Native | - | [link](https://github.com/HarshKapadia2/hys-gems)
 Nanonets OCR | React Native | - | [link](https://github.com/HarshKapadia2/nanonets-ocr-app)
-
-NPM Package | Package Link | Repo
------------ | :----------: | :--:
-nanonets-ocr | [link](https://www.npmjs.com/package/nanonets-ocr) | [link](https://github.com/HarshKapadia2/nanonets-ocr)
 
 Desktop App | Front End | Back End | Live Demo | Repo
 ----------- | --------- | -------- | :-------: | :--:
