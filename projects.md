@@ -30,8 +30,8 @@ Documentation | Front End | Live Demo | Repo
 ------------- | --------- | :-------: | :--:
 git_basics | Asciidoctor | [PWA](https://harshkapadia2.github.io/git_basics) or [Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) | [link](https://github.com/HarshKapadia2/git_basics)
 Computer Networking | Jekyll | [link](https://harshkapadia2.github.io/networking) | [link](https://github.com/HarshKapadia2/networking)
-Web Dev | Jekyll | [link](https://harshkapadia2.github.io/web-dev) | [link](https://github.com/HarshKapadia2/web-dev)
-My Talks | Jekyll | [link](https://harshkapadia2.github.io/talks) | [link](https://github.com/HarshKapadia2/talks)
+Web Dev | Jekyll | [link](https://dev.harshkapadia.me) | [link](https://github.com/HarshKapadia2/web-dev)
+My Talks | Jekyll | [link](https://talks.harshkapadia.me) | [link](https://github.com/HarshKapadia2/talks)
 Cloud | Jekyll | [link](https://harshkapadia2.github.io/cloud) | [link](https://github.com/HarshKapadia2/cloud)
 CLI | Jekyll | [link](https://harshkapadia2.github.io/cli) | [link](https://github.com/HarshKapadia2/cli)
 Docker | Jekyll | [link](https://harshkapadia2.github.io/docker) | [link](https://github.com/HarshKapadia2/docker)
