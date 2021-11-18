@@ -11,7 +11,7 @@ Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https:
 1 or 2? | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com) | [link](https://github.com/HarshKapadia2/one-or-two)
 Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
 
-NPM Package | Language | Package Link | Repo
+SDK | Language | NPM Link | Repo
 ----------- | -------- | :----------: | :--:
 @nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://github.com/NanoNets/ocr-js-sdk)
 @nanonets/image-classification | JavaScript | [link](https://www.npmjs.com/package/@nanonets/image-classification) | [link](https://github.com/NanoNets/ic-js-sdk)
