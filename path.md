@@ -79,19 +79,6 @@ Learn and apply in an infinite loop.
 - Express.js
 - REST (RESTful) APIs
 
-### JS front end frameworks/libraries
-
-> I still have to do this
-
-- Prerequisite
-   - State
-
-> TIP: Choose any ONE of the below frameworks/libraries to get started with.
-
-- Vue.js
-- React.js
-- Angular
-
 ### Python back end
 
 - Prerequisite
@@ -106,6 +93,22 @@ Learn and apply in an infinite loop.
    - PHP basics
    - PHP Data Objects (PDO)
 - PHP REST API
+
+### JS front end frameworks/libraries
+
+> I still have to do this
+
+- Prerequisite
+   - Misc
+   - JavaScript
+   - State
+   - XML
+
+> TIP: Choose any ONE of the below frameworks/libraries to get started with.
+
+- Vue.js
+- React.js
+- Angular
 
 > TIP: Make a dynamic website. (Eg: Either add a back end to the previously made front end or make a new webapp from scratch.)
 
