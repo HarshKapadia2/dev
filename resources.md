@@ -47,6 +47,7 @@
 - [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
    - [Prerequisites](#prerequisites-2)
       - [Misc](#misc)
+      - [JavaScript](#javascript)
       - [State](#state)
       - [XML](#xml)
    - [React.js](#reactjs)
@@ -392,6 +393,13 @@
 ##### Misc
 
 - [General front end framework advice](https://threadreaderapp.com/thread/1394898131926458371.html)
+
+##### JavaScript
+
+- [JavaScript requirements](https://www.youtube.com/watch?v=JR9wsVYp8RQ)
+- [JS section](#js)
+- [Async JS](#async-js)
+- [AJAX and its libraries](#ajax-and-its-libraries)
 
 ##### State
 
