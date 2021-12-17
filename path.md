@@ -126,5 +126,6 @@ Learn and apply in an infinite loop.
 > TIP: Deploy the web site/web app that you made!
 
 - YAML
+- Scripting
 - CI/CD (I still have to do this)
 - Docker
