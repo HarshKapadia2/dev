@@ -60,6 +60,7 @@
       - [Git](#git)
       - [Deployment/Hosting](#deploymenthosting)
       - [YAML](#yaml)
+      - [Scripting](#scripting)
       - [CI/CD](#cicd)
       - [Docker](#docker)
    - [Cloud](#cloud)
@@ -89,7 +90,7 @@
       - The image value has to be a URL and not a static file in the project.
       - The image size should be less than 300 kb.
 - [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading/)
-- [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations/)
+- [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations)
 - [`prefetch`, `preload` and `preconnect` resource hints](https://www.keycdn.com/blog/resource-hints)
 - [`async` and `defer` scripts](https://javascript.info/script-async-defer)
 - [URL Text Fragments](https://web.dev/text-fragments/#text-fragments)
@@ -97,7 +98,7 @@
 #### CSS
 
 - [Crash course](https://www.youtube.com/watch?v=yfoY53QXEnI)
-- [Margin vs padding](https://www.differencebetween.com/difference-between-margin-and-vs-padding/)
+- [Margin vs padding](https://www.differencebetween.com/difference-between-margin-and-vs-padding)
 - [`box-sizing` property](https://www.w3schools.com/css/css3_box-sizing.asp)
 - [Website layout](https://www.w3schools.com/css/css_website_layout.asp)
 - Selectors [PDF](https://webdevsimplified.com/specificity-cheat-sheet.html) or [article](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
@@ -107,14 +108,14 @@
    - The number of ids, classes and tags for a particular element matter in the specifity as well. More of each implies an increase in specificity.
    - `!important` trumps all, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
    - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
-   - [Specificity illustrated](https://specifishity.com/) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
+   - [Specificity illustrated](https://specifishity.com) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
    - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
-- [`display` property](https://alligator.io/css/display-inline-vs-inline-block/)
+- [`display` property](https://alligator.io/css/display-inline-vs-inline-block)
 - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
 - CSS Flexbox
    - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
    - https://github.com/MadhavBahlMD/flex
-   - [Visualizer](https://lokeshdhakar.com/projects/flexitem/)
+   - [Visualizer](https://lokeshdhakar.com/projects/flexitem)
    - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this.)
 - CSS Grid
    - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
@@ -124,9 +125,9 @@
    - [`px`, `%`, `vh`, `vw`, `em` and `rem` (Part 1 of 2)](https://www.youtube.com/watch?v=gSL0hUPBgQA) (Hindi)
    - [`rem` vs `em` (Part 2 of 2)](https://www.youtube.com/watch?v=W862VHnZ6Sw) (Hindi)
    - [W3Schools](https://www.w3schools.com/CSSref/css_units.asp)
-- [`clamp()` function](https://blog.webdevsimplified.com/2020-11/css-clamp/) (view [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()) for more)
+- [`clamp()` function](https://blog.webdevsimplified.com/2020-11/css-clamp) (view [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()) for more)
 - [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
-- [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/))
+- [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations))
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 - [Custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Responsive web site tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=WL&index=155&t=0s)
@@ -135,24 +136,24 @@
    - On https://springload.responsinator.com
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
-- [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar/)
-- [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding/)
+- [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar)
+- [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding)
    - Add the property to the `html` element for it to work.
 - CSS basics
-   - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com/))
+   - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com))
 - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 #### JS
 
 - [Crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
-- [`var` vs `let` vs `const`](https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const/)
-- [Reference vs value](https://blog.webdevsimplified.com/2021-03/js-reference-vs-value/)
+- [`var` vs `let` vs `const`](https://blog.webdevsimplified.com/2020-01/var-vs-let-vs-const)
+- [Reference vs value](https://blog.webdevsimplified.com/2021-03/js-reference-vs-value)
 - [Document Object Model](https://medium.com/@EdidiongAsikpo/getting-started-with-the-dom-d27907f17be0) (DOM)
 - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
-- [`element.classList`](https://blog.webdevsimplified.com/2020-11/class-list/)
+- [`element.classList`](https://blog.webdevsimplified.com/2020-11/class-list)
 - [HTML Element vs HTML Node and HTMLCollection vs NodeList](https://www.youtube.com/watch?v=rhvec8cXLlo) ([PDF](https://webdevsimplified.com/js-dom-traversal-cheat-sheet.html))
-- [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes/) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
-- [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/) (view [javascript.info](https://javascript.info/localstorage) for more differences)
+- [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
+- [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage) (view [javascript.info](https://javascript.info/localstorage) for more differences)
 - [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events) (`load`, `click`, `change`, `submit`, etc)
 - [Rounding off](https://medium.com/swlh/how-to-round-to-a-certain-number-of-decimal-places-in-javascript-ed74c471c1b8)
 - [Handling `NaN`](https://blog.webdevsimplified.com/2020-10/javascript-nan)
@@ -169,7 +170,7 @@
    - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
    - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
    - [Concept Visualise - JavaScript Internals](https://www.youtube.com/watch?v=R4jZ_Mylqaw)
-   - [JS Internals Visualizer](https://www.jsv9000.app/)
+   - [JS Internals Visualizer](https://www.jsv9000.app)
    - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
    - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
 
@@ -180,7 +181,7 @@
 - Sessions by me
    - [Crash course](https://www.youtube.com/watch?v=HF12-91iazM)
    - [Open Source, Hacktoberfest and Pull Requests](https://www.youtube.com/watch?v=uJdFNksgKJA)
-- [git_basics web site](https://harshkapadia2.github.io/git_basics/)
+- [git_basics web site](https://harshkapadia2.github.io/git_basics)
 - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 #### Web Design
@@ -194,7 +195,7 @@
 #### Browser DevTools
 
 - [Guide to Chrome's performance profiler](https://www.youtube.com/watch?v=KWM5wxlDuis)
-- [Chrome DevTools documentation](https://developers.google.com/web/tools/chrome-devtools/)
+- [Chrome DevTools documentation](https://developers.google.com/web/tools/chrome-devtools)
 - [Crash course (Brad Traversy)](https://www.youtube.com/watch?v=x4q86IjJFag)
 - [Crash course (FreeCodeCamp)](https://www.youtube.com/watch?v=gTVpBbFWry8)
 
@@ -216,12 +217,12 @@
 - [Demistifying Web Workers and Service Workers](https://www.youtube.com/watch?v=OgLemdR65pE) (Some content of the talk is outdated.)
 - [The Modern PWA Cheat Sheet](https://www.youtube.com/watch?v=cybhV88KLfI)
 - [Service Workers MDN](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
-- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) (Caching and network strategies.)
-- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.)
+- [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook) (Caching and network strategies.)
+- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.)
 - [Creating a PWA with JS](https://dev.to/devpato/how-to-create-a-pwa-with-javascript-4jlh)
-- [Important `manifest.json` options](https://web.dev/add-manifest/)
+- [Important `manifest.json` options](https://web.dev/add-manifest)
 - [Icon generator](https://www.pwabuilder.com/imageGenerator)
-- [Customizing the install experience](https://web.dev/customize-install/)
+- [Customizing the install experience](https://web.dev/customize-install)
 - Use LightHouse for debugging and checking.
 - Service Workers are not just used for PWAs. They are used just for caching as well.
 - Caching is an important concept for PWAs. Please go through [Caching section](#caching) below.
@@ -232,7 +233,7 @@
 
 #### Networking
 
-- [My notes and resources](https://harshkapadia2.github.io/networking/)
+- [My notes and resources](https://harshkapadia2.github.io/networking)
 
 #### RegEx
 
@@ -259,7 +260,7 @@
 
 #### Misc Libraries
 
-- [Color Thief](https://lokeshdhakar.com/projects/color-thief/) - Grab the color palette from an image using JS. Works in the browser and in Node.js.
+- [Color Thief](https://lokeshdhakar.com/projects/color-thief) - Grab the color palette from an image using JS. Works in the browser and in Node.js.
 
 #### TWA
 
@@ -267,14 +268,14 @@
    - [PWA](#pwa--service-worker-api)
    - Google Play Console Developer Account ($25 fee)
 - [What is a Trusted Web Activity?](https://www.youtube.com/watch?v=7JDFjeMvxos)
-- [TWA overview](https://developer.chrome.com/docs/android/trusted-web-activity/overview/)
-- [Build a TWA from an existing PWA](https://www.pwabuilder.com/) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md) and [Asset Link file instructions](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md))
+- [TWA overview](https://developer.chrome.com/docs/android/trusted-web-activity/overview)
+- [Build a TWA from an existing PWA](https://www.pwabuilder.com) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md) and [Asset Link file instructions](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md))
 - Hosting a TWA using GitHub Pages
    - NOTE: The PWA can be hosted from any of **your** repos. The instructions below have to be followed nonetheless.
    - Create a repo with the name `<github_username>.github.io`.
-   - The `.well-known/assetlinks.json` file should be in the root directory of the newly created repo. ([More info](https://www.mydatahack.com/releasing-multiple-pwas-to-googleplay-by-using-a-single-github-page-root/))
-   - If you're not using [Jekyll](https://jekyllrb.com/), add an empty `.nojekyll` file to the root directory of the newly created repo. ([Reason](https://github.community/t/unable-to-access-resources-in-folder-with-name-starting-with/10505))
-   - If you're using [Jekyll](https://jekyllrb.com/), change your `_config.yml` file to include the `.well-known` folder.
+   - The `.well-known/assetlinks.json` file should be in the root directory of the newly created repo. ([More info](https://www.mydatahack.com/releasing-multiple-pwas-to-googleplay-by-using-a-single-github-page-root))
+   - If you're not using [Jekyll](https://jekyllrb.com), add an empty `.nojekyll` file to the root directory of the newly created repo. ([Reason](https://github.community/t/unable-to-access-resources-in-folder-with-name-starting-with/10505))
+   - If you're using [Jekyll](https://jekyllrb.com), change your `_config.yml` file to include the `.well-known` folder.
 
 ### General Back End Prerequisites
 
@@ -315,7 +316,7 @@
    - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
    - A Cache is an object (file) and Cache Storage is a file system.
 - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
-- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag/) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
+- [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
 
 #### AJAX and its libraries
 
@@ -403,7 +404,7 @@
 
 ##### State
 
-- ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160?s=19)
+- ['State' in 30 seconds](https://twitter.com/technoidic_ash/status/1305638862631260160)
 - [What is 'state'?](https://egghead.io/articles/what-is-state-why-do-i-need-to-manage-it)
 
 ##### XML
@@ -420,7 +421,7 @@
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 - React.js internals
    - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
-   - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework/)
+   - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework)
    - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
    - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
    - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
@@ -430,13 +431,13 @@
 
 #### Web Performance
 
-- [Lighthouse](https://developers.google.com/web/tools/lighthouse/) (available in Chrome and Edge DevTools and as an add-on in Firefox)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse) (available in Chrome and Edge DevTools and as an add-on in Firefox)
 - [web.dev](https://web.dev/)
 
 #### SEO
 
 ##### `robots.txt`
-   - https://www.robotstxt.org/
+   - https://www.robotstxt.org
    - [Google Site Verification](https://developers.google.com/search/docs/advanced/robots/submit-updated-robots-txt)
 
 #### Firebase
@@ -453,25 +454,32 @@
 ##### Deployment/Hosting
 
 - For web sites only
-   - [GitHub Pages](https://pages.github.com/)
-   - [Netlify](https://www.netlify.com/)
+   - [GitHub Pages](https://pages.github.com)
+   - [Netlify](https://www.netlify.com)
 - For web sites and web apps
-   - [Heroku](https://heroku.com/)
-   - [Python Anywhere](https://www.pythonanywhere.com/) (Only for Python web sites and web apps.)
-   - [Firebase Hosting](https://firebase.google.com/docs/hosting/) (Dynamic: Only Node.js supported through Cloud Functions)
-   - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting/)
+   - [Heroku](https://heroku.com)
+   - [Vercel](https://vercel.com)
+   - [Deta](https://deta.sh)
+   - [Python Anywhere](https://www.pythonanywhere.com) (Only for Python web sites and web apps.)
+   - [Firebase Hosting](https://firebase.google.com/docs/hosting) (Dynamic: Only Node.js supported through Cloud Functions)
+   - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting)
 - Domain names
-   - [.js.org](https://js.org/) (For users, organizations, projects, etc.) (free)
-   - [.is-a.dev](https://www.is-a.dev/) (For portfolio web sites.) (free)
-   - [.ml](http://www.dot.ml/en/index.html?lang=en) (free)
+   - [.js.org](https://js.org) (For users, organizations, projects, etc.) (free)
+   - [.is-a.dev](https://www.is-a.dev) (For portfolio web sites.) (free)
+   - [.ml](http://www.dot.ml/en/index.html) (free)
 
 ##### YAML
 
 - [Crash course](https://www.youtube.com/watch?v=1uFVr15xDGg)
 
+##### Scripting
+
+- [cli](https://harshkapadia2.github.io/cli)
+
 ##### CI/CD
 
 - GitHub Actions
+- GitLab Actions
 - Jenkins
 - TravisCI
 - Circle CI
@@ -480,8 +488,8 @@
 
 - [Getting Started](https://www.youtube.com/watch?v=Kyx2PsuwomE) (part one of two)
 - [Docker Compose](https://www.youtube.com/watch?v=hP77Rua1E0c) (part two of two)
-- [My Docker repo](https://harshkapadia2.github.io/docker/)
+- [My Docker repo](https://harshkapadia2.github.io/docker)
 
 ##### Cloud
 
-- [My notes and resources](https://harshkapadia2.github.io/cloud/)
+- [My notes and resources](https://harshkapadia2.github.io/cloud)
