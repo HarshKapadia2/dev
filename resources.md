@@ -220,9 +220,14 @@
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook) (Caching and network strategies.)
 - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.)
 - [Creating a PWA with JS](https://dev.to/devpato/how-to-create-a-pwa-with-javascript-4jlh)
-- [Important `manifest.json` options](https://web.dev/add-manifest)
+- PWA Manifest
+   - [Important manifest options](https://web.dev/add-manifest)
+   - [All manifest options](https://w3c.github.io/manifest)
+   - The manifest file can have a `.json` or a `.webmanifest` extension. [The spec suggests `.webmanifest`.](https://w3c.github.io/manifest/#:~:text=File%20extension%3A%20.webmanifest%20or%20.json%3F)
+   - [`id` property](https://developer.chrome.com/blog/pwa-manifest-id)
 - [Icon generator](https://www.pwabuilder.com/imageGenerator)
 - [Customizing the install experience](https://web.dev/customize-install)
+- The Application tab in the Dev Tools can be used to check the service worker status and the manifest.
 - Use LightHouse for debugging and checking.
 - Service Workers are not just used for PWAs. They are used just for caching as well.
 - Caching is an important concept for PWAs. Please go through [Caching section](#caching) below.
