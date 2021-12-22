@@ -251,6 +251,7 @@
 
 #### Intersection Observer API
 
+- [15 minute crash course](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API)
 - [Scroll to top button](https://css-tricks.com/how-to-make-an-unobtrusive-scroll-to-top-button/#option-3-intersection-observer)
 
