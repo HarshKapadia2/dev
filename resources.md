@@ -477,6 +477,7 @@
 ##### YAML
 
 - [Crash course](https://www.youtube.com/watch?v=1uFVr15xDGg)
+- [Different string quotes and their meanings](https://stackoverflow.com/a/69850618/11958552)
 
 ##### Scripting
 
