@@ -17,11 +17,15 @@ SDK | Language | NPM Link | Repo
 @nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://github.com/NanoNets/ocr-js-sdk)
 @nanonets/image-classification | JavaScript | [link](https://www.npmjs.com/package/@nanonets/image-classification) | [link](https://github.com/NanoNets/ic-js-sdk)
 
+Template | Front End | Live Demo | Repo
+-------- | --------- | :-------: | :--:
+Asciidoctor Jet | Asciidoctor, CSS, JS | [PWA](https://harshkapadia2.github.io/asciidoctor-jet) | [link](https://github.com/HarshKapadia2/asciidoctor-jet)
+
 Web Site | Front End | Live Demo | Repo
 -------- | --------- | :-------: | :--:
 Linguistic World | HTML, CSS, JS | [link](https://linguisticworld.in) | [link](https://github.com/LinguisticWorld/web-site)
 Selena Gomez's Bio | HTML, CSS, JS | [PWA](https://harshkapadia2.github.io/sg-bio) | [link](https://github.com/HarshKapadia2/sg-bio)
-Our Tech Community | HTML, CSS | [link](https://ourtech.community) | [link](https://github.com/OurTechCommunity/web-site)
+Our Tech Community | HTML, CSS, JS | [link](https://ourtech.community) | [link](https://github.com/OurTechCommunity/web-site)
 Heartry | HTML, CSS | [link](https://www.heartry.tk) | [link](https://github.com/SirusCodes/heartry/tree/gh-pages)
 Challenges page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-challenges-page) | [link](https://github.com/HarshKapadia2/sample-challenges-page)
 Contact Us page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-contact-us-page) | [link](https://github.com/HarshKapadia2/sample-contact-us-page)
