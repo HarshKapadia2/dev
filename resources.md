@@ -84,8 +84,8 @@
 - The Open Graph Protocol (OGP)
    - [Official web site](https://ogp.me/)
    - Articles
-      - https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website/#what-is-open-graph
-      - https://indieweb.org/The-Open-Graph-protocol
+      - [What is Open Graph and how can I use it for my website?](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website)
+      - [The-Open-Graph-protocol](https://indieweb.org/The-Open-Graph-protocol)
    - [For Twitter cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
    - NOTE:
       - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
@@ -116,7 +116,7 @@
 - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
 - CSS Flexbox
    - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
-   - https://github.com/MadhavBahlMD/flex
+   - [MadhavBahlMD/flex](https://github.com/MadhavBahlMD/flex)
    - [Visualizer](https://lokeshdhakar.com/projects/flexitem)
    - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this.)
 - CSS Grid
@@ -135,7 +135,7 @@
 - [Responsive web site tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=WL&index=155&t=0s)
 - Check responsiveness on various devices
    - In the browser DevTools (best option)
-   - On https://springload.responsinator.com
+   - On [springload.responsinator.com](https://springload.responsinator.com)
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
 - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar)
@@ -445,8 +445,12 @@
 #### SEO
 
 ##### `robots.txt`
-   - https://www.robotstxt.org
+   - [robotstxt.org](https://www.robotstxt.org)
    - [Google Site Verification](https://developers.google.com/search/docs/advanced/robots/submit-updated-robots-txt)
+   - Example
+      - [google.com/robots.txt](https://www.google.com/robots.txt)
+      - [catchup.ourtech.community/robots.txt](https://catchup.ourtech.community/robots.txt)
+      - [harshkapadia2.github.io/git_basics/robots.txt](https://harshkapadia2.github.io/git_basics/robots.txt)
 
 #### Firebase
 
