@@ -78,6 +78,8 @@
 
 - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Validator](https://validator.w3.org/) to check correctness of HTML.
+- [Absolute vs relative links](https://stackoverflow.com/a/14278020/11958552)
+   - Difference between `href="css/style.css"` (relative link) and `href="/css/style.css"` (absolute link).
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that *could* go in the head of a HTML document.
 - The Open Graph Protocol (OGP)
    - [Official web site](https://ogp.me/)
