@@ -154,7 +154,10 @@
 - [Document Object Model](https://medium.com/@EdidiongAsikpo/getting-started-with-the-dom-d27907f17be0) (DOM)
 - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
 - [`element.classList`](https://blog.webdevsimplified.com/2020-11/class-list)
-- [Callbacks](https://github.com/maxogden/art-of-node#callbacks)
+- Callbacks
+   - [The Art of Node: Callbacks](https://github.com/maxogden/art-of-node#callbacks)
+   - [How (not) to get a value "out of" a callback](https://felix-kling.de/blog/2019/javascript-callbacks-misconceptions.html)
+   - Promises can be one way to get data 'out' of a callback. ([Example](https://github.com/HarshKapadia2/git-graph/blob/main/src/util/generateObjects.js#L161))
 - [HTML Element vs HTML Node and HTMLCollection vs NodeList](https://www.youtube.com/watch?v=rhvec8cXLlo) ([PDF](https://webdevsimplified.com/js-dom-traversal-cheat-sheet.html))
 - [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
 - [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage) (view [javascript.info](https://javascript.info/localstorage) for more differences)
@@ -362,6 +365,7 @@
 - [Crash course](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [The Art of Node](https://github.com/maxogden/art-of-node)
 - [Middleware](https://thenextbigwriter.tech/middlewares-in-express-js-ck8d87su900w3xes1ny80u28q)
+- ['Callbacks' in JS section above](#js:~:text=Callbacks)
 - Modules
    - Refer to the 'Modules' point in the [JS section](#js) above.
    - [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
