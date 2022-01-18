@@ -437,6 +437,7 @@
 - React.js internals
    - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
    - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework)
+   - [Why does React.js need keys?](https://twitter.com/dan_abramov/status/1415279090446204929)
    - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
    - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
    - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
