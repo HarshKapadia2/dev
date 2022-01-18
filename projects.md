@@ -24,7 +24,7 @@ Asciidoctor Jet | Asciidoctor, CSS, JS | [PWA](https://harshkapadia2.github.io/a
 
 Web Site | Front End | Live Demo | Repo
 -------- | --------- | :-------: | :--:
-Portfolio | HTML, CSS, JS | [link](https://harshkapadia.me) | [link](https://github.com/HarshKapadia2/portfolio-v2)
+My portfolio | HTML, CSS, JS | [link](https://harshkapadia.me) | [link](https://github.com/HarshKapadia2/portfolio-v2)
 Linguistic World | HTML, CSS, JS | [link](https://linguisticworld.in) | [link](https://github.com/LinguisticWorld/web-site)
 Selena Gomez's Bio | HTML, CSS, JS | [PWA](https://harshkapadia2.github.io/sg-bio) | [link](https://github.com/HarshKapadia2/sg-bio)
 Our Tech Community | HTML, CSS, JS | [link](https://ourtech.community) | [link](https://github.com/OurTechCommunity/web-site)
