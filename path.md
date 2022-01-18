@@ -12,6 +12,7 @@ Everyone has their own journey and this has been mine up till now!
 - Tell people what you're learning. The more that people know, the better.
    - Add projects on LinkedIn as posts and in the projects section.
    - Be active on Twitter.
+- Keep this in mind: [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
 
 ## My working process
 
