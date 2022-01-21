@@ -114,7 +114,9 @@
    - [Specificity illustrated](https://specifishity.com) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
    - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
 - [`display` property](https://alligator.io/css/display-inline-vs-inline-block)
-- [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
+- Positioning
+   - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
+   - [CSS Position Ultimate Guide](https://blog.webdevsimplified.com/2022-01/css-position)
 - CSS Flexbox
    - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
    - [MadhavBahlMD/flex](https://github.com/MadhavBahlMD/flex)
