@@ -16,6 +16,7 @@ Everyone has their own journey and this has been mine up till now!
 - Keep in mind
    - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
    - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+   - [Presentation and Documentation](https://undirected-graph.netlify.app/posts/presentation)
 
 ## My working process
 
