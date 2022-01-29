@@ -411,6 +411,7 @@
 ##### Misc
 
 - [General front end framework advice](https://threadreaderapp.com/thread/1394898131926458371.html)
+- [How To Handle Large Amounts of Data in React-based Applications](https://betterprogramming.pub/how-to-handle-large-amounts-of-data-in-react-based-applications-8d97dd80a9f1)
 
 ##### JavaScript
 
