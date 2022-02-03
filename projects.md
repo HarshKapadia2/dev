@@ -4,7 +4,7 @@ Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
 Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
 HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
-OTC CatchUp | HTML, CSS, JS, Asciidoctor | Node.js, Deta Base | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
+OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta Base | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
 Git Graph | React.js | - | [link](https://harshkapadia2.github.io/git-graph) | [link](https://github.com/HarshKapadia2/git-graph)
 Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com) | [link](https://github.com/HarshKapadia2/attendance_management)
 Counter | React.js, CSS | - | [link](https://harshkapadia2.github.io/react-js-counter) | [link](https://github.com/HarshKapadia2/react-js-counter)
@@ -36,8 +36,9 @@ LBL tribute page | HTML, CSS | [link](https://harshkapadia2.github.io/lbl-tribut
 
 Documentation | Front End | Live Demo | Repo
 ------------- | --------- | :-------: | :--:
-git_basics | Asciidoctor | [PWA](https://harshkapadia2.github.io/git_basics) or [Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) | [link](https://github.com/HarshKapadia2/git_basics)
-Computer Networking | Jekyll | [link](https://harshkapadia2.github.io/networking) | [link](https://github.com/HarshKapadia2/networking)
+Git Internals | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | [PWA](https://git.harshkapadia.me) | [link](https://github.com/HarshKapadia2/git_internals)
+git_basics | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | [PWA](https://harshkapadia2.github.io/git_basics) or [Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) | [link](https://github.com/HarshKapadia2/git_basics)
+Computer Networking | Jekyll | [link](https://networking.harshkapadia.me) | [link](https://github.com/HarshKapadia2/networking)
 Web Dev | Jekyll | [link](https://dev.harshkapadia.me) | [link](https://github.com/HarshKapadia2/web-dev)
 My Talks | Jekyll | [link](https://talks.harshkapadia.me) | [link](https://github.com/HarshKapadia2/talks)
 Cloud | Jekyll | [link](https://harshkapadia2.github.io/cloud) | [link](https://github.com/HarshKapadia2/cloud)
