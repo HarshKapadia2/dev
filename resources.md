@@ -188,9 +188,11 @@
 #### Git and GitHub
 
 - Sessions by me
-   - [Crash course](https://www.youtube.com/watch?v=HF12-91iazM)
-   - [Open Source, Hacktoberfest and Pull Requests](https://www.youtube.com/watch?v=uJdFNksgKJA)
-- [git_basics web site](https://harshkapadia2.github.io/git_basics)
+   - [Git Basics - The Basics of Git and GitHub](https://talks.harshkapadia.me/git_basics)
+   - [Git Internals - How does Git work!?](https://talks.harshkapadia.me/git_internals)
+   - [Hacktoberfest, Open Source and Pull Requests](https://talks.harshkapadia.me/otc_open_source_hacktoberfest_2020)
+- [git_basics PWA](https://harshkapadia2.github.io/git_basics)
+- [Git Internals PWA](https://git.harshkapadia.me)
 - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 #### Web Design
@@ -247,7 +249,7 @@
 
 #### Networking
 
-- [My notes and resources](https://harshkapadia2.github.io/networking)
+- [My notes and resources](https://networking.harshkapadia.me)
 
 #### RegEx
 
