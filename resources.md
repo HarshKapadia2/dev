@@ -436,6 +436,7 @@
 
 - [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [Crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- [`useState` array pass by reference gotcha](https://stackoverflow.com/a/67354136/11958552)
 - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
 - [The `useRef` hook](https://www.youtube.com/watch?v=t2ypzz6gJm0)
