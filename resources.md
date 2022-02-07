@@ -114,10 +114,11 @@
    - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
    - [Specificity illustrated](https://specifishity.com) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
    - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
-- [`display` property](https://alligator.io/css/display-inline-vs-inline-block)
+- [Always maintaining round borders using `border-radius: 50%;`.](https://www.codecademy.com/forum_questions/559fe347e39efe4cf40005a9)
 - Positioning
    - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
    - [CSS Position Ultimate Guide](https://blog.webdevsimplified.com/2022-01/css-position)
+- [`display` property](https://alligator.io/css/display-inline-vs-inline-block)
 - CSS Flexbox
    - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
    - [MadhavBahlMD/flex](https://github.com/MadhavBahlMD/flex)
