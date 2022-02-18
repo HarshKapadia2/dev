@@ -1,9 +1,9 @@
-# My Projects
+# Harsh Kapadia's Projects
 
 Web App | Front End | Back End | Live Demo | Repo
 ------- | --------- | -------- | :-------: | :--:
 Git Graph (Desktop only) | React.js | - | [link](https://harshkapadia2.github.io/git-graph) | [link](https://github.com/HarshKapadia2/git-graph)
-OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta Base | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
+OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta Base, Shell | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
 HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
 Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
 Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com) | [link](https://github.com/HarshKapadia2/attendance_management)
@@ -12,11 +12,6 @@ Calculator| HTML, CSS, JS | - | [link](https://harshkapadia2.github.io/calculato
 Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https://food-oye.herokuapp.com) | [link](https://github.com/rajatrjoshi/food-oye)
 1 or 2? | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com) | [link](https://github.com/HarshKapadia2/one-or-two)
 Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
-
-SDK | Language | NPM Link | Repo
------------ | -------- | :----------: | :--:
-@nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://github.com/NanoNets/ocr-js-sdk)
-@nanonets/image-classification | JavaScript | [link](https://www.npmjs.com/package/@nanonets/image-classification) | [link](https://github.com/NanoNets/ic-js-sdk)
 
 Template | Front End | Live Demo | Repo
 -------- | --------- | :-------: | :--:
@@ -44,6 +39,15 @@ My Talks | Jekyll | [link](https://talks.harshkapadia.me) | [link](https://githu
 Cloud | Jekyll | [link](https://harshkapadia2.github.io/cloud) | [link](https://github.com/HarshKapadia2/cloud)
 CLI | Jekyll | [link](https://harshkapadia2.github.io/cli) | [link](https://github.com/HarshKapadia2/cli)
 Docker | Jekyll | [link](https://harshkapadia2.github.io/docker) | [link](https://github.com/HarshKapadia2/docker)
+
+SDK | Language | NPM Link | Repo
+----------- | -------- | :----------: | :--:
+@nanonets/optical-character-recognition | JavaScript | [link](https://www.npmjs.com/package/@nanonets/optical-character-recognition) | [link](https://github.com/NanoNets/ocr-js-sdk)
+@nanonets/image-classification | JavaScript | [link](https://www.npmjs.com/package/@nanonets/image-classification) | [link](https://github.com/NanoNets/ic-js-sdk)
+
+GitHub Action | GitHub Marketplace | Repo
+------------- | :----------------: | :--:
+Deta Deploy | [link](https://github.com/marketplace/actions/deta-deploy) | [link](https://github.com/HarshKapadia2/deta-deploy)
 
 Mobile App | Tech Stack | Live Demo | Repo
 ---------- | ---------- | :-------: | :--:
