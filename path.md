@@ -18,7 +18,9 @@ Everyone has their own journey and this has been mine up till now!
    - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
    - [Presentation and Documentation](https://undirected-graph.netlify.app/posts/presentation)
    - [The Key to a Good Life? Lose Yourself in Something.](https://getpocket.com/explore/item/the-key-to-a-good-life-lose-yourself-in-something)
-   - [PewDiePie's Philosophical Videos](https://www.youtube.com/playlist?list=PLIDKFkBlUzOnbm0o8ktgoyz1OvrN8gFUA)
+   - [PewDiePie's philosophical videos](https://www.youtube.com/playlist?list=PLIDKFkBlUzOnbm0o8ktgoyz1OvrN8gFUA)
+   - [We fired our top talent. Best decision we ever made.](https://www.freecodecamp.org/news/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
+      - [A team reborn after the fiery departure of its misanthropic guru](https://blog.solha.co/life-after-rick-our-team-reborn-after-the-fiery-departure-of-our-misanthropic-guru-b1fbaf3b8621)
 
 ## My working process
 
