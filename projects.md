@@ -20,9 +20,10 @@ Asciidoctor Jet | Asciidoctor, CSS, JS | [PWA](https://harshkapadia2.github.io/a
 Web Site | Front End | Live Demo | Repo
 -------- | --------- | :-------: | :--:
 My portfolio | HTML, CSS, JS | [link](https://harshkapadia.me) | [link](https://github.com/HarshKapadia2/portfolio-v2)
-Linguistic World | HTML, CSS, JS | [link](https://linguisticworld.in) | [link](https://github.com/LinguisticWorld/web-site)
-Selena Gomez's Bio | HTML, CSS, JS | [PWA](https://harshkapadia2.github.io/sg-bio) | [link](https://github.com/HarshKapadia2/sg-bio)
+Car Details (Viz & Prediction) | Rendered RMarkdown | [link](https://harshkapadia2.github.io/car-details) | [link](https://github.com/HarshKapadia2/car-details)
 Our Tech Community | HTML, CSS, JS | [link](https://ourtech.community) | [link](https://github.com/OurTechCommunity/web-site)
+Selena Gomez's Bio | HTML, CSS, JS | [PWA](https://harshkapadia2.github.io/sg-bio) | [link](https://github.com/HarshKapadia2/sg-bio)
+Linguistic World | HTML, CSS, JS | [link](https://linguisticworld.in) | [link](https://github.com/LinguisticWorld/web-site)
 Heartry | HTML, CSS | [link](https://www.heartry.tk) | [link](https://github.com/SirusCodes/heartry/tree/gh-pages)
 Challenges page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-challenges-page) | [link](https://github.com/HarshKapadia2/sample-challenges-page)
 Contact Us page | HTML, CSS, JS | [link](https://harshkapadia2.github.io/sample-contact-us-page) | [link](https://github.com/HarshKapadia2/sample-contact-us-page)
