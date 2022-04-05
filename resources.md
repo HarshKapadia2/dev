@@ -95,7 +95,10 @@
       - The image size should be less than 300 kb.
 - [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading/)
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations)
-- [`prefetch`, `preload` and `preconnect` resource hints](https://www.keycdn.com/blog/resource-hints)
+- Resource hints
+   - [`prefetch`, `preload` and `preconnect`](https://www.keycdn.com/blog/resource-hints)
+   - [`preconnect` and `dns-prefetch`](https://web.dev/preconnect-and-dns-prefetch)
+   - [`preconnect` resource hint and the `crossorigin` attribute](https://crenshaw.dev/preconnect-resource-hint-crossorigin-attribute)
 - [`async` and `defer` scripts](https://javascript.info/script-async-defer)
 - [URL Text Fragments](https://web.dev/text-fragments/#text-fragments)
 
