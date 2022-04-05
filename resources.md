@@ -400,7 +400,8 @@
 #### Flask
    - [Crash course](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
    - [*Tech With Tim*'s series](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
-   - [Documentation](https://flask.palletsprojects.com/en/1.1.x/)
+   - [Documentation](https://flask.palletsprojects.com/en/1.1.x)
+   - [How to enable CORS in Flask?](https://stackoverflow.com/a/52875875/11958552)
 
 ### PHP
 
