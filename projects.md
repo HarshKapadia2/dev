@@ -5,12 +5,13 @@ Web App | Front End | Back End | Live Demo | Repo
 Git Graph (Desktop only) | React.js | - | [link](https://harshkapadia2.github.io/git-graph) | [link](https://github.com/HarshKapadia2/git-graph)
 OTC CatchUp | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta Base, Shell | [link](https://catchup.ourtech.community) | [link](https://github.com/OurTechCommunity/catchup)
 HPS Gems | HTML, CSS, JS | PHP, MySQL | [link](https://hps-gems.herokuapp.com) | [link](https://github.com/HarshKapadia2/hps-gems)
+IPL APP (AI) | React.js | Flask, `scikit-learn` | [link](https://harshkapadia2.github.io/ipl-app) | [link](https://github.com/HarshKapadia2/ipl-app)
 Preview Markdown | React.js, CSS | - | [link](https://harshkapadia2.github.io/preview-markdown) | [link](https://github.com/HarshKapadia2/preview-markdown)
 Attendance Manager | Template | Flask, Firebase | [link](https://attendance-management-flask.herokuapp.com) | [link](https://github.com/HarshKapadia2/attendance_management)
 Counter | React.js, CSS | - | [link](https://harshkapadia2.github.io/react-js-counter) | [link](https://github.com/HarshKapadia2/react-js-counter)
 Calculator| HTML, CSS, JS | - | [link](https://harshkapadia2.github.io/calculator) | [link](https://github.com/HarshKapadia2/calculator)
 Food Oye (Mobile only) | HTML, Bootstrap, JS | Node.js, Firebase | [link](https://food-oye.herokuapp.com) | [link](https://github.com/rajatrjoshi/food-oye)
-1 or 2? | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com) | [link](https://github.com/HarshKapadia2/one-or-two)
+1 or 2? (AI) | HTML, CSS, JS | Flask | [link](https://one-or-two.herokuapp.com) | [link](https://github.com/HarshKapadia2/one-or-two)
 Court Case Management | HTML, CSS, JS | Node.js, MongoDB | - | [link](https://github.com/HarshKapadia2/court_case_management_web_app)
 
 Template | Front End | Live Demo | Repo
