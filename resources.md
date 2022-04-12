@@ -77,14 +77,14 @@
 #### HTML
 
 - [Crash course](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Validator](https://validator.w3.org/) to check correctness of HTML.
+- [Validator](https://validator.w3.org) to check correctness of HTML.
 - [Best practices](https://github.com/hail2u/html-best-practices)
 - [Absolute vs relative links](https://stackoverflow.com/a/14278020/11958552)
   - Difference between `href="css/style.css"` (relative link) and `href="/css/style.css"` (absolute link).
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that could go in the head of a HTML document.
 - [`ct.css`](https://github.com/csswizardry/ct) - A diagnostic CSS snippet that exposes potential performance issues in a HTML document’s `<head>` tag.
 - The Open Graph Protocol (OGP)
-  - [Official web site](https://ogp.me/)
+  - [Official web site](https://ogp.me)
   - Articles
     - [What is Open Graph and how can I use it for my website?](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website)
     - [The-Open-Graph-protocol](https://indieweb.org/The-Open-Graph-protocol)
@@ -93,7 +93,7 @@
     - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
     - The image value has to be a URL and not a static file in the project.
     - The image size should be less than 300 kb.
-- [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading/)
+- [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading)
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations)
 - Resource hints
   - [`prefetch`, `preload` and `preconnect`](https://www.keycdn.com/blog/resource-hints)
@@ -319,7 +319,7 @@
 #### JSON
 
 - [Crash course](https://www.youtube.com/watch?v=iiADhChRriM)
-- [Schema templates](https://www.schemastore.org/json/) (for JSON, JavaScript and CSS)
+- [Schema templates](https://www.schemastore.org/json) (for JSON, JavaScript and CSS)
 - [`JSON.stringify`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) and its [optional parameters](https://www.youtube.com/watch?v=0k4NwimfszA).
 - [`JSON.parse`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
@@ -336,7 +336,7 @@
 #### Async JS
 
 - [Crash course](https://www.youtube.com/watch?v=_8gHHBlbziw)
-- [`async`/`await` article](https://www.freecodecamp.org/news/async-await-javascript-tutorial/)
+- [`async`/`await` article](https://www.freecodecamp.org/news/async-await-javascript-tutorial)
 
 #### Caching
 
@@ -346,7 +346,7 @@
 - Difference between the Cache API and CacheStorage API
   - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
   - A Cache is an object (file) and Cache Storage is a file system.
-- [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
+- [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css))
 - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
 
 #### Cookies
@@ -365,7 +365,7 @@
 
 ### Databases
 
-- [A Database of Databases](https://dbdb.io/)
+- [A Database of Databases](https://dbdb.io)
 
 #### SQL
 
@@ -460,6 +460,9 @@
 - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
 - [The `useRef` hook](https://www.youtube.com/watch?v=t2ypzz6gJm0)
+- Memoization
+  - [Understanding re-rendering and memoization in React](https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4)
+  - [Use `React.memo()` wisely](https://dmitripavlutin.com/use-react-memo-wisely)
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 - React.js internals
   - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
@@ -475,7 +478,7 @@
 #### Web Performance
 
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) (available in Chrome and Edge DevTools and as an add-on in Firefox)
-- [web.dev](https://web.dev/)
+- [web.dev](https://web.dev)
 
 #### SEO
 
