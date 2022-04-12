@@ -7,63 +7,63 @@
 
 - [Prerequisites](#prerequisites)
 - [Front End](#front-end)
-   - [HTML](#html)
-   - [CSS](#css)
-   - [JS](#js)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [JS](#js)
 - [Misc #1](#misc-1)
-   - [Git and GitHub](#git-and-github)
-   - [Web Design](#web-design)
-   - [Browser DevTools](#browser-devtools)
-   - [Accessibility](#accessibility)
-   - [PWA (+ Service Worker API)](#pwa--service-worker-api)
-   - [Networking](#networking)
-   - [RegEx](#regex)
-   - [SVG](#svg)
-   - [Intersection Observer API](#intersection-observer-api)
-   - [InedxedDB](#indexeddb)
-   - [Web Components API](#web-components-api)
-   - [Misc Libraries](#misc-libraries)
-   - [TWA](#twa)
+  - [Git and GitHub](#git-and-github)
+  - [Web Design](#web-design)
+  - [Browser DevTools](#browser-devtools)
+  - [Accessibility](#accessibility)
+  - [PWA (+ Service Worker API)](#pwa--service-worker-api)
+  - [Networking](#networking)
+  - [RegEx](#regex)
+  - [SVG](#svg)
+  - [Intersection Observer API](#intersection-observer-api)
+  - [InedxedDB](#indexeddb)
+  - [Web Components API](#web-components-api)
+  - [Misc Libraries](#misc-libraries)
+  - [TWA](#twa)
 - [General Back End Prerequisites](#general-back-end-prerequisites)
-   - [HTTP](#http)
-   - [JSON](#json)
-   - [APIs](#apis)
-   - [Async JS](#async-js)
-   - [Caching](#caching)
-   - [AJAX and its libraries](#ajax-and-its-libraries)
+  - [HTTP](#http)
+  - [JSON](#json)
+  - [APIs](#apis)
+  - [Async JS](#async-js)
+  - [Caching](#caching)
+  - [AJAX and its libraries](#ajax-and-its-libraries)
 - [Databases](#databases)
-   - [SQL](#sql)
-   - [NoSQL](#nosql)
+  - [SQL](#sql)
+  - [NoSQL](#nosql)
 - [JS Back End](#js-back-end)
-   - [Node.js](#nodejs)
-   - [Express.js](#expressjs)
-   - [JS REST API](#js-rest-api)
+  - [Node.js](#nodejs)
+  - [Express.js](#expressjs)
+  - [JS REST API](#js-rest-api)
 - [Python Back End](#python-back-end)
-   - [Prerequisite](#prerequisite)
-   - [Flask](#flask)
+  - [Prerequisite](#prerequisite)
+  - [Flask](#flask)
 - [PHP](#php)
-   - [Prerequisites](#prerequisites-1)
-   - [PHP REST API](#php-rest-api)
+  - [Prerequisites](#prerequisites-1)
+  - [PHP REST API](#php-rest-api)
 - [Front End JS Frameworks/Libraries](#front-end-js-frameworkslibraries)
-   - [Prerequisites](#prerequisites-2)
-      - [Misc](#misc)
-      - [JavaScript](#javascript)
-      - [State](#state)
-      - [XML](#xml)
-   - [React.js](#reactjs)
+  - [Prerequisites](#prerequisites-2)
+    - [Misc](#misc)
+    - [JavaScript](#javascript)
+    - [State](#state)
+    - [XML](#xml)
+  - [React.js](#reactjs)
 - [Misc #2](#misc-2)
-   - [Web Performance](#web-performance)
-   - [SEO](#seo)
-      - [`robots.txt`](#robotstxt)
-   - [Firebase](#firebase)
-   - [DevOps](#devops)
-      - [Git](#git)
-      - [Deployment/Hosting](#deploymenthosting)
-      - [YAML](#yaml)
-      - [Scripting](#scripting)
-      - [CI/CD](#cicd)
-      - [Docker](#docker)
-   - [Cloud](#cloud)
+  - [Web Performance](#web-performance)
+  - [SEO](#seo)
+    - [`robots.txt`](#robotstxt)
+  - [Firebase](#firebase)
+  - [DevOps](#devops)
+    - [Git](#git)
+    - [Deployment/Hosting](#deploymenthosting)
+    - [YAML](#yaml)
+    - [Scripting](#scripting)
+    - [CI/CD](#cicd)
+    - [Docker](#docker)
+  - [Cloud](#cloud)
 
 ## My Resources
 
@@ -80,25 +80,25 @@
 - [Validator](https://validator.w3.org/) to check correctness of HTML.
 - [Best practices](https://github.com/hail2u/html-best-practices)
 - [Absolute vs relative links](https://stackoverflow.com/a/14278020/11958552)
-   - Difference between `href="css/style.css"` (relative link) and `href="/css/style.css"` (absolute link).
+  - Difference between `href="css/style.css"` (relative link) and `href="/css/style.css"` (absolute link).
 - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that could go in the head of a HTML document.
 - [`ct.css`](https://github.com/csswizardry/ct) - A diagnostic CSS snippet that exposes potential performance issues in a HTML document’s `<head>` tag.
 - The Open Graph Protocol (OGP)
-   - [Official web site](https://ogp.me/)
-   - Articles
-      - [What is Open Graph and how can I use it for my website?](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website)
-      - [The-Open-Graph-protocol](https://indieweb.org/The-Open-Graph-protocol)
-   - [For Twitter cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-   - NOTE:
-      - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
-      - The image value has to be a URL and not a static file in the project.
-      - The image size should be less than 300 kb.
+  - [Official web site](https://ogp.me/)
+  - Articles
+    - [What is Open Graph and how can I use it for my website?](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website)
+    - [The-Open-Graph-protocol](https://indieweb.org/The-Open-Graph-protocol)
+  - [For Twitter cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
+  - NOTE:
+    - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
+    - The image value has to be a URL and not a static file in the project.
+    - The image size should be less than 300 kb.
 - [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading/)
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations)
 - Resource hints
-   - [`prefetch`, `preload` and `preconnect`](https://www.keycdn.com/blog/resource-hints)
-   - [`preconnect` and `dns-prefetch`](https://web.dev/preconnect-and-dns-prefetch)
-   - [`preconnect` resource hint and the `crossorigin` attribute](https://crenshaw.dev/preconnect-resource-hint-crossorigin-attribute)
+  - [`prefetch`, `preload` and `preconnect`](https://www.keycdn.com/blog/resource-hints)
+  - [`preconnect` and `dns-prefetch`](https://web.dev/preconnect-and-dns-prefetch)
+  - [`preconnect` resource hint and the `crossorigin` attribute](https://crenshaw.dev/preconnect-resource-hint-crossorigin-attribute)
 - [`async` and `defer` scripts](https://javascript.info/script-async-defer)
 - [URL Text Fragments](https://web.dev/text-fragments/#text-fragments)
 
@@ -111,46 +111,46 @@
 - Selectors [PDF](https://webdevsimplified.com/specificity-cheat-sheet.html) or [article](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 - [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 - Specificity
-   - Order: `!important` > `inline` > `id selectors` > `class selectors + attribute selectors + pseudo-classes` > `element selectors (tags) + pseudo-elements`
-   - The number of ids, classes and tags for a particular element matter in the specifity as well. More of each implies an increase in specificity.
-   - `!important` trumps all, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
-   - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
-   - [Specificity illustrated](https://specifishity.com) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
-   - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
+  - Order: `!important` > `inline` > `id selectors` > `class selectors + attribute selectors + pseudo-classes` > `element selectors (tags) + pseudo-elements`
+  - The number of ids, classes and tags for a particular element matter in the specifity as well. More of each implies an increase in specificity.
+  - `!important` trumps all, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
+  - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
+  - [Specificity illustrated](https://specifishity.com) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
+  - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
 - [Always maintaining round borders using `border-radius: 50%;`.](https://www.codecademy.com/forum_questions/559fe347e39efe4cf40005a9)
 - Positioning
-   - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
-   - [CSS Position Ultimate Guide](https://blog.webdevsimplified.com/2022-01/css-position)
+  - [`position` property](https://www.w3schools.com/Css/css_positioning.asp)
+  - [CSS Position Ultimate Guide](https://blog.webdevsimplified.com/2022-01/css-position)
 - [`display` property](https://alligator.io/css/display-inline-vs-inline-block)
 - CSS Flexbox
-   - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
-   - [MadhavBahlMD/flex](https://github.com/MadhavBahlMD/flex)
-   - [Visualizer](https://lokeshdhakar.com/projects/flexitem)
-   - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this.)
+  - [Livestream by Madhav Bahl](https://www.youtube.com/watch?v=LKmsQCUb0oE)
+  - [MadhavBahlMD/flex](https://github.com/MadhavBahlMD/flex)
+  - [Visualizer](https://lokeshdhakar.com/projects/flexitem)
+  - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=JJSoEo8JSnc) (Haven't watched this.)
 - CSS Grid
-   - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
-   - [Browser extension *Gridman* for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) (Incase the DevTools don't support CSS Grid.)
+  - [Crash course](https://www.youtube.com/watch?v=EFafSYg-PkI)
+  - [Browser extension _Gridman_ for Grid lines](https://chrome.google.com/webstore/detail/gridman-css-grid-inspecto/cmplbmppmfboedgkkelpkfgaakabpicn) (Incase the DevTools don't support CSS Grid.)
 - [Media queries](https://www.w3schools.com/css/css3_mediaqueries.asp)
 - Units
-   - [`px`, `%`, `vh`, `vw`, `em` and `rem` (Part 1 of 2)](https://www.youtube.com/watch?v=gSL0hUPBgQA) (Hindi)
-   - [`rem` vs `em` (Part 2 of 2)](https://www.youtube.com/watch?v=W862VHnZ6Sw) (Hindi)
-   - [W3Schools](https://www.w3schools.com/CSSref/css_units.asp)
-- [`clamp()` function](https://blog.webdevsimplified.com/2020-11/css-clamp) (view [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()) for more)
+  - [`px`, `%`, `vh`, `vw`, `em` and `rem` (Part 1 of 2)](https://www.youtube.com/watch?v=gSL0hUPBgQA) (Hindi)
+  - [`rem` vs `em` (Part 2 of 2)](https://www.youtube.com/watch?v=W862VHnZ6Sw) (Hindi)
+  - [W3Schools](https://www.w3schools.com/CSSref/css_units.asp)
+- [`clamp()` function](https://blog.webdevsimplified.com/2020-11/css-clamp) (view [MDN](<https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()>) for more)
 - [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
 - [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations))
 - [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
 - [Custom properties (variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
 - [Responsive web site tutorial](https://www.youtube.com/watch?v=ZeDP-rzOnAA&list=WL&index=155&t=0s)
 - Check responsiveness on various devices
-   - In the browser DevTools (best option)
-   - On [springload.responsinator.com](https://springload.responsinator.com)
+  - In the browser DevTools (best option)
+  - On [springload.responsinator.com](https://springload.responsinator.com)
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
 - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar)
 - [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding)
-   - Add the property to the `html` element for it to work.
+  - Add the property to the `html` element for it to work.
 - CSS basics
-   - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com))
+  - [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com))
 - [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 #### JS
@@ -162,15 +162,15 @@
 - [`window` vs `document`](https://stackoverflow.com/questions/9895202/what-is-the-difference-between-window-screen-and-document-in-javascript)
 - [`element.classList`](https://blog.webdevsimplified.com/2020-11/class-list)
 - Callbacks
-   - [The Art of Node: Callbacks](https://github.com/maxogden/art-of-node#callbacks)
-   - [How (not) to get a value "out of" a callback.](https://felix-kling.de/blog/2019/javascript-callbacks-misconceptions.html)
-   - Promises can be one way to get data 'out' of a callback. ([Example](https://github.com/HarshKapadia2/git-graph/blob/main/src/util/generateObjects.js#L161))
+  - [The Art of Node: Callbacks](https://github.com/maxogden/art-of-node#callbacks)
+  - [How (not) to get a value "out of" a callback.](https://felix-kling.de/blog/2019/javascript-callbacks-misconceptions.html)
+  - Promises can be one way to get data 'out' of a callback. ([Example](https://github.com/HarshKapadia2/git-graph/blob/main/src/util/generateObjects.js#L161))
 - [HTML Element vs HTML Node and HTMLCollection vs NodeList](https://www.youtube.com/watch?v=rhvec8cXLlo) ([PDF](https://webdevsimplified.com/js-dom-traversal-cheat-sheet.html))
 - [Data attributes](https://blog.webdevsimplified.com/2020-10/javascript-data-attributes) (`element.dataset` property - view [MDN](https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset) for more.)
 - [`localStorage` vs `sessionStorage`](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage) (view [javascript.info](https://javascript.info/localstorage) for more differences)
 - Events
-   - [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events) (`load`, `click`, `change`, `submit`, etc)
-   - [Page: DOMContentLoaded, load, beforeunload, unload](https://javascript.info/onload-ondomcontentloaded)
+  - [Event reference](https://developer.mozilla.org/en-US/docs/Web/Events) (`load`, `click`, `change`, `submit`, etc)
+  - [Page: DOMContentLoaded, load, beforeunload, unload](https://javascript.info/onload-ondomcontentloaded)
 - [Rounding off](https://medium.com/swlh/how-to-round-to-a-certain-number-of-decimal-places-in-javascript-ed74c471c1b8)
 - [Handling `NaN`](https://blog.webdevsimplified.com/2020-10/javascript-nan)
 - [Some cases of file handling](https://developer.mozilla.org/en-US/docs/Web/API/File/Using_files_from_web_applications)
@@ -178,26 +178,26 @@
 - [HTML Drag and Drop API](https://www.youtube.com/watch?v=Wtrin7C4b7w)
 - [`navigator.sendBeacon()`](https://benborgers.com/posts/navigator-sendbeacon)
 - Modules
-   - [Intro](https://www.youtube.com/watch?v=cRHQNNcYf6s)
-   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-   - [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-   - [`export` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+  - [Intro](https://www.youtube.com/watch?v=cRHQNNcYf6s)
+  - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+  - [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+  - [`export` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 - JS internals
-   - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
-   - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
-   - [Concept Visualise - JavaScript Internals](https://www.youtube.com/watch?v=R4jZ_Mylqaw)
-   - [JS Internals Visualizer](https://www.jsv9000.app)
-   - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
-   - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
+  - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
+  - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
+  - [Concept Visualise - JavaScript Internals](https://www.youtube.com/watch?v=R4jZ_Mylqaw)
+  - [JS Internals Visualizer](https://www.jsv9000.app)
+  - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
+  - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
 
 ### Misc #1
 
 #### Git and GitHub
 
 - Sessions by me
-   - [Git Basics - The Basics of Git and GitHub](https://talks.harshkapadia.me/git_basics)
-   - [Git Internals - How does Git work!?](https://talks.harshkapadia.me/git_internals)
-   - [Hacktoberfest, Open Source and Pull Requests](https://talks.harshkapadia.me/otc_open_source_hacktoberfest_2020)
+  - [Git Basics - The Basics of Git and GitHub](https://talks.harshkapadia.me/git_basics)
+  - [Git Internals - How does Git work!?](https://talks.harshkapadia.me/git_internals)
+  - [Hacktoberfest, Open Source and Pull Requests](https://talks.harshkapadia.me/otc_open_source_hacktoberfest_2020)
 - [git_basics PWA](https://harshkapadia2.github.io/git_basics)
 - [Git Internals PWA](https://git.harshkapadia.me)
 - [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
@@ -239,10 +239,10 @@
 - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.)
 - [Creating a PWA with JS](https://dev.to/devpato/how-to-create-a-pwa-with-javascript-4jlh)
 - PWA Manifest
-   - [Important manifest options](https://web.dev/add-manifest)
-   - [All manifest options](https://w3c.github.io/manifest)
-   - The manifest file can have a `.json` or a `.webmanifest` extension. [The spec suggests `.webmanifest`.](https://w3c.github.io/manifest/#:~:text=File%20extension%3A%20.webmanifest%20or%20.json%3F)
-   - [`id` property](https://developer.chrome.com/blog/pwa-manifest-id)
+  - [Important manifest options](https://web.dev/add-manifest)
+  - [All manifest options](https://w3c.github.io/manifest)
+  - The manifest file can have a `.json` or a `.webmanifest` extension. [The spec suggests `.webmanifest`.](https://w3c.github.io/manifest/#:~:text=File%20extension%3A%20.webmanifest%20or%20.json%3F)
+  - [`id` property](https://developer.chrome.com/blog/pwa-manifest-id)
 - [Icon generator](https://www.pwabuilder.com/imageGenerator)
 - [Customizing the install experience](https://web.dev/customize-install)
 - The Application tab in the Dev Tools can be used to check the service worker status and the manifest.
@@ -277,6 +277,13 @@
 
 - [Crash course](https://www.youtube.com/watch?v=vb7fkBeblcw)
 
+#### JSON Web Token (JWT)
+
+- [Crash course](https://www.youtube.com/watch?v=T0k-3Ze4NLo)
+- [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
+- [What Is JWT and Why Should You Use JWT?](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+- [Why I haven't been using JWT tokens for Authentication](https://www.youtube.com/watch?v=dgg1dvs0Bn4)
+
 #### Web Components API
 
 - [Crash course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
@@ -289,17 +296,17 @@
 #### TWA
 
 - Prerequisites
-   - [PWA](#pwa--service-worker-api)
-   - Google Play Console Developer Account ($25 fee)
+  - [PWA](#pwa--service-worker-api)
+  - Google Play Console Developer Account ($25 fee)
 - [What is a Trusted Web Activity?](https://www.youtube.com/watch?v=7JDFjeMvxos)
 - [TWA overview](https://developer.chrome.com/docs/android/trusted-web-activity/overview)
 - [Build a TWA from an existing PWA](https://www.pwabuilder.com) ([Steps after downlaoding](https://github.com/pwa-builder/CloudAPK/blob/master/Next-steps.md) and [Asset Link file instructions](https://github.com/pwa-builder/CloudAPK/blob/master/Asset-links.md))
 - Hosting a TWA using GitHub Pages
-   - NOTE: The PWA can be hosted from any of **your** repos. The instructions below have to be followed nonetheless.
-   - Create a repo with the name `<github_username>.github.io`.
-   - The `.well-known/assetlinks.json` file should be in the root directory of the newly created repo. ([More info](https://www.mydatahack.com/releasing-multiple-pwas-to-googleplay-by-using-a-single-github-page-root))
-   - If you're not using [Jekyll](https://jekyllrb.com), add an empty `.nojekyll` file to the root directory of the newly created repo. ([Reason](https://github.community/t/unable-to-access-resources-in-folder-with-name-starting-with/10505))
-   - If you're using [Jekyll](https://jekyllrb.com), change your `_config.yml` file to include the `.well-known` folder.
+  - NOTE: The PWA can be hosted from any of **your** repos. The instructions below have to be followed nonetheless.
+  - Create a repo with the name `<github_username>.github.io`.
+  - The `.well-known/assetlinks.json` file should be in the root directory of the newly created repo. ([More info](https://www.mydatahack.com/releasing-multiple-pwas-to-googleplay-by-using-a-single-github-page-root))
+  - If you're not using [Jekyll](https://jekyllrb.com), add an empty `.nojekyll` file to the root directory of the newly created repo. ([Reason](https://github.community/t/unable-to-access-resources-in-folder-with-name-starting-with/10505))
+  - If you're using [Jekyll](https://jekyllrb.com), change your `_config.yml` file to include the `.well-known` folder.
 
 ### General Back End Prerequisites
 
@@ -337,18 +344,23 @@
 - [Cache API](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
 - [Cache-Control header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control)
 - Difference between the Cache API and CacheStorage API
-   - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
-   - A Cache is an object (file) and Cache Storage is a file system.
+  - [Tweet](https://twitter.com/harshgkapadia/status/1355100023705493507)
+  - A Cache is an object (file) and Cache Storage is a file system.
 - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css/))
 - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
+
+#### Cookies
+
+- [Crash course](https://www.youtube.com/watch?v=sovAIX4doOE)
+- [`SameSite` Cookie Attribute](https://www.youtube.com/watch?v=aUF2QCEudPo)
 
 #### AJAX and its libraries
 
 - [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
 - Fetch API
-   - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
-   - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
-   - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) (MDN)
+  - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
+  - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+  - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) (MDN)
 - [Playlist: Async JS, AJAX, XHR, Fetch, Cookies, CORS, Headers, Auth, etc.](https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7&index=1)
 
 ### Databases
@@ -378,10 +390,10 @@
 - [Middleware](https://thenextbigwriter.tech/middlewares-in-express-js-ck8d87su900w3xes1ny80u28q)
 - ['Callbacks' in JS section above](https://dev.harshkapadia.me/resources.html#js:~:text=Callbacks)
 - Modules
-   - Refer to the 'Modules' point in the [JS section](#js) above.
-   - [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
+  - Refer to the 'Modules' point in the [JS section](#js) above.
+  - [How to Export and Require Modules in Node.js](https://www.youtube.com/watch?v=pP4kjXykbio)
 - [Creating and publishing a NPM package](https://iq.opengenus.org/creating-node-modules)
-   
+
 #### Express.js
 
 - [Crash course](https://www.youtube.com/watch?v=L72fhGm1tfE)
@@ -396,12 +408,13 @@
 #### Prerequisite
 
 - [Python basics](https://www.youtube.com/watch?v=JJmcL1N2KQs)
-   
+
 #### Flask
-   - [Crash course](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
-   - [*Tech With Tim*'s series](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
-   - [Documentation](https://flask.palletsprojects.com/en/1.1.x)
-   - [How to enable CORS in Flask?](https://stackoverflow.com/a/52875875/11958552)
+
+- [Crash course](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+- [_Tech With Tim_'s series](https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- [Documentation](https://flask.palletsprojects.com/en/1.1.x)
+- [How to enable CORS in Flask?](https://stackoverflow.com/a/52875875/11958552)
 
 ### PHP
 
@@ -449,13 +462,13 @@
 - [The `useRef` hook](https://www.youtube.com/watch?v=t2ypzz6gJm0)
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 - React.js internals
-   - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
-   - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework)
-   - [Why does React.js need keys?](https://twitter.com/dan_abramov/status/1415279090446204929)
-   - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
-   - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
-   - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
-   - [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
+  - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
+  - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework)
+  - [Why does React.js need keys?](https://twitter.com/dan_abramov/status/1415279090446204929)
+  - [Deconstructing React](https://www.youtube.com/watch?v=f2mMOiCSj5c)
+  - [Building a Custom React Renderer](https://www.youtube.com/watch?v=CGpMlWVcHok)
+  - [Destructuring React](https://www.youtube.com/watch?v=zmO51Dn5DPI)
+  - [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
 
 ### Misc #2
 
@@ -467,12 +480,13 @@
 #### SEO
 
 ##### `robots.txt`
-   - [robotstxt.org](https://www.robotstxt.org)
-   - [Google Site Verification](https://developers.google.com/search/docs/advanced/robots/submit-updated-robots-txt)
-   - Example
-      - [google.com/robots.txt](https://www.google.com/robots.txt)
-      - [catchup.ourtech.community/robots.txt](https://catchup.ourtech.community/robots.txt)
-      - [harshkapadia2.github.io/git_basics/robots.txt](https://harshkapadia2.github.io/git_basics/robots.txt)
+
+- [robotstxt.org](https://www.robotstxt.org)
+- [Google Site Verification](https://developers.google.com/search/docs/advanced/robots/submit-updated-robots-txt)
+- Example
+  - [google.com/robots.txt](https://www.google.com/robots.txt)
+  - [catchup.ourtech.community/robots.txt](https://catchup.ourtech.community/robots.txt)
+  - [harshkapadia2.github.io/git_basics/robots.txt](https://harshkapadia2.github.io/git_basics/robots.txt)
 
 #### Firebase
 
@@ -488,19 +502,19 @@
 ##### Deployment/Hosting
 
 - For web sites only
-   - [GitHub Pages](https://pages.github.com)
-   - [Netlify](https://www.netlify.com)
+  - [GitHub Pages](https://pages.github.com)
+  - [Netlify](https://www.netlify.com)
 - For web sites and web apps
-   - [Heroku](https://heroku.com)
-   - [Vercel](https://vercel.com)
-   - [Deta](https://deta.sh)
-   - [Python Anywhere](https://www.pythonanywhere.com) (Only for Python web sites and web apps.)
-   - [Firebase Hosting](https://firebase.google.com/docs/hosting) (Dynamic: Only Node.js supported through Cloud Functions)
-   - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting)
+  - [Heroku](https://heroku.com)
+  - [Vercel](https://vercel.com)
+  - [Deta](https://deta.sh)
+  - [Python Anywhere](https://www.pythonanywhere.com) (Only for Python web sites and web apps.)
+  - [Firebase Hosting](https://firebase.google.com/docs/hosting) (Dynamic: Only Node.js supported through Cloud Functions)
+  - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting)
 - Domain names
-   - [.js.org](https://js.org) (For users, organizations, projects, etc.) (free)
-   - [.is-a.dev](https://www.is-a.dev) (For portfolio web sites.) (free)
-   - [.ml](http://www.dot.ml/en/index.html) (free)
+  - [.js.org](https://js.org) (For users, organizations, projects, etc.) (free)
+  - [.is-a.dev](https://www.is-a.dev) (For portfolio web sites.) (free)
+  - [.ml](http://www.dot.ml/en/index.html) (free)
 
 ##### YAML
 
