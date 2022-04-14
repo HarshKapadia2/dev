@@ -21,6 +21,7 @@
   - [SVG](#svg)
   - [Intersection Observer API](#intersection-observer-api)
   - [InedxedDB](#indexeddb)
+  - [JWT](#jwt)
   - [Web Components API](#web-components-api)
   - [Misc Libraries](#misc-libraries)
   - [TWA](#twa)
@@ -30,6 +31,7 @@
   - [APIs](#apis)
   - [Async JS](#async-js)
   - [Caching](#caching)
+  - [Cookies](#cookies)
   - [AJAX and its libraries](#ajax-and-its-libraries)
 - [Databases](#databases)
   - [SQL](#sql)
@@ -277,7 +279,7 @@
 
 - [Crash course](https://www.youtube.com/watch?v=vb7fkBeblcw)
 
-#### JSON Web Token (JWT)
+#### JWT
 
 - [Crash course](https://www.youtube.com/watch?v=T0k-3Ze4NLo)
 - [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
