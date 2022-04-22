@@ -184,13 +184,15 @@
   - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
   - [`import` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
   - [`export` statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
-- JS internals
+  - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s)
+- Internals
   - [Namaste :pray: JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP&index=1)
+  - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s)
+  - [Closures](https://dmitripavlutin.com/simple-explanation-of-javascript-closures)
   - [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
   - [Concept Visualise - JavaScript Internals](https://www.youtube.com/watch?v=R4jZ_Mylqaw)
   - [JS Internals Visualizer](https://www.jsv9000.app)
   - [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
-  - [JS modules and build tools](https://www.youtube.com/watch?v=U4ja6HeBm6s&feature=youtu.be)
 
 ### Misc #1
 
@@ -458,15 +460,17 @@
 
 - [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 - [Crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
-- [`useState` array pass by reference gotcha](https://stackoverflow.com/a/67354136/11958552)
-- [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
-- [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
-- [The `useRef` hook](https://www.youtube.com/watch?v=t2ypzz6gJm0)
+- Hooks
+  - [`useState` array pass by reference gotcha](https://stackoverflow.com/a/67354136/11958552)
+  - [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+  - [Hooks API reference](https://reactjs.org/docs/hooks-reference.html)
+  - [The `useRef` hook](https://www.youtube.com/watch?v=t2ypzz6gJm0)
+  - [Be Aware of Stale Closures when Using React Hooks](https://dmitripavlutin.com/react-hooks-stale-closures)
 - Memoization
   - [Understanding re-rendering and memoization in React](https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4)
   - [Use `React.memo()` wisely](https://dmitripavlutin.com/use-react-memo-wisely)
 - [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
-- React.js internals
+- Internals
   - [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
   - [Is React a Library or a Framework? Here's Why it Matters](https://www.freecodecamp.org/news/is-react-a-library-or-a-framework)
   - [Why does React.js need keys?](https://twitter.com/dan_abramov/status/1415279090446204929)
