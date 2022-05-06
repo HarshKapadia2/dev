@@ -21,7 +21,6 @@
   - [SVG](#svg)
   - [Intersection Observer API](#intersection-observer-api)
   - [InedxedDB](#indexeddb)
-  - [JWT](#jwt)
   - [Web Components API](#web-components-api)
   - [Misc Libraries](#misc-libraries)
   - [TWA](#twa)
@@ -31,8 +30,10 @@
   - [APIs](#apis)
   - [Async JS](#async-js)
   - [Caching](#caching)
+  - [CORS](#cors)
   - [Cookies](#cookies)
   - [AJAX and its libraries](#ajax-and-its-libraries)
+  - [JWT](#jwt)
 - [Databases](#databases)
   - [SQL](#sql)
   - [NoSQL](#nosql)
@@ -282,13 +283,6 @@
 
 - [Crash course](https://www.youtube.com/watch?v=vb7fkBeblcw)
 
-#### JWT
-
-- [Crash course](https://www.youtube.com/watch?v=T0k-3Ze4NLo)
-- [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
-- [What Is JWT and Why Should You Use JWT?](https://www.youtube.com/watch?v=7Q17ubqLfaM)
-- [Why I haven't been using JWT tokens for Authentication](https://www.youtube.com/watch?v=dgg1dvs0Bn4)
-
 #### Web Components API
 
 - [Crash course](https://www.youtube.com/watch?v=PCWaFLy3VUo)
@@ -354,6 +348,12 @@
 - [Cache Busting](https://medium.com/javascript-in-plain-english/what-is-cache-busting-55366b3ac022) ([CSS-Tricks article](https://css-tricks.com/strategies-for-cache-busting-css))
 - [Application Cache is a Douchebag](https://alistapart.com/article/application-cache-is-a-douchebag) (Caching gotchas.) (Refer to [PWA section](#pwa--service-worker-api) above.)
 
+#### CORS
+
+- [Tackling CORS quickly](https://www.youtube.com/watch?v=PNtFSVU-YTI)
+- [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (Pretty extensive.)
+- [CORS explained by example](https://www.youtube.com/watch?v=Ka8vG5miErk)
+
 #### Cookies
 
 - [Crash course](https://www.youtube.com/watch?v=sovAIX4doOE)
@@ -367,6 +367,13 @@
   - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
   - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) (MDN)
 - [Playlist: Async JS, AJAX, XHR, Fetch, Cookies, CORS, Headers, Auth, etc.](https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7&index=1)
+
+#### JWT
+
+- [Crash course](https://www.youtube.com/watch?v=T0k-3Ze4NLo)
+- [Session vs Token Authentication in 100 Seconds](https://www.youtube.com/watch?v=UBUNrFtufWo)
+- [What Is JWT and Why Should You Use JWT?](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+- [Why I haven't been using JWT tokens for Authentication](https://www.youtube.com/watch?v=dgg1dvs0Bn4)
 
 ### Databases
 
