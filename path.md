@@ -65,7 +65,6 @@ Learn and apply in an infinite loop.
 - SVG
 - Intersection Observer API
 - IndexedDB
-- JSON Web Token (JWT)
 - Web Components API
 - TWA
 
@@ -76,8 +75,10 @@ Learn and apply in an infinite loop.
 - APIs
 - Asynchronous (async) JS (Promises, Async/await, etc)
 - Caching (CacheStorage API, Cache API and Cache-Control header)
+- CORS
 - Cookies
 - AJAX and its libraries (Fetch API, XMLHttpRequest, Axios, Node HTTP, etc.)
+- JWT
 
 ### Databases
 
