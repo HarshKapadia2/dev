@@ -358,6 +358,13 @@
   - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
   - [CORS Bridged](https://app.cors.bridged.cc)
   - [List of proxies and more](https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347) (Some are dead.)
+- Credentialed requests through the [`Authorization` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization) using the [Fetch API](#ajax-and-its-libraries)
+  - The [`Access-Control-Allow-Headers` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Headers) can't be wildcarded (`*`) and the `Authorization` header always needs to be listed explicitly (`"Access-Control-Allow-Headers": "Authorization"`).
+    - Side note: If the `Content-Type` request header's value is `application/json`, add it to the value of the `Access-Control-Allow-Headers` response header. ([Source](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#:~:text=The%20only%20type/subtype%20combinations%20allowed%20for%20the%20media%20type%20specified%20in%20the%20Content%2DType%20header%20are%3A))
+  - The [`Access-Control-Allow-Origin` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Origin) can't be wildcarded (`*`) and the origin always needs to be listed explicitly (`"Access-Control-Allow-Origin": "https://harshkapadia2.github.io"`). ([Source](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#:~:text=Note%3A%20When%20responding%20to%20a%20credentialed%20requests%20request%2C%20the%20server%20must%20specify%20an%20origin%20in%20the%20value%20of%20the%20Access%2DControl%2DAllow%2DOrigin%20header%2C%20instead%20of%20specifying%20the%20%22*%22%20wildcard.))
+    - This header needs to not only be sent in the preflight request, but in the actual request as well.
+  - The [`Access-Control-Allow-Credentials` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Credentials) needs to be sent in the [preflighted requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#requests_with_credentials) and [in the simple (non-preflighted) requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#:~:text=Line%207%20shows,invoking%20web%20content.) as well.
+  - In Fetch, the [`credentials: "include"` option](https://developer.mozilla.org/en-US/docs/Web/API/fetch#credentials) has to be added.
 
 #### Cookies
 
