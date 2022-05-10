@@ -393,6 +393,17 @@
 - [What Is JWT and Why Should You Use JWT?](https://www.youtube.com/watch?v=7Q17ubqLfaM)
 - [Why I haven't been using JWT tokens for Authentication](https://www.youtube.com/watch?v=dgg1dvs0Bn4) (Ben Awad)
 - [A JWT demo using the `flask-jwt-extended` package.](https://github.com/HarshKapadia2/flask-jwt-cors)
+- JWTs are for authorization and not authentication. (Username and password provide authentication.)
+- Refresh Tokens
+  - [What Are Refresh Tokens and How to Use Them Securely](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them)
+  - [How to Handle Refresh Tokens](https://security.stackexchange.com/questions/194774/how-to-handle-refresh-tokens)
+  - Refresh Tokens are tokens with a longer expiry duration than Access Tokens.
+  - They are used to
+    - Reduce the number of explicit logins that the client has to make.
+    - Reduce the load of querying/storing authorization details in the database every time a user needs access.
+  - There is a tradeoff between security and database storage/querying.
+    - If better security is required, the Refresh Tokens need to be stored in the database and marked as expired once a new one is issued. This increases database querying, but improves security and still maintains the convenience of less number of logins for the client.
+    - Another way to provide security would be to issue a new Refresh Token every time a new Access Token is issued, but this increases the number of Refresh Tokens that have to be stored in the database (to expire them later as discussed in the previous point). So database storage is increased, but this improves security and still maintains the convenience of less number of logins for the client.
 
 ### Databases
 
