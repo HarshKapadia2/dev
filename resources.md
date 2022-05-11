@@ -398,12 +398,15 @@
   - [What Are Refresh Tokens and How to Use Them Securely](https://auth0.com/blog/refresh-tokens-what-are-they-and-when-to-use-them)
   - [How to Handle Refresh Tokens](https://security.stackexchange.com/questions/194774/how-to-handle-refresh-tokens)
   - Refresh Tokens are tokens with a longer expiry duration than Access Tokens.
+  - If the Refresh Token is expired, then the user has to manually log in.
   - They are used to
     - Reduce the number of explicit logins that the client has to make.
     - Reduce the load of querying/storing authorization details in the database every time a user needs access.
   - There is a tradeoff between security and database storage/querying.
     - If better security is required, the Refresh Tokens need to be stored in the database and marked as expired once a new one is issued. This increases database querying, but improves security and still maintains the convenience of less number of logins for the client.
     - Another way to provide security would be to issue a new Refresh Token every time a new Access Token is issued, but this increases the number of Refresh Tokens that have to be stored in the database (to expire them later as discussed in the previous point). So database storage is increased, but this improves security and still maintains the convenience of less number of logins for the client.
+      - Storing Refresh Tokens is still better than storing a Session Token, because a Session Token is checked every time an API call is made. Now if there are too many Refresh Tokens, database storage increases and querying takes time, but that is a trade off that has to be decided upon.
+      - A hybrid approach can be taken, where a Session Token (as a short-lived JWT) can be issued and stored in the database along with a Refresh Token and so the Session Token does not have to be checked with the DB on every request. A new Session Token can be issued whenever it expires, using the Refresh Token.
 
 ### Databases
 
