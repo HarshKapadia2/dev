@@ -56,6 +56,7 @@ Learn and apply in an infinite loop.
 - Web design
 - Browser DevTools
 - Accessibility
+- Rendering Patterns
 
 > TIP: At this point, make a static website. (Eg: Your portfolio website or the front end for a larger project to which you can add the back end later.)
 
