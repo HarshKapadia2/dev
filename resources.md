@@ -15,6 +15,7 @@
   - [Web Design](#web-design)
   - [Browser DevTools](#browser-devtools)
   - [Accessibility](#accessibility)
+  - [Rendering Patterns](#rendering-patterns)
   - [PWA (+ Service Worker API)](#pwa--service-worker-api)
   - [Networking](#networking)
   - [RegEx](#regex)
@@ -230,6 +231,10 @@
 #### Accessibility
 
 - [Exploring Web Accessibility](https://explore-a11y.netlify.app)
+
+#### Rendering Patterns
+
+- [Rendering Patterns](https://www.lydiahallie.io/talks/rendering-patterns)
 
 #### PWA (+ Service Worker API)
 
