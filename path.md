@@ -21,6 +21,9 @@ Everyone has their own journey and this has been mine up till now!
   - [PewDiePie's philosophical videos](https://www.youtube.com/playlist?list=PLIDKFkBlUzOnbm0o8ktgoyz1OvrN8gFUA)
   - [We fired our top talent. Best decision we ever made.](https://www.freecodecamp.org/news/we-fired-our-top-talent-best-decision-we-ever-made-4c0a99728fde)
     - [A team reborn after the fiery departure of its misanthropic guru](https://blog.solha.co/life-after-rick-our-team-reborn-after-the-fiery-departure-of-our-misanthropic-guru-b1fbaf3b8621)
+  - [Get in DONE! 5 tips to staying PRODUCTIVE](https://www.youtube.com/watch?v=vY0ho6Ikyok)
+  - [Do What You Love and Love What You Do](https://www.youtube.com/watch?v=DUfdhFngvuw)
+  - [The tech tool carousel](https://andy-bell.co.uk/the-tech-tool-carousel)
 
 ## My working process
 
