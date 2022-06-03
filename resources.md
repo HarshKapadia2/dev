@@ -355,6 +355,10 @@
 
 #### CORS
 
+- Prerequisite
+  - [Fetch API](#ajax-and-its-libraries)
+- Session by me
+  - [Working with CORS](https://talks.harshkapadia.me/cors)
 - [Tackling CORS quickly](https://www.youtube.com/watch?v=PNtFSVU-YTI)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (Pretty extensive.)
 - [CORS explained by example](https://www.youtube.com/watch?v=Ka8vG5miErk)
@@ -364,7 +368,9 @@
   - [CORS Bridged](https://app.cors.bridged.cc)
   - [List of proxies and more](https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347) (Some are dead.)
 - Credentialed requests through the [`Authorization` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization) using the [Fetch API](#ajax-and-its-libraries)
-  - [**An implementation of the points listed below.**](https://github.com/HarshKapadia2/flask-jwt-cors)
+  - Demos by me
+    - [HarshKapadia2/cors](https://github.com/HarshKapadia2/cors)
+    - [HarshKapadia2/flask-jwt-cors](https://github.com/HarshKapadia2/flask-jwt-cors)
   - The [`Access-Control-Allow-Headers` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Headers) can't be wildcarded (`*`) and the `Authorization` header always needs to be listed explicitly.
     - Side note: If the `Content-Type` request header's value is `application/json`, add it to the value of the `Access-Control-Allow-Headers` response header. ([Source](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#:~:text=The%20only%20type/subtype%20combinations%20allowed%20for%20the%20media%20type%20specified%20in%20the%20Content%2DType%20header%20are%3A))
   - The [`Access-Control-Allow-Methods` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Access-Control-Allow-Methods) can't be wildcarded (`*`) and all the allowed [HTTP request methods](https://networking.harshkapadia.me/http#http-request-methodsverbs) need to be listed explicitly.
@@ -374,6 +380,8 @@
     - [In response to the preflight request](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#requests_with_credentials) and in response to the actual request after the preflight request as well.
     - [In response to the simple (non-preflighted) requests that require authorization.](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS#:~:text=Line%207%20shows,invoking%20web%20content.)
   - In Fetch, the [`credentials: "include"` option](https://developer.mozilla.org/en-US/docs/Web/API/fetch#credentials) has to be added.
+    - This option is what adds the strictness of adding non-wildcarded values to each of the response headers.
+    - [Fetch does not send any Cookies by default](https://medium.com/cameron-nokes/4-common-mistakes-front-end-developers-make-when-using-fetch-1f974f9d1aa1#:~:text=Unlike%20XHR%2C%20fetch%20does%20not%20include%20any%20cookies%20in%20the%20request%20by%20default.) and [this option makes the browser send 1st and 3rd party Cookies to the server](https://zellwk.com/blog/handling-cookies-with-fetchs-credentials/#:~:text=domains%20or%20subdomains.-,If%20you%20set,3rd%20party%20cookies%20set%20by%20a%20specific%20domain%20that%20domain%E2%80%99s%20server.,-Access%2DControl%2DAllow).
   - When using Fetch, remember to return appropriate CORS headers with the error response as well, otherwise the Fetch call itself will fail and the actual error will not be caught.
     - A CORS error will pop up for errors returned without appropriate CORS headers, instead of returning the actual error and that can get very confusing.
 
@@ -384,11 +392,15 @@
 
 #### AJAX and its libraries
 
-- [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`)
+- [Crash course](https://www.youtube.com/watch?v=82hnvUYY6QA) (with `XMLHttpRequest`, i.e., `XHR`)
 - Fetch API
   - [Hands on introduction](https://www.youtube.com/watch?v=Oive66jrwBs)
   - [Fetch API error handling](https://www.youtube.com/watch?v=cuEtnrL9-H0)
   - [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) (MDN)
+  - [Common `no-cors` misconceptions](https://evertpot.com/no-cors)
+    - The response body, status or headers cannot be read.
+  - [Handling cookies with Fetch’s credentials](https://zellwk.com/blog/handling-cookies-with-fetchs-credentials)
+  - [Common mistakes](https://medium.com/cameron-nokes/4-common-mistakes-front-end-developers-make-when-using-fetch-1f974f9d1aa1)
 - [Playlist: Async JS, AJAX, XHR, Fetch, Cookies, CORS, Headers, Auth, etc.](https://www.youtube.com/watch?v=7EKebb4VUYQ&list=PLyuRouwmQCjkWu63mHksI9EA4fN-vwGs7&index=1)
 
 #### JWT
