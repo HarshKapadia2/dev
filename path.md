@@ -15,6 +15,7 @@ Everyone has their own journey and this has been mine up till now!
 - Participate in Tech communitites. (Shameless plug: [Our Tech Community](https://ourtech.community))
 - Keep in mind
   - [Teach Yourself Programming in Ten Years](https://norvig.com/21-days.html)
+  - [Understand Fundamentals not Tools](https://www.youtube.com/watch?v=AjNIlebLMRw)
   - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
   - [Presentation and Documentation](https://undirected-graph.netlify.app/posts/presentation)
   - [The Key to a Good Life? Lose Yourself in Something.](https://getpocket.com/explore/item/the-key-to-a-good-life-lose-yourself-in-something)
