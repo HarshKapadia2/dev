@@ -362,6 +362,7 @@
 - [Tackling CORS quickly](https://www.youtube.com/watch?v=PNtFSVU-YTI)
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS) (Pretty extensive.)
 - [CORS explained by example](https://www.youtube.com/watch?v=Ka8vG5miErk)
+- [How to win at CORS](https://jakearchibald.com/2021/cors)
 - CORS proxies
   - [What are they and why are they required?](https://httptoolkit.tech/blog/cors-proxies) (Primer article.)
   - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
