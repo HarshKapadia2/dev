@@ -149,6 +149,7 @@
   - In the browser DevTools (best option)
   - On [springload.responsinator.com](https://springload.responsinator.com)
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
+- [`:is()`, `:where()`, `:has()` and `:not()` pseudo classes](https://www.youtube.com/watch?v=7matgtwNx4I)
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
 - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar)
 - [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding)
