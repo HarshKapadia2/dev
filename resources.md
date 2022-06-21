@@ -120,6 +120,7 @@
   - `!important` trumps all, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
   - Inline CSS trumps all but `!important`, irrespective of the number of ids, classes and tags. Should be avoided as far as possible.
   - [Specificity illustrated](https://specifishity.com) (Format: `(<no_of_ids>, <no_of_classes+attribute_selectors+pseudo-classes>, <no_of_tags+pseudo-elements>)`)
+    - Most pseudo classes have the same specificity as a class. `is` and `where` are exceptions, with `where` having zero specificity and `is` using the highest value from its list.
   - [`id` vs `class` specificity](https://css-tricks.com/the-difference-between-id-and-class/#comment-27579)
 - [Always maintaining round borders using `border-radius: 50%;`.](https://www.codecademy.com/forum_questions/559fe347e39efe4cf40005a9)
 - Positioning
@@ -150,6 +151,7 @@
   - On [springload.responsinator.com](https://springload.responsinator.com)
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 - [`:is()`, `:where()`, `:has()` and `:not()` pseudo classes](https://www.youtube.com/watch?v=7matgtwNx4I)
+  - Most pseudo classes have the same specificity as a class. `is` and `where` are exceptions, with `where` having zero specificity and `is` using the highest value from its list.
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
 - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar)
 - [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding)
