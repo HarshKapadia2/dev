@@ -25,6 +25,7 @@ Everyone has their own journey and this has been mine up till now!
   - [Get in DONE! 5 tips to staying PRODUCTIVE](https://www.youtube.com/watch?v=vY0ho6Ikyok)
   - [Do What You Love and Love What You Do](https://www.youtube.com/watch?v=DUfdhFngvuw)
   - [The tech tool carousel](https://andy-bell.co.uk/the-tech-tool-carousel)
+  - [Deciding What Not To Learn](https://mastery.games/post/what-not-to-learn)
 
 ## My working process
 
