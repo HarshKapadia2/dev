@@ -370,7 +370,7 @@
 - CORS proxies
   - [What are they and why are they required?](https://httptoolkit.tech/blog/cors-proxies) (Primer article.)
   - [CORS Anywhere](https://github.com/Rob--W/cors-anywhere)
-  - [CORS Bridged](https://app.cors.bridged.cc)
+  - [CORS Bridged](https://app.cors.bridged.cc) ([Usage guide](https://blog.grida.co/cors-anywhere-for-everyone-free-reliable-cors-proxy-service-73507192714e))
   - [List of proxies and more](https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347) (Some are dead.)
 - Credentialed requests through the [`Authorization` header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Authorization) using the [Fetch API](#ajax-and-its-libraries)
   - Demos by me
