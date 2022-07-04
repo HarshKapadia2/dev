@@ -86,8 +86,10 @@
 - [Best practices](https://github.com/hail2u/html-best-practices)
 - [Absolute vs relative links](https://stackoverflow.com/a/14278020/11958552)
   - Difference between `href="css/style.css"` (relative link) and `href="/css/style.css"` (absolute link).
-- [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that could go in the head of a HTML document.
-- [`ct.css`](https://csswizardry.com/ct) - A diagnostic CSS snippet that exposes potential performance issues in a HTML document’s `<head>` tag.
+- The `<head>` of a HTML doc
+  - [Get Your Head Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU)
+    - [`ct.css`](https://csswizardry.com/ct) - A diagnostic CSS snippet that exposes potential performance issues in a HTML document’s `<head>` tag.
+  - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that could go in the head of a HTML document.
 - The Open Graph Protocol (OGP)
   - [Official web site](https://ogp.me)
   - Articles
