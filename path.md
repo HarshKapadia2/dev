@@ -147,3 +147,5 @@ Learn and apply in an infinite loop.
 - Scripting
 - CI/CD (I still have to do this)
 - Docker
+
+#### The Missing Semester of CS Education

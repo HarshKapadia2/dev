@@ -67,7 +67,8 @@
     - [Scripting](#scripting)
     - [CI/CD](#cicd)
     - [Docker](#docker)
-  - [Cloud](#cloud)
+    - [Cloud](#cloud)
+  - [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
 
 ## My Resources
 
@@ -615,3 +616,10 @@
 ##### Cloud
 
 - [My notes and resources](https://harshkapadia2.github.io/cloud)
+
+#### The Missing Semester of CS Education
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+- Carriage Return (CR), Line Feed (LF) and End of Line (`EOL`/CRLF)
+  - ...different system uses different line break. Carriage Return (CR, `\r`, `0x0D`) is used on old Macintosh operating systems. UNIX based systems including Linux and Mac OS X use Line Feed (LF, `\n`, `0x0A`), while most of non-Unix operating systems use End of Line (`EOL`, `\r\n`, `0x0D 0x0A`). Therefore, good code should handle all kind of line breaks. ([Source](https://www.woolha.com/tutorials/dart-split-string-by-newline-using-linesplitter#:~:text=Sometimes%20we%20may,CR%20%2B%20LF.))
+  - [What's a Carriage and Who's Feeding it Lines? CRLF](https://www.youtube.com/watch?v=TtiBhktB4Qg)
