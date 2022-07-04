@@ -153,6 +153,11 @@
 - [Bootstrap crash course](https://www.youtube.com/watch?v=5GcQtLDGXy8)
 - [`:is()`, `:where()`, `:has()` and `:not()` pseudo classes](https://www.youtube.com/watch?v=7matgtwNx4I)
   - Most pseudo classes have the same specificity as a class. `is` and `where` are exceptions, with `where` having zero specificity and `is` using the highest value from its list.
+- `:last-child` vs `:last-of-type` pseudo-classes
+  - [The Difference Between `:nth-child` and `:nth-of-type`](https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type)
+  - [CSS Gotchas: last-child vs. last-of-type and other bizarre conundrums](https://g-liu.com/blog/2014/12/css-last-child-vs-last-of-type-and-other-bizarre-conundrums)
+  - [The `last-child` vs `last-of-type` selector in CSS](http://www.js-craft.io/blog/the-last-child-vs-last-of-type-selector-in-css)
+  - [Difference Between `:last-child` and `:last-of-type` Selector in CSS](https://www.webdevelopmentinstitute.com/blog/difference-between-last-child-and-last-of-type-selector-in-css)
 - [Sub-string matching selectors](https://blog.teamtreehouse.com/css3-substring-matching-attribute-selectors) (Eg: `[class*="col-"] { width: 100%; }`)
 - [Scrollbar styling](https://css-tricks.com/almanac/properties/s/scrollbar)
 - [`scroll-padding`](https://css-tricks.com/almanac/properties/s/scroll-padding)
