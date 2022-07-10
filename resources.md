@@ -91,15 +91,18 @@
     - [`ct.css`](https://csswizardry.com/ct) - A diagnostic CSS snippet that exposes potential performance issues in a HTML document’s `<head>` tag.
   - [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that could go in the head of a HTML document.
 - The Open Graph Protocol (OGP)
-  - [Official web site](https://ogp.me)
+  - [ogp.me](https://ogp.me)
   - Articles
     - [What is Open Graph and how can I use it for my website?](https://www.freecodecamp.org/news/what-is-open-graph-and-how-can-i-use-it-for-my-website)
     - [The-Open-Graph-protocol](https://indieweb.org/The-Open-Graph-protocol)
   - [For Twitter cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
   - NOTE:
     - For the image in the card, SVGs are not supported. Use a PNG or JPG image.
-    - The image value has to be a URL and not a static file in the project.
-    - The image size should be less than 300 kb.
+    - The image/video/audio value has to be a URL _to a file_ (Eg: `https://harshkapadia.me/static/img/og-img.png`) and NOT a relative link (Eg: `static/img/og-img.png`) to a file in the project.
+    - The image size should be less than 300 kb for certain services.
+    - The `itemprop` attribute might be required. ([Source](https://stackoverflow.com/a/20429551/11958552), [Source](https://stackoverflow.com/questions/25100917/showing-thumbnail-for-link-in-whatsapp-ogimage-meta-tag-doesnt-work/64743183#64743183))
+    - [WhatsApp instructions](https://newbedev.com/provide-an-image-for-whatsapp-link-sharing)
+    - Audio and video are also supported, as mentioned on [ogp.me](https://ogp.me).
 - [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading)
 - [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations)
 - Resource hints
