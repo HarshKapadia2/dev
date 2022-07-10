@@ -15,6 +15,7 @@
   - [Web Design](#web-design)
   - [Browser DevTools](#browser-devtools)
   - [Accessibility](#accessibility)
+  - [Documentation](#documentation)
   - [Rendering Patterns](#rendering-patterns)
   - [PWA (+ Service Worker API)](#pwa--service-worker-api)
   - [Networking](#networking)
@@ -246,6 +247,12 @@
 #### Accessibility
 
 - [Exploring Web Accessibility](https://explore-a11y.netlify.app)
+
+#### Documentation
+
+- [Presentation and Documentation](https://undirected-graph.netlify.app/posts/presentation#:~:text=LinkedIn%20Post.-,Documentation,the%20next%20best%20thing%20after%20the%20presentation%20is%20passive%20presentation%20%E2%80%94%20Documentation.,-What%20even%20is)
+- [Hack the Project Onboarding Process: Learning by Writing Tutorials as a New Contributor](https://www.youtube.com/watch?v=_BqI1o7sbkw)
+  - Slightly unrelated: [A Guide for Contributing to Any Open Source JavaScript Project Ever](https://dev.to/saurabhdaware/a-guide-for-contributing-to-any-open-source-javascript-project-ever-hi)
 
 #### Rendering Patterns
 
