@@ -453,13 +453,16 @@
 
 ### Databases
 
--   [A Database of Databases](https://dbdb.io)
+-   [A database of Databases](https://dbdb.io)
+-   [Database Engineering by Hussein Nasser](https://www.youtube.com/watch?v=pomxJOFVcQs&list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2)
+-   [CMU 445/645 Introduction to Database Systems](https://www.youtube.com/watch?v=oeYBdghaIjc&list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi&index=2)
+-   [CMU 721 Advanced Database Systems](https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O&index=2)
 
 #### SQL
 
 -   Relational DBs
 -   [MySQL crash course](https://www.youtube.com/watch?v=HXV3zeQKqGY)
--   MySQL [fragmentation](https://www.youtube.com/watch?v=sICmP7bJrvo) and [partitioning](https://www.youtube.com/watch?v=iUjoPB27-iA) (Beginners, please ignore.)
+-   MySQL [fragmentation](https://www.youtube.com/watch?v=sICmP7bJrvo) and [partitioning](https://www.youtube.com/watch?v=iUjoPB27-iA)
 -   Eg: MySQL, PostgreSQL, MariaDB, SQLite, etc...
 
 #### NoSQL
