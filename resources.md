@@ -105,6 +105,7 @@
         -   The `itemprop` attribute might be required. ([Source](https://stackoverflow.com/a/20429551/11958552), [Source](https://stackoverflow.com/questions/25100917/showing-thumbnail-for-link-in-whatsapp-ogimage-meta-tag-doesnt-work/64743183#64743183))
         -   [WhatsApp instructions](https://newbedev.com/provide-an-image-for-whatsapp-link-sharing)
         -   Audio and video are also supported, as mentioned on [ogp.me](https://ogp.me).
+        -   [2020 standards](https://stackoverflow.com/questions/19778620/provide-an-image-for-whatsapp-link-sharing/43154489#43154489)
 -   [Lazy loading attribute for images](https://css-tricks.com/native-lazy-loading)
 -   [Maximally optimizing image loading for the web in 2021](https://www.industrialempathy.com/posts/image-optimizations)
 -   Resource hints
@@ -155,6 +156,7 @@
     -   In the browser DevTools (best option)
     -   On [springload.responsinator.com](https://springload.responsinator.com)
 -   [Why you should never use `px` to set font-size in CSS](https://joshcollinsworth.com/blog/never-use-px-for-font-size)
+-   [Avoiding `<img>` layout shifts: `aspect-ratio` vs `width` & `height` attributes](https://jakearchibald.com/2022/img-aspect-ratio)
 -   [2D Transforms](https://www.w3schools.com/Css/css3_2dtransforms.asp)
 -   [Animations](https://www.w3schools.com/css/css3_animations.asp) ([High performance aimations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations))
 -   [Transitions](https://www.w3schools.com/css/css3_transitions.asp)
@@ -173,7 +175,7 @@
     -   Add the property to the `html` element for it to work.
 -   [Only load required characters in Google Fonts](https://www.youtube.com/watch?v=Ez1huZ-kfY4) (Saves bandwidth)
 -   CSS basics
-    -   [Redo Your CSS](https://learn.redoyourcss.com/) ([Main site](https://www.redoyourcss.com))
+    -   [Redo Your CSS](https://learn.redoyourcss.com) ([Main site](https://www.redoyourcss.com))
 -   [Some design resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 #### JS
@@ -571,6 +573,7 @@
 
 #### Web Performance
 
+-   [Site-Speed Topography](https://csswizardry.com/2020/11/site-speed-topography)
 -   [Lighthouse](https://developers.google.com/web/tools/lighthouse) (available in Chrome and Edge DevTools and as an add-on in Firefox)
 -   [web.dev](https://web.dev)
 
