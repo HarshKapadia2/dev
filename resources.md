@@ -237,6 +237,7 @@
 -   [Top Design Resources and Apps](https://www.youtube.com/watch?v=GUOgv4PcHIQ)
 -   [Making text stand out in front of images](https://graphicdesign.stackexchange.com/questions/57472/making-text-stand-out-in-front-of-images)
 -   [Figma crash course](https://www.youtube.com/watch?v=4W4LvJnNegA)
+-   [Image compression deep-dive](https://www.youtube.com/watch?v=F1kYBnY6mwg)
 
 #### Browser DevTools
 
