@@ -151,3 +151,5 @@ Learn and apply in an infinite loop.
 -   Docker
 
 #### The Missing Semester of CS Education
+
+### C

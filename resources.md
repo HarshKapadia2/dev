@@ -70,6 +70,7 @@
         -   [Docker](#docker)
         -   [Cloud](#cloud)
     -   [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
+-   [C](#c)
 
 ## My Resources
 
@@ -650,3 +651,28 @@
 -   Carriage Return (CR), Line Feed (LF) and End of Line (`EOL`/CRLF)
     -   ...different system uses different line break. Carriage Return (CR, `\r`, `0x0D`) is used on old Macintosh operating systems. UNIX based systems including Linux and Mac OS X use Line Feed (LF, `\n`, `0x0A`), while most of non-Unix operating systems use End of Line (`EOL`, `\r\n`, `0x0D 0x0A`). Therefore, good code should handle all kind of line breaks. ([Source](https://www.woolha.com/tutorials/dart-split-string-by-newline-using-linesplitter#:~:text=Sometimes%20we%20may,CR%20%2B%20LF.))
     -   [What's a Carriage and Who's Feeding it Lines? CRLF](https://www.youtube.com/watch?v=TtiBhktB4Qg)
+
+### C
+
+-   [C introduction notes](./files/c/c-intro-notes-manjrekar.pdf)
+-   [Pointers, Pointer Mathematics, C memory structure, debugging, `objdump`, `strace`, `nm`, etc. YouTube playlist](https://www.youtube.com/watch?v=BuiX6vsiEfo&list=PLc7W4b0WHTAWusrFLTv8abWMIYFimp7bi&index=1)
+-   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+-   [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+-   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
+-   `libc` and `libm`
+    -   [what is `libc`?](https://stackoverflow.com/questions/20396471/what-is-libc-what-are-the-functions-it-includes-how-can-we-get-the-source-code)
+    -   [Why do you need an explicit `-lm` compiler option?](https://stackoverflow.com/questions/10371647/why-do-you-need-an-explicit-lm-compiler-option)
+    -   [Why do you have to link the math library in C?](https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c)
+-   `_t` data types
+    -   [All Those `_t` Data Types](https://c-for-dummies.com/blog/?p=5059)
+    -   [What Is The `_t` In `Uint8_t`](https://techexplorations.com/guides/arduino/programming/_t-in-uint8_t/#:~:text=So%2C%20in%20the%20C99%20standard,platform%20the%20program%20runs%20on.)
+    -   [What does a type followed by `_t` (underscore-t) represent?](https://stackoverflow.com/questions/231760/what-does-a-type-followed-by-t-underscore-t-represent)
+-   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
+-   Buffer Overflow Attack in C
+    -   [Buffer Overflow Attack](https://owasp.org/www-community/attacks/Buffer_overflow_attack)
+    -   [`fgets()` and `gets_s()`](https://www.cisa.gov/uscert/bsi/articles/knowledge/coding-practices/fgets-and-gets_s)
+    -   [Common vulnerabilities guide for C programmers](https://security.web.cern.ch/recommendations/en/codetools/c.shtml)
+-   Docs
+    -   [Docs](https://devdocs.io/c)
+    -   [Docs](https://www.mkssoftware.com/docs/man3/memcpy.3.asp) (Modify links)
+-   [Phone Book project](https://github.com/HarshKapadia2/phone-book)
