@@ -263,7 +263,8 @@
 
 #### Rendering Patterns
 
--   [Rendering Patterns](https://www.lydiahallie.io/talks/rendering-patterns)
+-   [10 Rendering Patterns for Web Apps](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
+-   [Rendering Patterns](https://www.lydiahallie.io/blog/rendering-patterns)
 
 #### PWA (+ Service Worker API)
 
