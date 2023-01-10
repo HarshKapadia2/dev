@@ -76,8 +76,9 @@
 
 ### Prerequisites
 
--   Browser (Chrome, Edge, Brave or Firefox are preferred.)
--   [Set up VS Code](https://www.youtube.com/watch?v=fnPhJHN0jTE)
+-   Browser (Google Chrome, Microsoft Edge, Brave or Firefox are preferred.)
+-   [Set up VS Code](https://www.youtube.com/watch?v=fnPhJHN0jTE) (Code Editor)
+-   [How To Setup Prettier](https://www.youtube.com/watch?v=DqfQ4DPnRqI) (Code Formatter)
 
 ### Front End
 
