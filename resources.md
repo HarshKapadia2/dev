@@ -70,6 +70,7 @@
         -   [Docker](#docker)
         -   [Cloud](#cloud)
     -   [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
+    -   [New Lines/Line Endings](#new-linesline-endings)
 -   [C](#c)
 
 ## My Resources
@@ -650,9 +651,36 @@
 #### The Missing Semester of CS Education
 
 -   [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
--   Carriage Return (CR), Line Feed (LF) and End of Line (`EOL`/CRLF)
-    -   ...different system uses different line break. Carriage Return (CR, `\r`, `0x0D`) is used on old Macintosh operating systems. UNIX based systems including Linux and Mac OS X use Line Feed (LF, `\n`, `0x0A`), while most of non-Unix operating systems use End of Line (`EOL`, `\r\n`, `0x0D 0x0A`). Therefore, good code should handle all kind of line breaks. ([Source](https://www.woolha.com/tutorials/dart-split-string-by-newline-using-linesplitter#:~:text=Sometimes%20we%20may,CR%20%2B%20LF.))
-    -   [What's a Carriage and Who's Feeding it Lines? CRLF](https://www.youtube.com/watch?v=TtiBhktB4Qg)
+
+#### New Lines/Line Endings
+
+-   Also called 'Newline' and 'line break'.
+-   Types
+    -   Carriage Return
+        -   Unicode and ASCII: `CR`
+        -   Programming languages: `\r`
+        -   Hexadecimal: `0D`, `0x0D`
+        -   [More details](https://www.asciihex.com/character/control/13/0x0D/cr-carriage-return)
+    -   Line Feed
+        -   Unicode and ASCII: `LF`
+        -   Programming languages: `\n`
+        -   Hexadecimal: `0A`, `0x0A`
+        -   [More details](https://www.asciihex.com/character/control/10/0x0A/lf-line-feed)
+    -   Carriage Return and Line Feed
+        -   Unicode and ASCII: `CRLF`, `CR+LF`
+        -   Programming languages: `\r\n`
+        -   Hexadecimal: `0D 0A`, `0x0D 0x0A`
+    -   End of Line
+        -   Unicode: `EOL`
+    -   Next Line
+        -   Unicode: `NEL`
+    -   New Line
+        -   EBCDIC: `NL`
+-   > ...different system uses different line break. Carriage Return is used on old Macintosh operating systems. UNIX based systems including Linux and Mac OS X use Line Feed, while most of non-Unix operating systems use End of Line (`\r\n`). Therefore, good code should handle all kind of line breaks. ([Source](https://www.woolha.com/tutorials/dart-split-string-by-newline-using-linesplitter#:~:text=Sometimes%20we%20may,CR%20%2B%20LF.))
+-   [What's a Carriage and Who's Feeding it Lines? CRLF](https://www.youtube.com/watch?v=TtiBhktB4Qg)
+-   [Newline](https://en.wikipedia.org/wiki/Newline)
+-   [`\r\n` vs `\n\r` what is the difference in their behavior?](https://stackoverflow.com/questions/43607389/r-n-vs-n-r-what-is-the-difference-in-their-behavior)
+-   [Why Windows uses `\r\n` newlines instead of `\n`](https://dev.to/pieter/why-windows-uses-rn-newlines-instead-of-n-126l)
 
 ### C
 
