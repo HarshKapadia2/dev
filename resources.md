@@ -691,6 +691,7 @@
 -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
 -   `libc` and `libm`
     -   [what is `libc`?](https://stackoverflow.com/questions/20396471/what-is-libc-what-are-the-functions-it-includes-how-can-we-get-the-source-code)
+        -   [`libc` vs `glibc`](https://stackoverflow.com/a/54053221/11958552)
     -   [Why do you need an explicit `-lm` compiler option?](https://stackoverflow.com/questions/10371647/why-do-you-need-an-explicit-lm-compiler-option)
     -   [Why do you have to link the math library in C?](https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c)
 -   `_t` data types
