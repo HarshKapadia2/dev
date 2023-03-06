@@ -681,6 +681,8 @@
 -   [Newline](https://en.wikipedia.org/wiki/Newline)
 -   [`\r\n` vs `\n\r` what is the difference in their behavior?](https://stackoverflow.com/questions/43607389/r-n-vs-n-r-what-is-the-difference-in-their-behavior)
 -   [Why Windows uses `\r\n` newlines instead of `\n`](https://dev.to/pieter/why-windows-uses-rn-newlines-instead-of-n-126l)
+-   [What Are Teletypes, and Why Were They Used with Computers?](https://www.howtogeek.com/727213/what-are-teletypes-and-why-were-they-used-with-computers)
+    -   [Video with `CR` and `LF` keys on a Teletype Model 33 ASR!](https://youtu.be/ObgXrIYKQjc)
 
 ### C
 
