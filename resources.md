@@ -705,6 +705,10 @@
     -   [Buffer Overflow Attack](https://owasp.org/www-community/attacks/Buffer_overflow_attack)
     -   [`fgets()` and `gets_s()`](https://www.cisa.gov/uscert/bsi/articles/knowledge/coding-practices/fgets-and-gets_s)
     -   [Common vulnerabilities guide for C programmers](https://security.web.cern.ch/recommendations/en/codetools/c.shtml)
+    -   [Heartbleed bug](https://networking.harshkapadia.me/tls#heartbleed-bug)
+-   Memory layout
+    -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
+    -   [Smashing the Stack for Fun and Profit](https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf) ([UCB hosted](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf))
 -   Docs
     -   [Docs](https://devdocs.io/c)
     -   [Docs](https://www.mkssoftware.com/docs/man3/memcpy.3.asp) (Modify links)
