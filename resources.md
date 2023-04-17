@@ -709,6 +709,9 @@
 -   Memory layout
     -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
     -   [Smashing the Stack for Fun and Profit](https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf) ([UCB hosted](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf))
+-   Structure Packing
+    -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
+    -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
 -   Docs
     -   [Docs](https://devdocs.io/c)
     -   [Docs](https://www.mkssoftware.com/docs/man3/memcpy.3.asp) (Modify links)
