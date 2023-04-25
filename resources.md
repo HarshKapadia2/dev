@@ -1,4 +1,4 @@
-# My Web Dev Resources
+# My Dev Resources
 
 -   The crash course in each section is the bare minimum that should be done.
 -   The resources have been aligned in a logical manner that should be followed.
@@ -65,13 +65,14 @@
         -   [Git](#git)
         -   [Deployment/Hosting](#deploymenthosting)
         -   [YAML](#yaml)
-        -   [Scripting](#scripting)
+        -   [Scripting](#shell-scripting)
         -   [CI/CD](#cicd)
         -   [Docker](#docker)
         -   [Cloud](#cloud)
     -   [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
     -   [New Lines/Line Endings](#new-linesline-endings)
 -   [C](#c)
+-   [Linux](#linux)
 
 ## My Resources
 
@@ -626,9 +627,10 @@
 -   [Crash course](https://www.youtube.com/watch?v=1uFVr15xDGg)
 -   [Different string quotes and their meanings](https://stackoverflow.com/a/69850618/11958552)
 
-##### Scripting
+##### Shell Scripting
 
--   [cli](https://harshkapadia2.github.io/cli)
+-   [Shell and Shell scripting](https://harshkapadia2.github.io/cli)
+-   [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 
 ##### CI/CD
 
@@ -716,3 +718,11 @@
     -   [Docs](https://devdocs.io/c)
     -   [Docs](https://www.mkssoftware.com/docs/man3/memcpy.3.asp) (Modify links)
 -   [Phone Book project](https://github.com/HarshKapadia2/phone-book)
+
+### Linux
+
+-   [The Missing Semester of Your CS Education](#the-missing-semester-of-cs-education)
+-   [Shell and Shell scripting](#shell-scripting)
+-   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
+-   [C programming](#c)
+-   [Networking](https://networking.harshkapadia.me/linux)

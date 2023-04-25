@@ -146,7 +146,7 @@ Learn and apply in an infinite loop.
 > TIP: Deploy the web site/web app that you made!
 
 -   YAML
--   Scripting
+-   Shell Scripting
 -   CI/CD (I still have to do this)
 -   Docker
 
@@ -155,3 +155,5 @@ Learn and apply in an infinite loop.
 #### New Lines/Line Endings
 
 ### C
+
+### Linux
