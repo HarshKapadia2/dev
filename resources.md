@@ -304,8 +304,7 @@
 
 #### RegEx
 
--   [Crash course](https://www.youtube.com/watch?v=rhzKDrUiJVk)
--   [RegEx summarised in 100 seconds](https://www.youtube.com/watch?v=sXQxhojSdZM)
+-   [My RegEx notes and resources](https://harshkapadia2.github.io/regex)
 
 #### SVG
 
