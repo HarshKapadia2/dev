@@ -38,6 +38,7 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 | CLI                                    | Jekyll                                                             |                                                     [link](https://harshkapadia2.github.io/cli)                                                     |                [link](https://github.com/HarshKapadia2/cli)                 |
 | Docker                                 | Jekyll                                                             |                                                   [link](https://harshkapadia2.github.io/docker)                                                    |               [link](https://github.com/HarshKapadia2/docker)               |
 | RegEx                                  | HTML, JS                                                           |                                                    [link](https://harshkapadia2.github.io/regex)                                                    |               [link](https://github.com/HarshKapadia2/regex)                |
+| Linux                                  | Jekyll                                                           |                                                    [link](https://linux.harshkapadia.me)                                                    |               [link](https://github.com/HarshKapadia2/linux)                |
 
 ## Web Sites
 
