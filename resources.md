@@ -720,8 +720,4 @@
 
 ### Linux
 
--   [The Missing Semester of Your CS Education](#the-missing-semester-of-cs-education)
--   [Shell and Shell scripting](#shell-scripting)
--   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
--   [C programming](#c)
--   [Networking](https://networking.harshkapadia.me/linux)
+-   [linux.harshkapadia.me](https://linux.harshkapadia.me)
