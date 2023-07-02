@@ -227,11 +227,14 @@
 
 -   Sessions by me
     -   [Git Basics - The Basics of Git and GitHub](https://talks.harshkapadia.me/git_basics)
+    -   [The basics of Branching, Issues and Pull Requests](https://youtu.be/LfgDc7BbhaY?t=946)
     -   [Git Internals - How does Git work!?](https://talks.harshkapadia.me/git_internals)
     -   [Hacktoberfest, Open Source and Pull Requests](https://talks.harshkapadia.me/otc_open_source_hacktoberfest_2020)
+    -   [More talks](https://talks.harshkapadia.me)
 -   [git_basics PWA](https://harshkapadia2.github.io/git_basics)
 -   [Git Internals PWA](https://git.harshkapadia.me)
 -   [Crash course by Brad Traversy](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+-   [Git Server](https://github.com/HarshKapadia2/git-server)
 
 #### Web Design
 
@@ -630,6 +633,7 @@
 
 -   [Shell and Shell scripting](https://harshkapadia2.github.io/cli)
 -   [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
+-   [Dotfiles](https://github.com/HarshKapadia2/dotfiles)
 
 ##### CI/CD
 
