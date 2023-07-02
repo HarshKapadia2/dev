@@ -692,6 +692,10 @@
 -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
 -   [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
+-   Compilers
+    -   [GCC vs Clang](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
+    -   [Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
+    -   [Writing a compiler with LLVM](https://www.youtube.com/watch?v=vrRXIQDCCEk)
 -   `libc` and `libm`
     -   [what is `libc`?](https://stackoverflow.com/questions/20396471/what-is-libc-what-are-the-functions-it-includes-how-can-we-get-the-source-code)
         -   [`libc` vs `glibc`](https://stackoverflow.com/a/54053221/11958552)
