@@ -699,6 +699,7 @@
 -   Compilers
     -   [GCC vs Clang](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
     -   [Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
+	-	[what's the Secret Sauce that makes code work?](https://www.youtube.com/watch?v=2y1IgW2T8bo)
     -   [Writing a compiler with LLVM](https://www.youtube.com/watch?v=vrRXIQDCCEk)
 -   `libc` and `libm`
     -   [what is `libc`?](https://stackoverflow.com/questions/20396471/what-is-libc-what-are-the-functions-it-includes-how-can-we-get-the-source-code)
