@@ -43,9 +43,10 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 
 ## Scripts
 
-| Script     |                        Repo                         |
-| ---------- | :-------------------------------------------------: |
-| Git Server | [link](https://github.com/HarshKapadia2/git-server) |
+| Script      |                         Repo                         |
+| ----------- | :--------------------------------------------------: |
+| Dynamic DNS | [link](https://github.com/HarshKapadia2/dynamic-dns) |
+| Git Server  | [link](https://github.com/HarshKapadia2/git-server)  |
 
 ## Web Sites
 
