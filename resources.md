@@ -70,7 +70,9 @@
         -   [Docker](#docker)
         -   [Cloud](#cloud)
     -   [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
-    -   [New Lines/Line Endings](#new-linesline-endings)
+    -   [Character Sets and Encoding](#charcter-sets-and-encoding)
+        -   [Unicode](#unicode)
+        -   [New Lines/Line Endings](#new-linesline-endings)
 -   [C](#c)
 -   [Linux](#linux)
 
@@ -657,7 +659,14 @@
 
 -   [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 
-#### New Lines/Line Endings
+#### Character Sets and Encoding
+
+##### Unicode
+
+-   [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses)
+-   [What are Unicode, UTF-8, and UTF-16?](https://stackoverflow.com/questions/2241348/what-are-unicode-utf-8-and-utf-16)
+
+##### New Lines/Line Endings
 
 -   Also called 'Newline' and 'line break'.
 -   Types
