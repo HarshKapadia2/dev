@@ -70,7 +70,7 @@
         -   [Docker](#docker)
         -   [Cloud](#cloud)
     -   [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
-    -   [Character Sets and Encoding](#charcter-sets-and-encoding)
+    -   [Character Sets and Encoding](#character-sets-and-encoding)
         -   [Unicode](#unicode)
         -   [New Lines/Line Endings](#new-linesline-endings)
 -   [C](#c)
