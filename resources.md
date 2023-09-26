@@ -698,14 +698,22 @@
 -   [What Are Teletypes, and Why Were They Used with Computers?](https://www.howtogeek.com/727213/what-are-teletypes-and-why-were-they-used-with-computers)
     -   [Video with `CR` and `LF` keys on a Teletype Model 33 ASR!](https://youtu.be/ObgXrIYKQjc)
 
+##### Misc Characters
+
+-   [Deleting a single character involves three characters (`\b \b`).](https://stackoverflow.com/a/24404619/11958552)
+
 ### C
 
 -   [C introduction notes](./files/c/c-intro-notes-manjrekar.pdf)
+-   [Char Comparison in C](https://stackoverflow.com/questions/22736348/char-comparison-in-c)
+-   [C warning: 'Function declaration isn't a prototype'](https://stackoverflow.com/a/20843829/11958552)
+    -   Why `int foo() { /* ... */ }` gives a warning and `int foo(void) { /* ... */}` resolves it.
 -   [Pointers, Pointer Mathematics, C memory structure, debugging, `objdump`, `strace`, `nm`, etc. YouTube playlist](https://www.youtube.com/watch?v=BuiX6vsiEfo&list=PLc7W4b0WHTAWusrFLTv8abWMIYFimp7bi&index=1)
 -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
 -   [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
 -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
 -   [Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)
+-   [Single quotes vs. double quotes in C or C++](https://stackoverflow.com/questions/3683602/single-quotes-vs-double-quotes-in-c-or-c)
 -   Compilers
     -   [GCC vs Clang](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
     -   [Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
@@ -732,6 +740,7 @@
 -   Structure Packing
     -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
     -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
+-   [How can I check my byte flag, verifying that a specific bit is at 1 or 0?](https://stackoverflow.com/questions/127027/how-can-i-check-my-byte-flag-verifying-that-a-specific-bit-is-at-1-or-0)
 -   Docs
     -   [Docs](https://devdocs.io/c)
     -   [Docs](https://www.mkssoftware.com/docs/man3/memcpy.3.asp) (Modify links)
