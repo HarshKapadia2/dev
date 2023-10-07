@@ -40,6 +40,7 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 | Docker                                 | Jekyll                                                             |                                                   [link](https://harshkapadia2.github.io/docker)                                                    |               [link](https://github.com/HarshKapadia2/docker)               |
 | RegEx                                  | HTML, JS                                                           |                                                    [link](https://harshkapadia2.github.io/regex)                                                    |               [link](https://github.com/HarshKapadia2/regex)                |
 | Cloud                                  | Jekyll                                                             |                                                    [link](https://harshkapadia2.github.io/cloud)                                                    |               [link](https://github.com/HarshKapadia2/cloud)                |
+| Assembly                               | -                                                                  |                                                                          -                                                                          |              [link](https://github.com/HarshKapadia2/assembly)              |
 
 ## Scripts
 
