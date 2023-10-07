@@ -704,16 +704,22 @@
 
 ### C
 
+-   [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
+-   [You Can Write Your First C Program In 10 Minutes](https://www.youtube.com/watch?v=BuiX6vsiEfo)
 -   [C introduction notes](./files/c/c-intro-notes-manjrekar.pdf)
--   [Char Comparison in C](https://stackoverflow.com/questions/22736348/char-comparison-in-c)
 -   [C warning: 'Function declaration isn't a prototype'](https://stackoverflow.com/a/20843829/11958552)
     -   Why `int foo() { /* ... */ }` gives a warning and `int foo(void) { /* ... */}` resolves it.
--   [Pointers, Pointer Mathematics, C memory structure, debugging, `objdump`, `strace`, `nm`, etc. YouTube playlist](https://www.youtube.com/watch?v=BuiX6vsiEfo&list=PLc7W4b0WHTAWusrFLTv8abWMIYFimp7bi&index=1)
--   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
--   [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
--   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
--   [Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)
--   [Single quotes vs. double quotes in C or C++](https://stackoverflow.com/questions/3683602/single-quotes-vs-double-quotes-in-c-or-c)
+-   Header files
+    -   [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
+    -   [why do header files even exist?](https://www.youtube.com/watch?v=tOQZlD-0Scc)
+-   Pointers
+    -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+    -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
+    -   [why do void pointers even exist?](https://www.youtube.com/watch?v=t7CUti_7d7c)
+-   Characters and strings
+    -   [Char Comparison in C](https://stackoverflow.com/questions/22736348/char-comparison-in-c)
+    -   [Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)
+    -   [Single quotes vs. double quotes in C or C++](https://stackoverflow.com/questions/3683602/single-quotes-vs-double-quotes-in-c-or-c)
 -   Compilers
     -   [GCC vs Clang](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
     -   [Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
@@ -724,19 +730,26 @@
         -   [`libc` vs `glibc`](https://stackoverflow.com/a/54053221/11958552)
     -   [Why do you need an explicit `-lm` compiler option?](https://stackoverflow.com/questions/10371647/why-do-you-need-an-explicit-lm-compiler-option)
     -   [Why do you have to link the math library in C?](https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c)
+-   [What is the difference between C, C99, ANSI C and GNU C?](https://stackoverflow.com/questions/17206568/what-is-the-difference-between-c-c99-ansi-c-and-gnu-c)
 -   `_t` data types
     -   [All Those `_t` Data Types](https://c-for-dummies.com/blog/?p=5059)
     -   [What Is The `_t` In `Uint8_t`](https://techexplorations.com/guides/arduino/programming/_t-in-uint8_t/#:~:text=So%2C%20in%20the%20C99%20standard,platform%20the%20program%20runs%20on.)
     -   [What does a type followed by `_t` (underscore-t) represent?](https://stackoverflow.com/questions/231760/what-does-a-type-followed-by-t-underscore-t-represent)
 -   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
--   Buffer Overflow Attack in C
+-   Buffer Overflow Attack
+    -   [why do hackers love strings?](https://www.youtube.com/watch?v=fjMrDDj47E8)
+    -   [how do hackers exploit buffers that are too small?](https://www.youtube.com/watch?v=qpyRz5lkRjE)
     -   [Buffer Overflow Attack](https://owasp.org/www-community/attacks/Buffer_overflow_attack)
     -   [`fgets()` and `gets_s()`](https://www.cisa.gov/uscert/bsi/articles/knowledge/coding-practices/fgets-and-gets_s)
     -   [Common vulnerabilities guide for C programmers](https://security.web.cern.ch/recommendations/en/codetools/c.shtml)
     -   [Heartbleed bug](https://networking.harshkapadia.me/tls#heartbleed-bug)
+    -   [how can memory safe code STOP HACKERS?](https://www.youtube.com/watch?v=lxUYZVX_FjQ)
+-   [everything is open source if you can reverse engineer](https://www.youtube.com/watch?v=gh2RXE9BIN8)
 -   Memory layout
     -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
+    -   [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
     -   [Smashing the Stack for Fun and Profit](https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf) ([UCB hosted](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf))
+    -   [do you understand how "return" works?](https://www.youtube.com/watch?v=e46wHUjNDjE)
 -   Structure Packing
     -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
     -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
