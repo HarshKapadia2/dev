@@ -706,6 +706,7 @@
 
 -   [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
 -   [You Can Write Your First C Program In 10 Minutes](https://www.youtube.com/watch?v=BuiX6vsiEfo)
+-   [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent)
 -   [C introduction notes](./files/c/c-intro-notes-manjrekar.pdf)
 -   [C warning: 'Function declaration isn't a prototype'](https://stackoverflow.com/a/20843829/11958552)
     -   Why `int foo() { /* ... */ }` gives a warning and `int foo(void) { /* ... */}` resolves it.
@@ -719,6 +720,7 @@
 -   Characters and strings
     -   [Char Comparison in C](https://stackoverflow.com/questions/22736348/char-comparison-in-c)
     -   [Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)
+    -   [Why/when to include terminating `\0` character for C Strings?](https://stackoverflow.com/questions/46261028/why-when-to-include-terminating-0-character-for-c-strings)
     -   [Single quotes vs. double quotes in C or C++](https://stackoverflow.com/questions/3683602/single-quotes-vs-double-quotes-in-c-or-c)
 -   Compilers
     -   [GCC vs Clang](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
@@ -745,6 +747,9 @@
     -   [Heartbleed bug](https://networking.harshkapadia.me/tls#heartbleed-bug)
     -   [how can memory safe code STOP HACKERS?](https://www.youtube.com/watch?v=lxUYZVX_FjQ)
 -   [everything is open source if you can reverse engineer](https://www.youtube.com/watch?v=gh2RXE9BIN8)
+-   Arrays
+    -   [Passing arrays as `int arr[2]`, `int *arr[2]`, `int (*arr)[2]`, etc.](https://stackoverflow.com/a/51527502/11958552)
+        -   [Tool to translate C expressions like `int *arr[2]` vs `int (*arr)[2]` into English](https://cdecl.org)
 -   Memory layout
     -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
     -   [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
