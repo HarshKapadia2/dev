@@ -221,7 +221,7 @@
     -   [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ&feature=youtu.be)
     -   [Concept Visualise - JavaScript Internals](https://www.youtube.com/watch?v=R4jZ_Mylqaw)
     -   [JS Internals Visualizer](https://www.jsv9000.app)
-    -   [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) | [Tweet](https://twitter.com/reactify_in/status/1309843620179054592)
+    -   [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) ([Tweet](https://twitter.com/reactify_in/status/1309843620179054592))
 
 ### Misc #1
 
@@ -713,6 +713,14 @@
 -   Header files
     -   [Header files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm)
     -   [why do header files even exist?](https://www.youtube.com/watch?v=tOQZlD-0Scc)
+    -   [Should I use `#include` in headers?](https://stackoverflow.com/questions/1804486/should-i-use-include-in-headers)
+    -   Header file locations in Linux
+        -   [Where is the `stdio.h` file located in Linux while using the gcc.7.2 compiler?](https://stackoverflow.com/questions/46043225/where-is-the-stdio-h-file-located-in-linux-while-using-the-gcc-7-2-compiler)
+        -   [Where is `stdbool.h`?](https://stackoverflow.com/questions/1656874/where-is-stdbool-h)
+-   Include Guards
+    -   [Why are `#ifndef` and `#define` used in C++ header files?](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files)
+    -   [What exactly do C include guards do?](https://stackoverflow.com/questions/27810115/what-exactly-do-c-include-guards-do)
+    -   [What is the conventional way of writing include guards?](https://stackoverflow.com/questions/17307540/what-is-the-conventional-way-of-writing-include-guards)
 -   Pointers
     -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
     -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
@@ -733,10 +741,18 @@
     -   [Why do you need an explicit `-lm` compiler option?](https://stackoverflow.com/questions/10371647/why-do-you-need-an-explicit-lm-compiler-option)
     -   [Why do you have to link the math library in C?](https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c)
 -   [What is the difference between C, C99, ANSI C and GNU C?](https://stackoverflow.com/questions/17206568/what-is-the-difference-between-c-c99-ansi-c-and-gnu-c)
--   `_t` data types
-    -   [All Those `_t` Data Types](https://c-for-dummies.com/blog/?p=5059)
-    -   [What Is The `_t` In `Uint8_t`](https://techexplorations.com/guides/arduino/programming/_t-in-uint8_t/#:~:text=So%2C%20in%20the%20C99%20standard,platform%20the%20program%20runs%20on.)
-    -   [What does a type followed by `_t` (underscore-t) represent?](https://stackoverflow.com/questions/231760/what-does-a-type-followed-by-t-underscore-t-represent)
+-   Data types and variables
+    -   [What are the rules about using an underscore in a C identifier?](https://stackoverflow.com/questions/69084726/what-are-the-rules-about-using-an-underscore-in-a-c-identifier)
+    -   `_t` data types
+        -   [All Those `_t` Data Types](https://c-for-dummies.com/blog/?p=5059)
+        -   [What Is The `_t` In `Uint8_t`](https://techexplorations.com/guides/arduino/programming/_t-in-uint8_t/#:~:text=So%2C%20in%20the%20C99%20standard,platform%20the%20program%20runs%20on.)
+        -   [What does a type followed by `_t` (underscore-t) represent?](https://stackoverflow.com/questions/231760/what-does-a-type-followed-by-t-underscore-t-represent)
+    -   Using the `L` suffix for `long` data types
+        -   [what is the reason for explicitly declaring `L` or `UL` for `long` values](https://stackoverflow.com/a/13139304/11958552)
+        -   [What's the point of adding an "l" at the end of an int or long int when you define it?](https://www.reddit.com/r/C_Programming/comments/kcvhhs/comment/gftgaa7)
+            -   [Overflow demo](https://gist.github.com/HarshKapadia2/eaf501d241b2798d5672ed102b780b82)
+        -   [Using the letter L in long variable declaration](https://stackoverflow.com/questions/17738232/using-the-letter-l-in-long-variable-declaration)
+        -   [From Java: Integer Literals](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html#:~:text=Values%20of%20the%20integral%20types%20byte%2C%20short%2C%20int%2C%20and%20long%20can%20be%20created%20from%20int%20literals.%20Values%20of%20type%20long%20that%20exceed%20the%20range%20of%20int%20can%20be%20created%20from%20long%20literals.)
 -   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
 -   Buffer Overflow Attack
     -   [why do hackers love strings?](https://www.youtube.com/watch?v=fjMrDDj47E8)
@@ -752,12 +768,14 @@
         -   [Tool to translate C expressions like `int *arr[2]` vs `int (*arr)[2]` into English](https://cdecl.org)
 -   Memory layout
     -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
-    -   [The Origins of Process Memory | Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
+    -   [The Origins of Process Memory - Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
     -   [Smashing the Stack for Fun and Profit](https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf) ([UCB hosted](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf))
     -   [do you understand how "return" works?](https://www.youtube.com/watch?v=e46wHUjNDjE)
--   Structure Packing
-    -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
-    -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
+-   Structures (`struct`s)
+    -   [Difference between `->` and `.` in a struct?](https://stackoverflow.com/questions/5998599/difference-between-and-in-a-struct)
+    -   Structure Packing
+        -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
+        -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
 -   [How can I check my byte flag, verifying that a specific bit is at 1 or 0?](https://stackoverflow.com/questions/127027/how-can-i-check-my-byte-flag-verifying-that-a-specific-bit-is-at-1-or-0)
 -   Docs
     -   [Docs](https://devdocs.io/c)
