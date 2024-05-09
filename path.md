@@ -141,12 +141,14 @@ Learn and apply in an infinite loop.
 #### DevOps
 
 -   Git (covered above)
+-   Shell Scripting
+-   Build Systems
+    -   Make
 -   Deployment/hosting
 
 > TIP: Deploy the web site/web app that you made!
 
 -   YAML
--   Shell Scripting
 -   CI/CD (I still have to do this)
 -   Docker
 

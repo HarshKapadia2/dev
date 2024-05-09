@@ -63,9 +63,10 @@
     -   [Firebase](#firebase)
     -   [DevOps](#devops)
         -   [Git](#git)
+        -   [Scripting](#shell-scripting)
+        -   [Build Systems](#build-systems)
         -   [Deployment/Hosting](#deploymenthosting)
         -   [YAML](#yaml)
-        -   [Scripting](#shell-scripting)
         -   [CI/CD](#cicd)
         -   [Docker](#docker)
         -   [Cloud](#cloud)
@@ -609,6 +610,22 @@
 
 -   Covered in the [Git and GitHub section](#git-and-github) above.
 
+##### Shell Scripting
+
+-   [Shell and Shell scripting](https://harshkapadia2.github.io/cli)
+-   [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
+-   [Dotfiles](https://github.com/HarshKapadia2/dotfiles)
+
+##### Build Systems
+
+-   Make
+    -   [Make basics](https://www.youtube.com/watch?v=a8mPKBxQ9No)
+    -   [Makefiles: 95% of what you need to know](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
+    -   [Sample Makefile from a project](https://github.com/HarshKapadia2/parse-elf/blob/main/Makefile)
+    -   [What do the makefile symbols `$@` and `$<` mean?](https://stackoverflow.com/questions/3220277/what-do-the-makefile-symbols-and-mean)
+    -   [What's the difference between `:=` and `=` in Makefile?](https://stackoverflow.com/questions/4879592/whats-the-difference-between-and-in-makefile)
+    -   [What is the purpose of `.PHONY` in a Makefile?](https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile)
+
 ##### Deployment/Hosting
 
 -   For web sites only
@@ -630,12 +647,6 @@
 
 -   [Crash course](https://www.youtube.com/watch?v=1uFVr15xDGg)
 -   [Different string quotes and their meanings](https://stackoverflow.com/a/69850618/11958552)
-
-##### Shell Scripting
-
--   [Shell and Shell scripting](https://harshkapadia2.github.io/cli)
--   [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
--   [Dotfiles](https://github.com/HarshKapadia2/dotfiles)
 
 ##### CI/CD
 
