@@ -718,7 +718,9 @@
 -   [C in 100 Seconds](https://www.youtube.com/watch?v=U3aXWizDbQ4)
 -   [You Can Write Your First C Program In 10 Minutes](https://www.youtube.com/watch?v=BuiX6vsiEfo)
 -   [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent)
+-   [Is C programming language low level or high level?](https://softwareengineering.stackexchange.com/questions/303117/is-c-programming-language-low-level-or-high-level)
 -   [C introduction notes](./files/c/c-intro-notes-manjrekar.pdf)
+-   [`int main()` vs `void main()` vs `int main(void)` in C](https://www.codesdope.com/blog/article/int-main-vs-void-main-vs-int-mainvoid-in-c-c)
 -   [C warning: 'Function declaration isn't a prototype'](https://stackoverflow.com/a/20843829/11958552)
     -   Why `int foo() { /* ... */ }` gives a warning and `int foo(void) { /* ... */}` resolves it.
 -   Header files
@@ -736,6 +738,8 @@
     -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
     -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
     -   [why do void pointers even exist?](https://www.youtube.com/watch?v=t7CUti_7d7c)
+    -   [Pointer arithmetic cannot be performed on void pointers](https://stackoverflow.com/questions/6449935/increment-void-pointer-by-one-byte-by-two)
+    -   [How does incrementing memory address affects pointer](https://stackoverflow.com/questions/56608384/how-does-incrementing-memory-address-affects-pointer) (excellent example)
 -   Characters and strings
     -   [Char Comparison in C](https://stackoverflow.com/questions/22736348/char-comparison-in-c)
     -   [Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)
@@ -753,7 +757,7 @@
     -   [Why do you have to link the math library in C?](https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c)
 -   [What is the difference between C, C99, ANSI C and GNU C?](https://stackoverflow.com/questions/17206568/what-is-the-difference-between-c-c99-ansi-c-and-gnu-c)
 -   Data types and variables
-    -   [What are the rules about using an underscore in a C identifier?](https://stackoverflow.com/questions/69084726/what-are-the-rules-about-using-an-underscore-in-a-c-identifier)
+    -   [What is the use of typedef?](https://stackoverflow.com/questions/2566027/what-is-the-use-of-typedef)
     -   `_t` data types
         -   [All Those `_t` Data Types](https://c-for-dummies.com/blog/?p=5059)
         -   [What Is The `_t` In `Uint8_t`](https://techexplorations.com/guides/arduino/programming/_t-in-uint8_t/#:~:text=So%2C%20in%20the%20C99%20standard,platform%20the%20program%20runs%20on.)
@@ -764,10 +768,12 @@
             -   [Overflow demo](https://gist.github.com/HarshKapadia2/eaf501d241b2798d5672ed102b780b82)
         -   [Using the letter L in long variable declaration](https://stackoverflow.com/questions/17738232/using-the-letter-l-in-long-variable-declaration)
         -   [From Java: Integer Literals](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html#:~:text=Values%20of%20the%20integral%20types%20byte%2C%20short%2C%20int%2C%20and%20long%20can%20be%20created%20from%20int%20literals.%20Values%20of%20type%20long%20that%20exceed%20the%20range%20of%20int%20can%20be%20created%20from%20long%20literals.)
+    -   [What are the rules about using an underscore in a C identifier?](https://stackoverflow.com/questions/69084726/what-are-the-rules-about-using-an-underscore-in-a-c-identifier)
 -   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
 -   Buffer Overflow Attack
     -   [why do hackers love strings?](https://www.youtube.com/watch?v=fjMrDDj47E8)
     -   [how do hackers exploit buffers that are too small?](https://www.youtube.com/watch?v=qpyRz5lkRjE)
+    -   [Does buffer-overflow causes segfault only when an important pointer is overwritten?](https://stackoverflow.com/questions/45740014/does-buffer-overflow-causes-segfault-only-when-an-important-pointer-is-overwritt)
     -   [Buffer Overflow Attack](https://owasp.org/www-community/attacks/Buffer_overflow_attack)
     -   [`fgets()` and `gets_s()`](https://www.cisa.gov/uscert/bsi/articles/knowledge/coding-practices/fgets-and-gets_s)
     -   [Common vulnerabilities guide for C programmers](https://security.web.cern.ch/recommendations/en/codetools/c.shtml)
@@ -780,8 +786,16 @@
 -   Memory layout
     -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
     -   [The Origins of Process Memory - Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
+    -   [demystifying the secret structure you've been using all along (stack)](https://www.youtube.com/watch?v=CRTR5ljBjPM)
     -   [Smashing the Stack for Fun and Profit](https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf) ([UCB hosted](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf))
     -   [do you understand how "return" works?](https://www.youtube.com/watch?v=e46wHUjNDjE)
+-   Bitwise operations
+    -   [Basics of Bit Manipulation](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial)
+    -   [What does tilde(`~`) operator do?](https://stackoverflow.com/questions/3952122/what-does-tilde-operator-do)
+    -   [C/C++ check if one bit is set in, i.e. int variable](https://stackoverflow.com/questions/523724/c-c-check-if-one-bit-is-set-in-i-e-int-variable)
+    -   [Modify a bit at a given position](https://www.geeksforgeeks.org/modify-bit-given-position)
+    -   [How do I change bits in specific positions to specific values?](https://stackoverflow.com/questions/53478679/c-how-do-i-change-bits-in-specific-positions-to-specific-values)
+    -   [Set, Clear and Toggle a given bit of a number in C](https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c)
 -   Structures (`struct`s)
     -   [Difference between `->` and `.` in a struct?](https://stackoverflow.com/questions/5998599/difference-between-and-in-a-struct)
     -   Structure Packing
