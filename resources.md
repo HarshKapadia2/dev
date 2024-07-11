@@ -625,6 +625,7 @@
     -   [What do the makefile symbols `$@` and `$<` mean?](https://stackoverflow.com/questions/3220277/what-do-the-makefile-symbols-and-mean)
     -   [What's the difference between `:=` and `=` in Makefile?](https://stackoverflow.com/questions/4879592/whats-the-difference-between-and-in-makefile)
     -   [What is the purpose of `.PHONY` in a Makefile?](https://stackoverflow.com/questions/2145590/what-is-the-purpose-of-phony-in-a-makefile)
+    -   [Difference between CC, gcc and g++?](https://stackoverflow.com/questions/1516609/difference-between-cc-gcc-and-g)
 
 ##### Deployment/Hosting
 
@@ -747,6 +748,7 @@
     -   [Single quotes vs. double quotes in C or C++](https://stackoverflow.com/questions/3683602/single-quotes-vs-double-quotes-in-c-or-c)
 -   Compilers
     -   [GCC vs Clang](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
+    -   [Difference between CC, gcc and g++?](https://stackoverflow.com/questions/1516609/difference-between-cc-gcc-and-g)
     -   [Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
     -   [what's the Secret Sauce that makes code work?](https://www.youtube.com/watch?v=2y1IgW2T8bo)
     -   [Writing a compiler with LLVM](https://www.youtube.com/watch?v=vrRXIQDCCEk)
@@ -769,6 +771,9 @@
         -   [Using the letter L in long variable declaration](https://stackoverflow.com/questions/17738232/using-the-letter-l-in-long-variable-declaration)
         -   [From Java: Integer Literals](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html#:~:text=Values%20of%20the%20integral%20types%20byte%2C%20short%2C%20int%2C%20and%20long%20can%20be%20created%20from%20int%20literals.%20Values%20of%20type%20long%20that%20exceed%20the%20range%20of%20int%20can%20be%20created%20from%20long%20literals.)
     -   [What are the rules about using an underscore in a C identifier?](https://stackoverflow.com/questions/69084726/what-are-the-rules-about-using-an-underscore-in-a-c-identifier)
+-   `const` keyword
+    -   [How do I best use the const keyword in C?](https://stackoverflow.com/questions/14401856/how-do-i-best-use-the-const-keyword-in-c)
+    -   [expected expected `const char **` but argument is of type `char **`](https://stackoverflow.com/questions/28783534/expected-expected-const-char-but-argument-is-of-type-char)
 -   [What is POSIX? Why Does it Matter to Linux/UNIX Users?](https://itsfoss.com/posix)
 -   Buffer Overflow Attack
     -   [why do hackers love strings?](https://www.youtube.com/watch?v=fjMrDDj47E8)
@@ -781,6 +786,7 @@
     -   [how can memory safe code STOP HACKERS?](https://www.youtube.com/watch?v=lxUYZVX_FjQ)
 -   [everything is open source if you can reverse engineer](https://www.youtube.com/watch?v=gh2RXE9BIN8)
 -   Arrays
+    -   [Returning an array using C](https://stackoverflow.com/questions/11656532/returning-an-array-using-c)
     -   [Passing arrays as `int arr[2]`, `int *arr[2]`, `int (*arr)[2]`, etc.](https://stackoverflow.com/a/51527502/11958552)
         -   [Tool to translate C expressions like `int *arr[2]` vs `int (*arr)[2]` into English](https://cdecl.org)
 -   Memory layout
