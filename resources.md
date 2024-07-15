@@ -680,6 +680,8 @@
 
 ##### New Lines/Line Endings
 
+-   [A line, as defined by POSIX](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/V1_chap03.html#tag_03_206), is a sequence of zero or more non- `<newline>` characters plus a terminating `<newline>` character.
+    -   There are multiple ways that a newline character can be defined, mainly based on the Operating System, as shown below.
 -   Also called 'Newline' and 'line break'.
 -   Types
     -   Carriage Return
@@ -703,6 +705,11 @@
     -   New Line
         -   EBCDIC: `NL`
 -   > ...different system uses different line break. Carriage Return is used on old Macintosh operating systems. UNIX based systems including Linux and Mac OS X use Line Feed, while most of non-Unix operating systems use End of Line (`\r\n`). Therefore, good code should handle all kind of line breaks. ([Source](https://www.woolha.com/tutorials/dart-split-string-by-newline-using-linesplitter#:~:text=Sometimes%20we%20may,CR%20%2B%20LF.))
+-   Why should text files have a new line at the end?
+    -   [Why should text files end with a newline?](https://gist.github.com/OleksiyRudenko/d51388345ea55767b7672307fe35adf3)
+    -   [Please add newlines at end of files](https://gist.github.com/camh-/1bebfcff1b0f814e9b191edc60d5206b)
+    -   [Why should text files end with a newline?](https://stackoverflow.com/questions/729692/why-should-text-files-end-with-a-newline)
+    -   [What's the point in adding a new line to the end of a file?](https://unix.stackexchange.com/questions/18743/whats-the-point-in-adding-a-new-line-to-the-end-of-a-file)
 -   [What's a Carriage and Who's Feeding it Lines? CRLF](https://www.youtube.com/watch?v=TtiBhktB4Qg)
 -   [Newline](https://en.wikipedia.org/wiki/Newline)
 -   [`\r\n` vs `\n\r` what is the difference in their behavior?](https://stackoverflow.com/questions/43607389/r-n-vs-n-r-what-is-the-difference-in-their-behavior)
