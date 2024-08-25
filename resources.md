@@ -797,11 +797,7 @@
     -   [Passing arrays as `int arr[2]`, `int *arr[2]`, `int (*arr)[2]`, etc.](https://stackoverflow.com/a/51527502/11958552)
         -   [Tool to translate C expressions like `int *arr[2]` vs `int (*arr)[2]` into English](https://cdecl.org)
 -   Memory layout
-    -   [Memory Layout of C Programs](https://www.geeksforgeeks.org/memory-layout-of-c-program)
-    -   [The Origins of Process Memory - Exploring the Use of Various Memory Allocators in Linux C](https://www.youtube.com/watch?v=c7xf5dvUb_Q)
-    -   [demystifying the secret structure you've been using all along (stack)](https://www.youtube.com/watch?v=CRTR5ljBjPM)
-    -   [Smashing the Stack for Fun and Profit](https://networking.harshkapadia.me/files/tls/smashing-the-stack-for-fun-and-profit.pdf) ([UCB hosted](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf))
-    -   [do you understand how "return" works?](https://www.youtube.com/watch?v=e46wHUjNDjE)
+    -   [Memory Layout and Compilers](https://linux.harshkapadia.me/#memory-layout-and-compilers)
 -   Bitwise operations
     -   [Basics of Bit Manipulation](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial)
     -   [What does tilde(`~`) operator do?](https://stackoverflow.com/questions/3952122/what-does-tilde-operator-do)
