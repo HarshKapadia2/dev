@@ -2,40 +2,41 @@
 
 All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 
+## Utilities
+
+| Utility   |                        Repo                        |
+| --------- | :------------------------------------------------: |
+| Parse ELF | [link](https://github.com/HarshKapadia2/parse-elf) |
+
 ## Web Apps
 
-| Web App                | Front End                                                                         | Back End              |                         Live Demo                         |                                  Repo                                  |
-| ---------------------- | --------------------------------------------------------------------------------- | --------------------- | :-------------------------------------------------------: | :--------------------------------------------------------------------: |
-| Git Graph              | React.js                                                                          | -                     |         [link](https://git-graph.harshkapadia.me)         |           [link](https://github.com/HarshKapadia2/git-graph)           |
-| OTC CatchUp            | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta, Shell  |         [link](https://catchup.ourtech.community)         |          [link](https://github.com/OurTechCommunity/catchup)           |
-| HPS Gems               | HTML, CSS, JS                                                                     | PHP, MySQL, Heroku    |          [link](https://hps-gems.herokuapp.com)           |           [link](https://github.com/HarshKapadia2/hps-gems)            |
-| Preview Markdown       | React.js, CSS                                                                     | -                     | [link](https://harshkapadia2.github.io/preview-markdown)  |       [link](https://github.com/HarshKapadia2/preview-markdown)        |
-| IPL APP (AI)           | React.js                                                                          | Flask, `scikit-learn` |      [link](https://harshkapadia2.github.io/ipl-app)      |            [link](https://github.com/HarshKapadia2/ipl-app)            |
-| Attendance Manager     | Template                                                                          | Flask, Firebase       | [link](https://attendance-management-flask.herokuapp.com) |     [link](https://github.com/HarshKapadia2/attendance_management)     |
-| Counter                | React.js, CSS                                                                     | -                     | [link](https://harshkapadia2.github.io/react-js-counter)  |       [link](https://github.com/HarshKapadia2/react-js-counter)        |
-| Calculator             | HTML, CSS, JS                                                                     | -                     |    [link](https://harshkapadia2.github.io/calculator)     |          [link](https://github.com/HarshKapadia2/calculator)           |
-| Food Oye (Mobile only) | HTML, Bootstrap, JS                                                               | Node.js, Firebase     |                             -                             |            [link](https://github.com/rajatrjoshi/food-oye)             |
-| 1 or 2? (AI)           | HTML, CSS, JS                                                                     | Flask                 |                             -                             |          [link](https://github.com/HarshKapadia2/one-or-two)           |
-| Court Case Management  | HTML, CSS, JS                                                                     | Node.js, MongoDB      |                             -                             | [link](https://github.com/HarshKapadia2/court_case_management_web_app) |
-
-## Templates
-
-| Template        | Front End            |                       Live Demo                        |                           Repo                           |
-| --------------- | -------------------- | :----------------------------------------------------: | :------------------------------------------------------: |
-| Asciidoctor Jet | Asciidoctor, CSS, JS | [PWA](https://harshkapadia2.github.io/asciidoctor-jet) | [link](https://github.com/HarshKapadia2/asciidoctor-jet) |
+| Web App                | Front End                                                                         | Back End              |                           Live Demo                           |                                  Repo                                  |
+| ---------------------- | --------------------------------------------------------------------------------- | --------------------- | :-----------------------------------------------------------: | :--------------------------------------------------------------------: |
+| Git Graph              | React.js                                                                          | -                     |           [link](https://git-graph.harshkapadia.me)           |           [link](https://github.com/HarshKapadia2/git-graph)           |
+| OTC CatchUp            | HTML, CSS, JS, [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | Node.js, Deta, Shell  |           [link](https://catchup.ourtech.community)           |          [link](https://github.com/OurTechCommunity/catchup)           |
+| HPS Gems               | HTML, CSS, JS                                                                     | PHP, MySQL, Heroku    |          ~~[link](https://hps-gems.herokuapp.com)~~           |           [link](https://github.com/HarshKapadia2/hps-gems)            |
+| Preview Markdown       | React.js, CSS                                                                     | -                     |   [link](https://harshkapadia2.github.io/preview-markdown)    |       [link](https://github.com/HarshKapadia2/preview-markdown)        |
+| IPL APP (AI)           | React.js                                                                          | Flask, `scikit-learn` |      ~~[link](https://harshkapadia2.github.io/ipl-app)~~      |            [link](https://github.com/HarshKapadia2/ipl-app)            |
+| Attendance Manager     | Template                                                                          | Flask, Firebase       | ~~[link](https://attendance-management-flask.herokuapp.com)~~ |     [link](https://github.com/HarshKapadia2/attendance_management)     |
+| Counter                | React.js, CSS                                                                     | -                     |   [link](https://harshkapadia2.github.io/react-js-counter)    |       [link](https://github.com/HarshKapadia2/react-js-counter)        |
+| Calculator             | HTML, CSS, JS                                                                     | -                     |      [link](https://harshkapadia2.github.io/calculator)       |          [link](https://github.com/HarshKapadia2/calculator)           |
+| Food Oye (Mobile only) | HTML, Bootstrap, JS                                                               | Node.js, Firebase     |                               -                               |            [link](https://github.com/rajatrjoshi/food-oye)             |
+| 1 or 2? (AI)           | HTML, CSS, JS                                                                     | Flask                 |                               -                               |          [link](https://github.com/HarshKapadia2/one-or-two)           |
+| Court Case Management  | HTML, CSS, JS                                                                     | Node.js, MongoDB      |                               -                               | [link](https://github.com/HarshKapadia2/court_case_management_web_app) |
 
 ## Documentation
 
 | Documentation                          | Front End                                                          |                                                                      Web Site                                                                       |                                    Repo                                     |
 | -------------------------------------- | ------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
+| Compilation Examples                   | -                                                                  |                                                                          -                                                                          |        [link](https://github.com/HarshKapadia2/compilation-examples)        |
 | Git Internals                          | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) |                                                         [PWA](https://git.harshkapadia.me)                                                          |           [link](https://github.com/HarshKapadia2/git_internals)            |
 | Performance Comparison of TCP Versions | Asciidoctor                                                        |                                     [link](https://harshkapadia2.github.io/tcp-version-performance-comparison)                                      | [link](https://github.com/HarshKapadia2/tcp-version-performance-comparison) |
 | Computer Networking                    | Jekyll                                                             |                                                     [link](https://networking.harshkapadia.me)                                                      |             [link](https://github.com/HarshKapadia2/networking)             |
-| My Talks                               | Jekyll                                                             |                                                        [link](https://talks.harshkapadia.me)                                                        |               [link](https://github.com/HarshKapadia2/talks)                |
+| My talks                               | Jekyll                                                             |                                                        [link](https://talks.harshkapadia.me)                                                        |               [link](https://github.com/HarshKapadia2/talks)                |
 | Linux                                  | Jekyll                                                             |                                                        [link](https://linux.harshkapadia.me)                                                        |               [link](https://github.com/HarshKapadia2/linux)                |
 | Dotfiles                               | -                                                                  |                                                                          -                                                                          |              [link](https://github.com/HarshKapadia2/dotfiles)              |
 | git_basics                             | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | [PWA](https://harshkapadia2.github.io/git_basics) or [Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics) |             [link](https://github.com/HarshKapadia2/git_basics)             |
-| Web Dev                                | Jekyll                                                             |                                                         [link](https://dev.harshkapadia.me)                                                         |              [link](https://github.com/HarshKapadia2/web-dev)               |
+| Dev                                    | Jekyll                                                             |                                                         [link](https://dev.harshkapadia.me)                                                         |                [link](https://github.com/HarshKapadia2/dev)                 |
 | CLI                                    | Jekyll                                                             |                                                     [link](https://harshkapadia2.github.io/cli)                                                     |                [link](https://github.com/HarshKapadia2/cli)                 |
 | Docker                                 | Jekyll                                                             |                                                   [link](https://harshkapadia2.github.io/docker)                                                    |               [link](https://github.com/HarshKapadia2/docker)               |
 | RegEx                                  | HTML, JS                                                           |                                                    [link](https://harshkapadia2.github.io/regex)                                                    |               [link](https://github.com/HarshKapadia2/regex)                |
@@ -49,6 +50,12 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 | Dynamic DNS          | [link](https://github.com/HarshKapadia2/dynamic-dns) |
 | Git Server           | [link](https://github.com/HarshKapadia2/git-server)  |
 | Pimoroni Badger 2040 | [link](https://github.com/HarshKapadia2/badger-2040) |
+
+## Templates
+
+| Template        | Front End            |                       Live Demo                        |                           Repo                           |
+| --------------- | -------------------- | :----------------------------------------------------: | :------------------------------------------------------: |
+| Asciidoctor Jet | Asciidoctor, CSS, JS | [PWA](https://harshkapadia2.github.io/asciidoctor-jet) | [link](https://github.com/HarshKapadia2/asciidoctor-jet) |
 
 ## Web Sites
 
