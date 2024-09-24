@@ -758,12 +758,14 @@
     -   [Difference between CC, gcc and g++?](https://stackoverflow.com/questions/1516609/difference-between-cc-gcc-and-g)
     -   [Why is C Compiler So Smart?](https://www.youtube.com/watch?v=juWM6saNCZk)
     -   [what's the Secret Sauce that makes code work?](https://www.youtube.com/watch?v=2y1IgW2T8bo)
+    -   Going over all compilation steps: [github.com/HarshKapadia2/compilation-examples](https://github.com/HarshKapadia2/compilation-examples)
     -   [Writing a compiler with LLVM](https://www.youtube.com/watch?v=vrRXIQDCCEk)
 -   `libc` and `libm`
     -   [what is `libc`?](https://stackoverflow.com/questions/20396471/what-is-libc-what-are-the-functions-it-includes-how-can-we-get-the-source-code)
         -   [`libc` vs `glibc`](https://stackoverflow.com/a/54053221/11958552)
     -   [Why do you need an explicit `-lm` compiler option?](https://stackoverflow.com/questions/10371647/why-do-you-need-an-explicit-lm-compiler-option)
     -   [Why do you have to link the math library in C?](https://stackoverflow.com/questions/1033898/why-do-you-have-to-link-the-math-library-in-c)
+    -   [Location of C standard library](https://stackoverflow.com/questions/5925678/location-of-c-standard-library)
 -   [What is the difference between C, C99, ANSI C and GNU C?](https://stackoverflow.com/questions/17206568/what-is-the-difference-between-c-c99-ansi-c-and-gnu-c)
 -   Data types and variables
     -   [What is the use of typedef?](https://stackoverflow.com/questions/2566027/what-is-the-use-of-typedef)
