@@ -748,6 +748,7 @@
     -   [why do void pointers even exist?](https://www.youtube.com/watch?v=t7CUti_7d7c)
     -   [Pointer arithmetic cannot be performed on void pointers](https://stackoverflow.com/questions/6449935/increment-void-pointer-by-one-byte-by-two)
     -   [How does incrementing memory address affects pointer](https://stackoverflow.com/questions/56608384/how-does-incrementing-memory-address-affects-pointer) (excellent example)
+    -   [Constant pointer vs Pointer to constant](https://stackoverflow.com/questions/21476869/constant-pointer-vs-pointer-to-constant)
 -   Characters and strings
     -   [Char Comparison in C](https://stackoverflow.com/questions/22736348/char-comparison-in-c)
     -   [Why do strings in C need to be null terminated?](https://stackoverflow.com/questions/2221304/why-do-strings-in-c-need-to-be-null-terminated)
@@ -812,6 +813,10 @@
     -   Structure Packing
         -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
         -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
+-   Unions
+    -   [Purpose of Unions in C and C++](https://stackoverflow.com/questions/2310483/purpose-of-unions-in-c-and-c)
+-   Macros
+    -   [Macro vs Function in C](https://stackoverflow.com/questions/9104568/macro-vs-function-in-c)
 -   [How can I check my byte flag, verifying that a specific bit is at 1 or 0?](https://stackoverflow.com/questions/127027/how-can-i-check-my-byte-flag-verifying-that-a-specific-bit-is-at-1-or-0)
 -   Docs
     -   [Docs](https://devdocs.io/c)
