@@ -134,6 +134,7 @@ Learn and apply in an infinite loop.
 
 ### Common path for everyone
 
+-   Favicon
 -   Web performance
 -   SEO
 -   Firebase

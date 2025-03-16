@@ -57,6 +57,7 @@
         -   [XML](#xml)
     -   [React.js](#reactjs)
 -   [Misc #2](#misc-2)
+    -   [Favicon](#favicon)
     -   [Web Performance](#web-performance)
     -   [SEO](#seo)
         -   [`robots.txt`](#robotstxt)
@@ -99,6 +100,7 @@
     -   [Get Your Head Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU)
         -   [ct.css](https://csswizardry.com/ct) - A diagnostic CSS snippet that exposes potential performance issues in a HTML document’s `<head>` tag.
     -   [HEAD](https://github.com/joshbuchea/HEAD) - A list of a lot of things that could go in the head of a HTML document.
+    -   [A list of all HTML meta tags](https://accreditly.io/articles/a-list-of-all-html-meta-tags)
 -   The Open Graph Protocol (OGP)
     -   [ogp.me](https://ogp.me)
     -   Articles
@@ -581,6 +583,14 @@
     -   [Understanding React's UI Rendering Process](https://www.youtube.com/watch?v=i793Qm6kv3U)
 
 ### Misc #2
+
+#### Favicon
+
+-   [Favicon Standard - 2024 - svg, ico, png and dimensions?](https://stackoverflow.com/questions/48956465/favicon-standard-2024-svg-ico-png-and-dimensions)
+-   [What is the best practice for creating a favicon on a web site?](https://stackoverflow.com/questions/25952907/what-is-the-best-practice-for-creating-a-favicon-on-a-web-site)
+-   [Does a favicon have to be 32×32 or 16×16?](https://stackoverflow.com/questions/4014823/does-a-favicon-have-to-be-32%C3%9732-or-16%C3%9716)
+-   [How to add a favicon to your website — The modern browser guide](https://loqbooq.app/blog/add-favicon-modern-browser-guide)
+-   [RealFaviconGenerator](https://realfavicongenerator.net)
 
 #### Web Performance
 
