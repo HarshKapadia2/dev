@@ -738,7 +738,7 @@
 -   [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent)
 -   [Is C programming language low level or high level?](https://softwareengineering.stackexchange.com/questions/303117/is-c-programming-language-low-level-or-high-level)
 -   [C introduction notes](./files/c/c-intro-notes-manjrekar.pdf)
--   [`int main()` vs `void main()` vs `int main(void)` in C](https://www.codesdope.com/blog/article/int-main-vs-void-main-vs-int-mainvoid-in-c-c)
+-   [`int main()` vs `void main()` vs `int main(void)` in C](https://web.archive.org/web/20230208173548/https://www.codesdope.com/blog/article/int-main-vs-void-main-vs-int-mainvoid-in-c-c)
 -   [C warning: 'Function declaration isn't a prototype'](https://stackoverflow.com/a/20843829/11958552)
     -   Why `int foo() { /* ... */ }` gives a warning and `int foo(void) { /* ... */}` resolves it.
 -   Header files
@@ -752,6 +752,9 @@
     -   [Why are `#ifndef` and `#define` used in C++ header files?](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files)
     -   [What exactly do C include guards do?](https://stackoverflow.com/questions/27810115/what-exactly-do-c-include-guards-do)
     -   [What is the conventional way of writing include guards?](https://stackoverflow.com/questions/17307540/what-is-the-conventional-way-of-writing-include-guards)
+-	Libraries and compiling multiple files together
+	-	[HOWTO: C Libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
+	-	[How to define common function in c](https://stackoverflow.com/questions/24984744/how-to-define-common-function-in-c)
 -   Pointers
     -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
     -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
@@ -823,6 +826,7 @@
     -   Structure Packing
         -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
         -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
+	-	[Why Does Field Order in Your struct Matter](https://medium.com/@matheuscoppi22/why-does-field-order-in-your-struct-matter-430f8c54351a)
 -   Unions
     -   [Purpose of Unions in C and C++](https://stackoverflow.com/questions/2310483/purpose-of-unions-in-c-and-c)
 -   Macros
