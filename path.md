@@ -55,6 +55,8 @@ Learn and apply in an infinite loop.
 -   HTML
 -   CSS (vanilla and frameworks)
 -   JS (vanilla)
+-   TypeScript (vanilla)
+    -   Not compulsory to do
 
 ### Misc
 

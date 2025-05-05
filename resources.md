@@ -10,6 +10,7 @@
     -   [HTML](#html)
     -   [CSS](#css)
     -   [JS](#js)
+    -   [TypeScript](#typescript)
 -   [Misc #1](#misc-1)
     -   [Git and GitHub](#git-and-github)
     -   [Web Design](#web-design)
@@ -225,6 +226,11 @@
     -   [Concept Visualise - JavaScript Internals](https://www.youtube.com/watch?v=R4jZ_Mylqaw)
     -   [JS Internals Visualizer](https://www.jsv9000.app)
     -   [Scheduling in JS and browsers](https://www.youtube.com/watch?v=z96oKTUSQjE) ([Tweet](https://twitter.com/reactify_in/status/1309843620179054592))
+
+#### TypeScript
+
+-   [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs)
+-   [Learn TypeScript Generics In 13 Minutes](https://www.youtube.com/watch?v=EcCTIExsqmI)
 
 ### Misc #1
 
@@ -752,9 +758,9 @@
     -   [Why are `#ifndef` and `#define` used in C++ header files?](https://stackoverflow.com/questions/1653958/why-are-ifndef-and-define-used-in-c-header-files)
     -   [What exactly do C include guards do?](https://stackoverflow.com/questions/27810115/what-exactly-do-c-include-guards-do)
     -   [What is the conventional way of writing include guards?](https://stackoverflow.com/questions/17307540/what-is-the-conventional-way-of-writing-include-guards)
--	Libraries and compiling multiple files together
-	-	[HOWTO: C Libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
-	-	[How to define common function in c](https://stackoverflow.com/questions/24984744/how-to-define-common-function-in-c)
+-   Libraries and compiling multiple files together
+    -   [HOWTO: C Libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
+    -   [How to define common function in c](https://stackoverflow.com/questions/24984744/how-to-define-common-function-in-c)
 -   Pointers
     -   [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)
     -   [What is `char **` in C?](https://stackoverflow.com/questions/13353807/what-is-char-in-c)
@@ -826,7 +832,7 @@
     -   Structure Packing
         -   [The forgotten art of Struct Packing in C/C++.](https://www.joshcaratelli.com/blog/struct-packing)
         -   [What is the meaning of `__attribute__((packed, aligned(4)))`?](https://stackoverflow.com/questions/11770451/what-is-the-meaning-of-attribute-packed-aligned4)
-	-	[Why Does Field Order in Your struct Matter](https://medium.com/@matheuscoppi22/why-does-field-order-in-your-struct-matter-430f8c54351a)
+    -   [Why Does Field Order in Your struct Matter](https://medium.com/@matheuscoppi22/why-does-field-order-in-your-struct-matter-430f8c54351a)
 -   Unions
     -   [Purpose of Unions in C and C++](https://stackoverflow.com/questions/2310483/purpose-of-unions-in-c-and-c)
 -   Macros
