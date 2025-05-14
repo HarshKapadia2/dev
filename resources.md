@@ -232,6 +232,7 @@
 -   [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs)
 -   [Learn TypeScript Generics In 13 Minutes](https://www.youtube.com/watch?v=EcCTIExsqmI)
 -   [What does "keyof typeof" mean in TypeScript?](https://stackoverflow.com/questions/55377365/what-does-keyof-typeof-mean-in-typescript)
+-   [`unknown` vs `any`](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
 
 ### Misc #1
 
