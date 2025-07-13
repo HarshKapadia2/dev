@@ -34,7 +34,6 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 | Computer Networking                    | Jekyll                                                             |                                                       [link](https://networking.harshkapadia.me)                                                        |             [link](https://github.com/HarshKapadia2/networking)             |
 | My talks                               | Jekyll                                                             |                                                          [link](https://talks.harshkapadia.me)                                                          |               [link](https://github.com/HarshKapadia2/talks)                |
 | Linux                                  | Jekyll                                                             |                                                          [link](https://linux.harshkapadia.me)                                                          |               [link](https://github.com/HarshKapadia2/linux)                |
-| Dotfiles                               | -                                                                  |                                                                            -                                                                            |              [link](https://github.com/HarshKapadia2/dotfiles)              |
 | git_basics                             | [Asciidoctor Jet](https://harshkapadia2.github.io/asciidoctor-jet) | [PWA](https://harshkapadia2.github.io/git_basics) or ~~[Play Store (TWA)](https://play.google.com/store/apps/details?id=com.harsh_kapadia.git_basics)~~ |             [link](https://github.com/HarshKapadia2/git_basics)             |
 | Dev                                    | Jekyll                                                             |                                                           [link](https://dev.harshkapadia.me)                                                           |                [link](https://github.com/HarshKapadia2/dev)                 |
 | CLI                                    | Jekyll                                                             |                                                       [link](https://harshkapadia2.github.io/cli)                                                       |                [link](https://github.com/HarshKapadia2/cli)                 |
@@ -47,6 +46,7 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 
 | Script               |                         Repo                         |
 | -------------------- | :--------------------------------------------------: |
+| Dotfiles             | [link](https://github.com/HarshKapadia2/dotfiles)    |
 | Dynamic DNS          | [link](https://github.com/HarshKapadia2/dynamic-dns) |
 | Git Server           | [link](https://github.com/HarshKapadia2/git-server)  |
 | Pimoroni Badger 2040 | [link](https://github.com/HarshKapadia2/badger-2040) |
