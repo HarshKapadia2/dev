@@ -233,6 +233,8 @@
 -   [Learn TypeScript Generics In 13 Minutes](https://www.youtube.com/watch?v=EcCTIExsqmI)
 -   [What does "keyof typeof" mean in TypeScript?](https://stackoverflow.com/questions/55377365/what-does-keyof-typeof-mean-in-typescript)
 -   [`unknown` vs `any`](https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0)
+-   [TypeScript's Utility Types](https://www.youtube.com/watch?v=EU0TB_8KHpY)
+-   [`as const`: the most underrated TypeScript feature](https://www.youtube.com/watch?v=6M9aZzm-kEc)
 
 ### Misc #1
 
@@ -570,6 +572,7 @@
 
 -   [React in 100 Seconds](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
 -   [Crash course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+-   [body as root instead of div](https://www.reddit.com/r/react/comments/vp677x/body_as_root_instead_of_div)
 -   Hooks
     -   [`useState` array pass by reference gotcha](https://stackoverflow.com/a/67354136/11958552)
     -   [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q)
@@ -579,6 +582,21 @@
 -   Memoization
     -   [Understanding re-rendering and memoization in React](https://engineering.udacity.com/understanding-re-rendering-and-memoization-in-react-13e8c024c2b4)
     -   [Use `React.memo()` wisely](https://dmitripavlutin.com/use-react-memo-wisely)
+-   React with TypeScript
+    -   [Complete Guide to Setting Up React with TypeScript and Vite (2025)](https://medium.com/@robinviktorsson/complete-guide-to-setting-up-react-with-typescript-and-vite-2025-468f6556aaf2)
+    -   [Blazing Fast Tips: React & TypeScript](https://www.youtube.com/watch?v=37PafxU_uzQ)
+-   Redux and Redux Toolkit (RTK)
+    -   [Redux in 100 Seconds](https://www.youtube.com/watch?v=_shA5Xwe8_4)
+    -   [Redux - Complete Tutorial (with Redux Toolkit)](https://www.youtube.com/watch?v=5yEG6GhoJBs)
+-   Redux Toolkit Query (RTK Query or RTKQ)
+    -   [Use Redux Thunk and RTKQuery together](https://stackoverflow.com/questions/75532817/use-redux-thunk-and-rtkquery-together)
+    -   RTK Query vs React Query (now TanStack Query)
+        -   [React Query in 100 Seconds](https://www.youtube.com/watch?v=novnyCaa7To)
+        -   [RTK Query vs React Query: Which One Should You Use?](https://www.linkedin.com/pulse/rtk-query-vs-react-which-one-should-you-use-dinesh-kumar-erj6f)
+        -   [Redux Toolkit vs React Query: Do You Really Need Both?](https://dev.to/taronvardanyan/redux-toolkit-vs-react-query-do-you-really-need-both-3m9d)
+    -   [RTK Query in React (Complete Tutorial)](https://www.youtube.com/watch?v=NGdUPRFQXYg)
+-   React Hook Form
+    -   [React Hook Form Course for Beginners (inc. Zod + Material UI)](https://www.youtube.com/watch?v=JyeWoqWsQFo)
 -   [30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React)
 -   Internals
     -   [How a React App Works Under the Hood](https://www.youtube.com/watch?v=TjnyFNxQ67Y) (High level stuff in 14 mins.)
