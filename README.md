@@ -9,9 +9,3 @@ Have a look at:
 -   [My resources](resources.md)
 
 Feel free to [contact me](https://links.harshkapadia.me)!
-
----
-
-[GitHub repo](https://github.com/HarshKapadia2/dev)
-
-Hosted at [dev.harshkapadia.me](https://dev.harshkapadia.me).
