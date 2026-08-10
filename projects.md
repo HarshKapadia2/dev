@@ -2,6 +2,12 @@
 
 All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 
+## Benchmarks
+
+| Benchmarks |                        Repo                         |
+| ---------- | :-------------------------------------------------: |
+| Benchmarks | [link](https://github.com/HarshKapadia2/benchmarks) |
+
 ## Utilities
 
 | Utility   |                        Repo                        |
@@ -41,12 +47,13 @@ All of [Harsh Kapadia](https://harshkapadia.me)'s projects.
 | RegEx                                  | HTML, JS                                                           |                                                      [link](https://harshkapadia2.github.io/regex)                                                      |               [link](https://github.com/HarshKapadia2/regex)                |
 | Cloud                                  | Jekyll                                                             |                                                      [link](https://harshkapadia2.github.io/cloud)                                                      |               [link](https://github.com/HarshKapadia2/cloud)                |
 | Assembly                               | -                                                                  |                                                                            -                                                                            |              [link](https://github.com/HarshKapadia2/assembly)              |
+| Birding                                | Jekyll                                                             |                                                         [link](https://birding.harshkapadia.me)                                                         |              [link](https://github.com/HarshKapadia2/birding)               |
 
 ## Scripts
 
 | Script               |                         Repo                         |
 | -------------------- | :--------------------------------------------------: |
-| Dotfiles             | [link](https://github.com/HarshKapadia2/dotfiles)    |
+| Dotfiles             |  [link](https://github.com/HarshKapadia2/dotfiles)   |
 | Dynamic DNS          | [link](https://github.com/HarshKapadia2/dynamic-dns) |
 | Git Server           | [link](https://github.com/HarshKapadia2/git-server)  |
 | Pimoroni Badger 2040 | [link](https://github.com/HarshKapadia2/badger-2040) |
