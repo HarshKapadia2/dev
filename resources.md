@@ -72,6 +72,8 @@
         - [CI/CD](#cicd)
         - [Docker](#docker)
         - [Cloud](#cloud)
+        - [MAAS](#maas)
+        - [Observability](#observability)
     - [The Missing Semester of CS Education](#the-missing-semester-of-cs-education)
     - [Character Sets and Encoding](#character-sets-and-encoding)
         - [Unicode](#unicode)
@@ -675,6 +677,7 @@
     - [Python Anywhere](https://www.pythonanywhere.com) (Only for Python web sites and web apps.)
     - [Firebase Hosting](https://firebase.google.com/docs/hosting) (Dynamic: Only Node.js supported through Cloud Functions)
     - [Digital Ocean](https://www.digitalocean.com/solutions/website-hosting)
+    - Railway
 - Domain names
     - [.js.org](https://js.org) (For users, organizations, projects, etc.) (free)
     - [.is-a.dev](https://www.is-a.dev) (For portfolio web sites.) (free)
@@ -702,6 +705,18 @@
 ##### Cloud
 
 - [My notes and resources](https://harshkapadia2.github.io/cloud)
+
+##### MAAS
+
+- [OTC Talks #9: Implementing High Availability for MAAS-based Automated OS Installs](https://www.youtube.com/watch?v=ATBTyvPrOx8)
+
+##### Observability
+
+- Also called O11y
+- Prometheus
+    - [Prometheus in 120 seconds](https://www.youtube.com/watch?v=owcPJBvyU8Y)
+    - [Prometheus Fundamentals](https://www.youtube.com/playlist?list=PLyBW7UHmEXgylLwxdVbrBQJ-fJ_jMvh8h) (includes some basics of Grafana)
+- Grafana
 
 #### The Missing Semester of CS Education
 

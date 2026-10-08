@@ -154,6 +154,9 @@ Learn and apply in an infinite loop.
 - YAML
 - CI/CD (I still have to do this)
 - Docker
+- Cloud
+- MAAS
+- Observability
 
 #### The Missing Semester of CS Education
 
